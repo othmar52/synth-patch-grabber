@@ -1,0 +1,129 @@
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange
+A.11,Mana Longing,0,,0,,,Favourites,,,1
+A.12,Bad Mahal,0,,1,,,Favourites,,,2
+A.13,Thunderfat,0,,2,,,Favourites,,,3
+A.14,Key Tramp,0,,3,,,Favourites,,,4
+A.15,Steel Pan,0,,4,,,Favourites,,,5
+A.16,Plinka Box,0,,5,,,Favourites,,,6
+A.17,Boston,0,,6,,,Favourites,,,7
+A.18,Silent Bella,0,,7,,,Favourites,,,8
+A.21,Bass Toe,0,,8,,,Bass,,,9
+A.22,Bassup,0,,9,,,Bass,,,10
+A.23,Boss Time,0,,10,,,Bass,,,11
+A.24,Bass mass,0,,11,,,Bass,,,12
+A.25,Synth Bass,0,,12,,,Bass,,,13
+A.26,Damnit Bass,0,,13,,,Bass,,,14
+A.27,Basstic,0,,14,,,Bass,,,15
+A.28,Just Bass,0,,15,,,Bass,,,16
+A.31,Key Bolton,0,,16,,,Keyboards,,,17
+A.32,Key Some,0,,17,,,Keyboards,,,18
+A.33,Key Thump,0,,18,,,Keyboards,,,19
+A.34,Key Mute,0,,19,,,Keyboards,,,20
+A.35,End Piano,0,,20,,,Keyboards,,,21
+A.36,Clavio,0,,21,,,Keyboards,,,22
+A.37,Sqeet Fox,0,,22,,,Keyboards,,,23
+A.38,Beardy Birds,0,,23,,,Keyboards,,,24
+A.41,Visconsin,0,,24,,,Sadventure,,,25
+A.42,Kitaro,0,,25,,,Sadventure,,,26
+A.43,SecretString,0,,26,,,Sadventure,,,27
+A.44,Hesa Hasse,0,,27,,,Sadventure,,,28
+A.45,Vibes,0,,28,,,Sadventure,,,29
+A.46,Setback,0,,29,,,Sadventure,,,30
+A.47,Whistler,0,,30,,,Sadventure,,,31
+A.48,Grain Spray,0,,31,,,Sadventure,,,32
+A.51,Bit Stars,0,,32,,,8-Bit,,,33
+A.52,BlandSquare,0,,33,,,8-Bit,,,34
+A.53,NESquare,0,,34,,,8-Bit,,,35
+A.54,NESWIZ,0,,35,,,8-Bit,,,36
+A.55,PitchDZA,0,,36,,,8-Bit,,,37
+A.56,PitchPatch,0,,37,,,8-Bit,,,38
+A.57,Clarisquare,0,,38,,,8-Bit,,,39
+A.58,Clarisquat,0,,39,,,8-Bit,,,40
+A.61,4ever Y,0,,40,,,Pads,,,41
+A.62,Dead Tower,0,,41,,,Pads,,,42
+A.63,Pad Mahal,0,,42,,,Pads,,,43
+A.64,Cric Mahal,0,,43,,,Pads,,,44
+A.65,Almost Heaven,0,,44,,,Pads,,,45
+A.66,Future Chron,0,,45,,,Pads,,,46
+A.67,Dolphester,0,,46,,,Pads,,,47
+A.68,Aunt Eve,0,,47,,,Pads,,,48
+A.71,Final Boss,0,,48,,,Arpeggio,,,49
+A.72,Cuckonga,0,,49,,,Arpeggio,,,50
+A.73,Boom Cha,0,,50,,,Arpeggio,,,51
+A.74,Quant Moment,0,,51,,,Arpeggio,,,52
+A.75,Multipeggio,0,,52,,,Arpeggio,,,53
+A.76,Risotto,0,,53,,,Arpeggio,,,54
+A.77,Peggiotto,0,,54,,,Arpeggio,,,55
+A.78,Spot On,0,,55,,,Arpeggio,,,56
+A.81,Sqeetypie,0,,56,,,Voice Like,,,57
+A.82,Squilt Song,0,,57,,,Voice Like,,,58
+A.83,Vixel Pixel,0,,58,,,Voice Like,,,59
+A.84,Vixel Piano,0,,59,,,Voice Like,,,60
+A.85,Tunnel bass,0,,60,,,Voice Like,,,61
+A.86,Weoweo,0,,61,,,Voice Like,,,62
+A.87,Argh,0,,62,,,Voice Like,,,63
+A.88,Save Shrine,0,,63,,,Voice Like,,,64
+B.11,Orgaston,0,,64,,,Organ,,,65
+B.12,Orgail,0,,65,,,Organ,,,66
+B.13,Orgain,0,,66,,,Organ,,,67
+B.14,Keyth,0,,67,,,Organ,,,68
+B.15,Orfar,0,,68,,,Organ,,,69
+B.16,Organ Pain,0,,69,,,Organ,,,70
+B.17,Nostrilamus,0,,70,,,Organ,,,71
+B.18,Boost Boss,0,,71,,,Organ,,,72
+B.21,Chrono bell,0,,72,,,Bell,,,73
+B.22,PlingPlague,0,,73,,,Bell,,,74
+B.23,Bellica,0,,74,,,Bell,,,75
+B.24,The Tower,0,,75,,,Bell,,,76
+B.25,Steel Panner,0,,76,,,Bell,,,77
+B.26,Stroked Bell,0,,77,,,Bell,,,78
+B.27,Bath Tubular,0,,78,,,Bell,,,79
+B.28,Blade blast,0,,79,,,Bell,,,80
+B.31,Thunderforte,0,,80,,,FM,,,81
+B.32,Thunderfat,0,,81,,,FM,,,82
+B.33,Thunderfault,0,,82,,,FM,,,83
+B.34,Thunderfeil,0,,83,,,FM,,,84
+B.35,Thunderror,0,,84,,,FM,,,85
+B.36,MechaCuckoo,0,,85,,,FM,,,86
+B.37,Nei Drops,0,,86,,,FM,,,87
+B.38,Beybey,0,,87,,,FM,,,88
+B.41,Shred Fred,0,,88,,,Solo,,,89
+B.42,Fluterier,0,,89,,,Solo,,,90
+B.43,Squitten,0,,90,,,Solo,,,91
+B.44,Eff Monotise,0,,91,,,Solo,,,92
+B.45,Beardy Bads,0,,92,,,Solo,,,93
+B.46,Happy Again,0,,93,,,Solo,,,94
+B.47,Evilin,0,,94,,,Solo,,,95
+B.48,Tub Bub,0,,95,,,Solo,,,96
+B.51,Chembalong,0,,96,,,Synth,,,97
+B.52,Kitty,0,,97,,,Synth,,,98
+B.53,Data Date,0,,98,,,Synth,,,99
+B.54,Pheena,0,,99,,,Synth,,,100
+B.55,Catwinkle,0,,100,,,Synth,,,101
+B.56,Mornie,0,,101,,,Synth,,,102
+B.57,Axel F,0,,102,,,Synth,,,103
+B.58,Peacer,0,,103,,,Synth,,,104
+B.61,Moms Grandma,0,,104,,,Background,,,105
+B.62,Plinka Pix,0,,105,,,Background,,,106
+B.63,WayBackOrgan,0,,106,,,Background,,,107
+B.64,Grumpa,0,,107,,,Background,,,108
+B.65,Fague Voyage,0,,108,,,Background,,,109
+B.66,MockLock,0,,109,,,Background,,,110
+B.67,Sqeet Vox,0,,110,,,Background,,,111
+B.68,Sqeet Piano,0,,111,,,Background,,,112
+B.71,HerpDerp,0,,112,,,Glitch,,,113
+B.72,Bengan,0,,113,,,Glitch,,,114
+B.73,Patchinko,0,,114,,,Glitch,,,115
+B.74,MoSteel,0,,115,,,Glitch,,,116
+B.75,Digistorm,0,,116,,,Glitch,,,117
+B.76,Datatheft,0,,117,,,Glitch,,,118
+B.77,Peg Bro,0,,118,,,Glitch,,,119
+B.78,Peg Sis,0,,119,,,Glitch,,,120
+B.81,Hello V,0,,120,,,Mic Input,,,121
+B.82,Lost Phone M,0,,121,,,Mic Input,,,122
+B.83,Sing Me Down,0,,122,,,Mic Input,,,123
+B.84,Faster,0,,123,,,Mic Input,,,124
+B.85,Stronger,0,,124,,,Mic Input,,,125
+B.86,Slow Peggy,0,,125,,,Mic Input,,,126
+B.87,Bit Vox Peg,0,,126,,,Mic Input,,,127
+B.88,Bit Vox,0,,127,,,Mic Input,,,128

@@ -1,0 +1,101 @@
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange,comment
+01,Typical,0,,50,,,Lead,,,51,Preset+KB01
+02,Metasync,0,,51,,,Lead,,,52,Preset+KB02
+03,Bobcat,0,,52,,,Lead,,,53,Preset+KB03
+04,Analog SID-Chip,0,,53,,,Lead/FX,,,54,Preset+KB04
+05,Full Bandwide,0,,54,,,Lead/Bass,,,55,Preset+KB05
+06,Simply Nice,0,,55,,,Lead,,,56,Preset+KB06
+07,Stepping Filter,0,,56,,,Seq,,,57,Preset+KB07
+08,Full Square,0,,57,,,Lead/Seq,,,58,Preset+KB08
+09,Phatt Bass,0,,58,,,Bass/Sub,,,59,Preset+KB09
+10,DX Plus,0,,59,,,Lead/Seq,,,60,Preset+KB10
+11,Sweep Ring,0,,60,,,Seq/Lead,,,61,Preset+KB11
+12,Attack Bass,0,,61,,,Bass,,,62,Preset+KB12
+13,Mind Scanner,0,,62,,,FX,,,63,Preset+KB13
+14,Small PWM,0,,63,,,Lead/Bass,,,64,Preset+KB14
+15,FM Bass,0,,64,,,Bass/Seq,,,65,Preset+KB15
+16,Random Step-VCF,0,,65,,,Bass/Seq,,,66,Preset+KB16
+17,Channel Cord,0,,66,,,Seq,,,67,Preset+KB17
+18,Glider,0,,67,,,Lead/Seq,,,68,Preset+KB18
+19,Dual Ring,0,,68,,,Seq/Lead,,,69,Preset+KB19
+20,Slide Saw,0,,69,,,Lead,,,70,Preset+KB20
+21,LFO Liner,0,,70,,,Bass/Seq,,,71,Preset+KB21
+22,90s Detuned Hook,0,,71,,,Seq/Lead,,,72,Preset+KB22
+23,Thin & Ugly,0,,72,,,Seq,,,73,Preset+KB23
+24,Less Paul,0,,73,,,Guitar,,,74,Preset+KB24
+25,Messing Flute,0,,74,,,Lead,,,75,Preset+KB25
+26,Soft Drivin,0,,75,,,Lead,,,76,Preset+Shift+KB01
+27,S&H Filter,0,,76,,,Lead,,,77,Preset+Shift+KB02
+28,Dirty Larry,0,,77,,,Lead/Seq,,,78,Preset+Shift+KB03
+29,Sharp Overtone,0,,78,,,Lead,,,79,Preset+Shift+KB04
+30,Soft Jazzy,0,,79,,,Organ,,,80,Preset+Shift+KB05
+31,Mono Divider,0,,80,,,Organ,,,81,Preset+Shift+KB06
+32,Unmelodic Blaster,0,,81,,,FX/Bass,,,82,Preset+Shift+KB07
+33,Cosmic Backround,0,,82,,,FX,,,83,Preset+Shift+KB08
+34,High Tizzle,0,,83,,,Seq,,,84,Preset+Shift+KB09
+35,Soft High Sync,0,,84,,,Lead,,,85,Preset+Shift+KB10
+36,Falling Formant,0,,85,,,FX,,,86,Preset+Shift+KB11
+37,Melodymaker,0,,86,,,Lead,,,87,Preset+Shift+KB12
+38,Disintegrated Voice,0,,87,,,FX,,,88,Preset+Shift+KB13
+39,Metallic Voice,0,,88,,,FX,,,89,Preset+Shift+KB14
+40,Tok Bass,0,,89,,,Bass,,,90,Preset+Shift+KB15
+41,Little Sweeper,0,,90,,,Seq,,,91,Preset+Shift+KB16
+42,Soft DX,0,,91,,,Seq,,,92,Preset+Shift+KB17
+43,Tackle Sync,0,,92,,,Seq/Lead,,,93,Preset+Shift+KB18
+44,Growl Bass,0,,93,,,Bass,,,94,Preset+Shift+KB19
+45,Drush Tone,0,,94,,,Seq,,,95,Preset+Shift+KB20
+46,Cowbell (ca. D1),0,,95,,,Drum,,,96,Preset+Shift+KB21
+47,Drive Kick (C1-C2),0,,96,,,Drum,,,97,Preset+Shift+KB22
+48,Closed Hihat,0,,97,,,Drum,,,98,Preset+Shift+KB23
+49,Dance Kick,0,,98,,,Drum,,,99,Preset+Shift+KB24
+50,Snare (C1-C2),0,,99,,,Drum,,,100,Preset+Shift+KB25
+U01,User01,0,,0,,,,,,1,User+KB01
+U02,User02,0,,1,,,,,,2,User+KB02
+U03,User03,0,,2,,,,,,3,User+KB03
+U04,User04,0,,3,,,,,,4,User+KB04
+U05,User05,0,,4,,,,,,5,User+KB05
+U06,User06,0,,5,,,,,,6,User+KB06
+U07,User07,0,,6,,,,,,7,User+KB07
+U08,User08,0,,7,,,,,,8,User+KB08
+U09,User09,0,,8,,,,,,9,User+KB09
+U10,User10,0,,9,,,,,,10,User+KB10
+U11,User11,0,,10,,,,,,11,User+KB11
+U12,User12,0,,11,,,,,,12,User+KB12
+U13,User13,0,,12,,,,,,13,User+KB13
+U14,User14,0,,13,,,,,,14,User+KB14
+U15,User15,0,,14,,,,,,15,User+KB15
+U16,User16,0,,15,,,,,,16,User+KB16
+U17,User17,0,,16,,,,,,17,User+KB17
+U18,User18,0,,17,,,,,,18,User+KB18
+U19,User19,0,,18,,,,,,19,User+KB19
+U20,User20,0,,19,,,,,,20,User+KB20
+U21,User21,0,,20,,,,,,21,User+KB21
+U22,User22,0,,21,,,,,,22,User+KB22
+U23,User23,0,,22,,,,,,23,User+KB23
+U24,User24,0,,23,,,,,,24,User+KB24
+U25,User25,0,,24,,,,,,25,User+KB25
+U26,User26,0,,25,,,,,,26,User+Shift+KB01
+U27,User27,0,,26,,,,,,27,User+Shift+KB02
+U28,User28,0,,27,,,,,,28,User+Shift+KB03
+U29,User29,0,,28,,,,,,29,User+Shift+KB04
+U30,User30,0,,29,,,,,,30,User+Shift+KB05
+U31,User31,0,,30,,,,,,31,User+Shift+KB06
+U32,User32,0,,31,,,,,,32,User+Shift+KB07
+U33,User33,0,,32,,,,,,33,User+Shift+KB08
+U34,User34,0,,33,,,,,,34,User+Shift+KB09
+U35,User35,0,,34,,,,,,35,User+Shift+KB10
+U36,User36,0,,35,,,,,,36,User+Shift+KB11
+U37,User37,0,,36,,,,,,37,User+Shift+KB12
+U38,User38,0,,37,,,,,,38,User+Shift+KB13
+U39,User39,0,,38,,,,,,39,User+Shift+KB14
+U40,User40,0,,39,,,,,,40,User+Shift+KB15
+U41,User41,0,,40,,,,,,41,User+Shift+KB16
+U42,User42,0,,41,,,,,,42,User+Shift+KB17
+U43,User43,0,,42,,,,,,43,User+Shift+KB18
+U44,User44,0,,43,,,,,,44,User+Shift+KB19
+U45,User45,0,,44,,,,,,45,User+Shift+KB20
+U46,User46,0,,45,,,,,,46,User+Shift+KB21
+U47,User47,0,,46,,,,,,47,User+Shift+KB22
+U48,User48,0,,47,,,,,,48,User+Shift+KB23
+U49,User49,0,,48,,,,,,49,User+Shift+KB24
+U50,User50,0,,49,,,,,,50,User+Shift+KB25

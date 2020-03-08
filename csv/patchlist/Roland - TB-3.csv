@@ -1,0 +1,135 @@
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange,val-saw,val-sqr,val-pink,val-white,val-decay,val-volume,val-disttype,val-efx1,val-efx2
+A01,,0,,0,,,,1,,1,127,,,,20,92,none,Bypass,Bypass
+A02,,0,,1,,,,1,,2,,127,,,20,92,none,Bypass,Bypass
+A03,,0,,2,,,,1,,3,127,,,,0,98,none,Bypass,Reverb
+A04,,0,,3,,,,1,,4,,127,,,0,97,none,Bypass,Reverb
+A05,,0,,4,,,,1,,5,107,,,,0,82,none,Chorus,Compression
+A06,,0,,5,,,,1,,6,,109,,,0,86,none,Chorus,Compression
+A07,,0,,6,,,,1,,7,127,,,,127,97,none,Chorus,Delay
+A08,,0,,7,,,,1,,8,,127,,,127,100,none,Chorus,Delay
+A09,,0,,8,,,,1,,9,127,,,,20,74,none,Flanger,Delay
+A10,,0,,9,,,,1,,10,,127,,,20,74,none,Flanger,Delay
+A11,,0,,10,,,,1,,11,127,,,,127,95,Distortion,Compression,Bypass
+A12,,0,,11,,,,1,,12,,127,,,127,93,Distortion,Compression,Bypass
+A13,,0,,12,,,,1,,13,127,,,,127,88,Turbo OD,Bypass,Bypass
+A14,,0,,13,,,,1,,14,,127,,,127,88,Turbo OD,Bypass,Bypass
+A15,,0,,14,,,,1,,15,127,,,,105,88,Lead,Chorus,Reverb
+A16,,0,,15,,,,1,,16,,127,,,105,86,Lead,Chorus,Reverb
+A17,,0,,16,,,,1,,17,127,,,,127,95,Distortion,Compression,Delay
+A18,,0,,17,,,,1,,18,,127,,,127,97,Distortion,Compression,Delay
+A19,,0,,18,,,,1,,19,127,,,,127,98,OD-1,Compression,Delay
+A20,,0,,19,,,,1,,20,,127,,,127,95,OD-1,Compression,Delay
+A21,,0,,20,,,,1,,21,127,,,,121,71,Turbo OD,Chorus,Delay
+A22,,0,,21,,,,1,,22,,127,,,121,71,Turbo OD,Chorus,Delay
+A23,,0,,22,,,,1,,23,127,,,,127,62,Blues OD,Bitcrush,Bypass
+A24,,0,,23,,,,1,,24,,127,,,127,60,Blues OD,Bitcrush,Bypass
+A25,,0,,24,,,,1,,25,127,,,,90,64,T-Scream,Phaser,Delay
+A26,,0,,25,,,,1,,26,,127,,,90,62,T-Scream,Phaser,Delay
+B01,,1,,0,,,,2,,1,91,98,,,110,79,none,Chorus,Delay
+B02,,1,,1,,,,2,,2,75,42,,,30,105,Treble,Delay,Bypass
+B03,,1,,2,,,,2,,3,63,0,,,15,80,none,Bypass,Delay
+B04,,1,,3,,,,2,,4,127,127,,,44,72,none,Compression,Delay
+B05,,1,,4,,,,2,,5,52,,,,127,62,none,Chorus,Delay
+B06,,1,,5,,,,2,,6,60,127,,,11,102,Warm OD,Compression,Reverb
+B07,,1,,6,,,,2,,7,51,114,,,0,91,none,Bypass,Chorus
+B08,,1,,7,,,,2,,8,,127,,,39,109,none,Chorus,Bypass
+B09,,1,,8,,,,2,,9,43,50,,,42,70,none,Chorus,RingMod
+B10,,1,,9,,,,2,,10,127,36,4,,0,93,none,Phaser,Reverb
+B11,,1,,10,,,,2,,11,13,127,,,0,90,Solid DS,Compression,Delay
+B12,,1,,11,,,,2,,12,77,127,,,0,40,none,Chorus,Compression
+B13,,1,,12,,,,2,,13,,64,,,58,39,none,Chorus,Delay
+B14,,1,,13,,,,2,,14,73,127,,,0,50,none,Compression,Chorus
+B15,,1,,14,,,,2,,15,127,,,,0,82,none,Bypass,Chorus
+B16,,1,,15,,,,2,,16,60,0,,,0,106,none,Tremelo,Chorus
+B17,,1,,16,,,,2,,17,127,127,,1,127,28,Clean Boost,Compression,Chorus
+B18,,1,,17,,,,2,,18,,,,,0,35,Mid Boost,Compression,Bypass
+B19,,1,,18,,,,2,,19,,,,,107,60,Mid Boost,Compression,Delay
+B20,,1,,19,,,,2,,20,,127,,,127,53,Clean Boost,Chorus,Compression
+B21,,1,,20,,,,2,,21,,,0,,108,64,GUV DS,Compression,Flanger
+B22,,1,,21,,,,2,,22,13,0,,,13,62,Clean Boost,PitchShift,Bypass
+B23,,1,,22,,,,2,,23,127,13,,,20,64,none,Compression,Reverb
+B24,,1,,23,,,,2,,24,115,,0,,127,62,Mid Boost,Compression,Delay
+B25,,1,,24,,,,2,,25,11,95,,,0,72,none,Chorus,Reverb
+B26,,1,,25,,,,2,,26,110,127,,,0,65,Mild DS,Phaser,Delay
+B27,,1,,26,,,,2,,27,127,61,,,34,55,Modern DS,Compression,Chorus
+B28,,1,,27,,,,2,,28,127,,,,50,59,RAT,Compression,Chorus
+B29,,1,,28,,,,2,,29,103,,,,0,62,Lead,Chorus,Compression
+B30,,1,,29,,,,2,,30,3,127,,,6,82,RAT,Compression,Delay
+B31,,1,,30,,,,2,,31,127,127,,,80,90,Modern DS,Compression,Reverb
+B32,,1,,31,,,,2,,32,91,98,,,58,51,DST+,Chorus,Bypass
+B33,,1,,32,,,,2,,33,,127,,,34,82,Metal,Chorus,Bypass
+B34,,1,,33,,,,2,,34,64,63,,,45,90,Blues OD,Chorus,Bypass
+B35,,1,,34,,,,2,,35,39,26,,,0,50,Treble,Bypass,Reverb
+B36,,1,,35,,,,2,,36,51,51,,,51,44,Natural OD,Phaser,Delay
+B37,,1,,36,,,,2,,37,89,38,3,,56,52,T-Scream,Flanger,Reverb
+B38,,1,,37,,,,2,,38,24,59,,,76,65,none,Delay,Reverb
+B39,,1,,38,,,,2,,39,127,,,,32,42,Warm OD,Compression,Flanger
+B40,,1,,39,,,,2,,40,52,,,,0,50,DST+,Phaser,Chorus
+B41,,1,,40,,,,2,,41,127,,,,0,60,Stack,Chorus,Bypass
+B42,,1,,41,,,,2,,42,,126,,,0,70,Mild DS,Chorus,Chorus
+B43,,1,,42,,,,2,,43,,19,0,,91,95,GUV DS,Compression,Bitcrush
+B44,,1,,43,,,,2,,44,25,127,,,0,74,none,Flanger,Delay
+B45,,1,,44,,,,2,,45,127,127,15,,119,54,Mid Boost,Delay,Reverb
+B46,,1,,45,,,,2,,46,127,,,3,67,60,Distortion,Compression,Delay
+B47,,1,,46,,,,2,,47,0,0,,,0,62,none,Bypass,Reverb
+B48,,1,,47,,,,2,,48,,,,,108,20,none,PitchShift,Reverb
+B49,,1,,48,,,,2,,49,46,83,,,36,66,none,Chorus,Delay
+B50,,1,,49,,,,2,,50,,127,,,127,86,Oct,Compression,Reverb
+B51,,1,,50,,,,2,,51,,127,,,44,78,Oct,Compression,Delay
+C01,,2,,0,,,,3,,1,67,2,,,127,80,Blues OD,Chorus,Reverb
+C02,,2,,1,,,,3,,2,127,12,,,0,67,Lead,Compression,Delay
+C03,,2,,2,,,,3,,3,,,,,127,56,Lead,Bitcrush,Delay
+C04,,2,,3,,,,3,,4,127,127,,,0,75,Distortion,Phaser,Delay
+C05,,2,,4,,,,3,,5,127,,,,127,62,Modern DS,Flanger,Delay
+C06,,2,,5,,,,3,,6,127,95,,,80,78,Crunch,Tremelo,Delay
+C07,,2,,6,,,,3,,7,127,17,,,30,74,DST+,Delay,Delay
+C08,,2,,7,,,,3,,8,127,95,,,6,92,Warm OD,Chorus,Delay
+C09,,2,,8,,,,3,,9,127,127,,,23,74,none,Compression,Delay
+C10,,2,,9,,,,3,,10,57,67,,,0,104,none,Bypass,Chorus
+C11,,2,,10,,,,3,,11,,127,,,23,86,none,Compression,Delay
+C12,,2,,11,,,,3,,12,57,,,,0,61,DST+,Delay,Reverb
+C13,,2,,12,,,,3,,13,37,28,,,4,96,none,Delay,Reverb
+C14,,2,,13,,,,3,,14,0,0,,,0,113,Clean Boost,Tremelo,Reverb
+C15,,2,,14,,,,3,,15,79,33,,,21,115,none,Tremelo,Delay
+C16,,2,,15,,,,3,,16,,8,,,0,54,DST+,Delay,Reverb
+C17,,2,,16,,,,3,,17,58,,,,0,110,none,Tremelo,Reverb
+C18,,2,,17,,,,3,,18,,79,,,0,105,none,Tremelo,Reverb
+C19,,2,,18,,,,3,,19,127,,,,53,105,none,Bypass,Delay
+C20,,2,,19,,,,3,,20,20,106,,,0,77,Mild DS,Chorus,Chorus
+C21,,2,,20,,,,3,,21,12,,,,127,107,none,Chorus,Reverb
+C22,,2,,21,,,,3,,22,112,31,,,125,82,Mid Boost,Delay,Compression
+C23,,2,,22,,,,3,,23,127,,4,,0,75,60s,Delay,Reverb
+C24,,2,,23,,,,3,,24,127,75,,,90,70,Natural OD,Compression,Delay
+C25,,2,,24,,,,3,,25,17,126,,,108,86,Solid DS,Delay,Reverb
+C26,,2,,25,,,,3,,26,127,106,,,23,62,none,Compression,Delay
+C27,,2,,26,,,,3,,27,127,106,,,23,78,none,Compression,Delay
+C28,,2,,27,,,,3,,28,61,,,,127,76,none,Chorus,Delay
+C29,,2,,28,,,,3,,29,127,25,,,0,82,Mid DS,Chorus,Chorus
+C30,,2,,29,,,,3,,30,75,4,,,0,90,RAT,Phaser,Chorus
+C31,,2,,30,,,,3,,31,127,95,,,121,68,RAT,Delay,Reverb
+C32,,2,,31,,,,3,,32,87,61,,,0,90,RAT,Delay,Reverb
+C33,,2,,32,,,,3,,33,20,127,,,0,61,Mild DS,Chorus,Chorus
+C34,,2,,33,,,,3,,34,52,15,,,0,60,DST+,Chorus,Chorus
+C35,,2,,34,,,,3,,35,80,27,,,127,124,RAT,Bitcrush,Delay
+C36,,2,,35,,,,3,,36,127,16,,,127,100,Distortion,Bypass,Reverb
+C37,,2,,36,,,,3,,37,58,45,,,89,88,none,Bitcrush,Reverb
+C38,,2,,37,,,,3,,38,127,84,,,127,95,Metal,Phaser,Phaser
+C39,,2,,38,,,,3,,39,127,23,,,127,40,Loud,Phaser,Reverb
+C40,,2,,39,,,,3,,40,106,57,,,127,38,Loud,Phaser,Tremelo
+D01,,3,,0,,,,4,,1,127,,,,50,90,Distortion,Bypass,RingMod
+D02,,3,,1,,,,4,,2,,,,,127,45,Clean Boost,Bitcrush,Bypass
+D03,,3,,2,,,,4,,3,80,,,6,0,78,none,Bitcrush,Delay
+D04,,3,,3,,,,4,,4,127,127,,10,62,90,Clean Boost,PitchShift,Delay
+D05,,3,,4,,,,4,,5,,,,,55,43,none,Chorus,Reverb
+D06,,3,,5,,,,4,,6,,,,45,10,102,Clean Boost,Delay,Bypass
+D07,,3,,6,,,,4,,7,,,,127,33,10,Clean Boost,Phaser,Delay
+D08,,3,,7,,,,4,,8,,68,,,102,80,Crunch,Flanger,Reverb
+D09,,3,,8,,,,4,,9,127,127,,22,0,50,Treble Bst,Chorus,Delay
+D10,,3,,9,,,,4,,10,127,,,,127,60,Mid DS,RingMod,Reverb
+D11,,3,,10,,,,4,,11,127,95,,,0,60,none,Delay,Reverb
+D12,,3,,11,,,,4,,12,,,,,0,20,Stack,Chorus,Delay
+D13,,3,,12,,,,4,,13,127,,,5,0,85,GUV DS,Tremelo,Delay
+D14,,3,,13,,,,4,,14,127,,5,,0,86,Stack,Delay,Reverb
+D15,,3,,14,,,,4,,15,,,127,,0,70,GUV DS,Delay,Reverb
+D16,,3,,15,,,,4,,16,28,60,,,0,85,Clean Boost,PitchShift,Delay
+D17,,3,,16,,,,4,,17,,,,,127,30,Lead,PitchShift,Delay

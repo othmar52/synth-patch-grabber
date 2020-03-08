@@ -1,0 +1,45 @@
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange
+1.1,the Promars,0,,0,,,Synth,,1,1
+1.2,Horror Bass,0,,1,,,Bass,,1,2
+1.3,Future Lead,0,,2,,,Lead,,1,3
+1.4,Horror Osc,0,,3,,,Synth,,1,4
+1.5,Wobble Saw,0,,4,,,Bass,,1,5
+1.6,Fire Lead,0,,5,,,Lead,,1,6
+1.7,Kick and Bass,0,,6,,,Drum,,1,7
+1.8,Largeness,0,,7,,,Synth,,1,8
+2.1,Saw Bass 1,1,,0,,,Bass,,2,1
+2.2,Saw Long Bass,1,,1,,,Bass,,2,2
+2.3,Saw Oct Bass,1,,2,,,Bass,,2,3
+2.4,Saw Sub Bass,1,,3,,,Bass,,2,4
+2.5,Saw Rise Bass,1,,4,,,Bass,,2,5
+2.6,Reso Saw Bass,1,,5,,,Bass,,2,6
+2.7,Sweep Saw Bass,1,,6,,,Bass,,2,7
+2.8,Funky Bass,1,,7,,,Bass,,2,8
+3.1,Sqr Atk Bass,2,,0,,,Bass,,3,1
+3.2,Sqr Simple Bass,2,,1,,,Bass,,3,2
+3.3,Square Bass 1,2,,2,,,Bass,,3,3
+3.4,Deep EDM,2,,3,,,Bass,,3,4
+3.5,Square Bass 2,2,,4,,,Bass,,3,5
+3.6,Sweep Sqr Bass,2,,5,,,Bass,,3,6
+3.7,Reso Squr Bass,2,,6,,,Bass,,3,7
+3.8,Synth Bass,2,,7,,,Bass,,3,8
+4.1,Future Bass,3,,0,,,Bass,,4,1
+4.2,Flanger Bass,3,,1,,,Bass,,4,2
+4.3,Retro Bass,3,,2,,,Bass,,4,3
+4.4,5th Syn Bass,3,,3,,,Bass,,4,4
+4.5,DnB Reese,3,,4,,,Bass,,4,5
+4.6,Hoover Bass,3,,5,,,Bass,,4,6
+4.7,Sub Reese,3,,6,,,Bass,,4,7
+4.8,Sqr Sub Bass,3,,7,,,Bass,,4,8
+5.1,Monster Bass,4,,0,,,Bass,,5,1
+5.2,Deep Bass,4,,1,,,Bass,,5,2
+5.3,Sqr Low Bass,4,,2,,,Bass,,5,3
+5.4,Reso Sine Bass,4,,3,,,Bass,,5,4
+5.5,Hard Sub,4,,4,,,Bass,,5,5
+5.6,Atk Bass 1,4,,5,,,Bass,,5,6
+5.7,Atk Bass 2,4,,6,,,Bass,,5,7
+5.8,5th Bass,4,,7,,,Bass,,5,8
+6.1,LFO Bass 1,5,,0,,,Bass,,6,1
+6.2,LFO Bass 2,5,,1,,,Bass,,6,2
+6.3,Talkign Bass,5,,2,,,Bass,,6,3
+6.4,LFO Vowel,5,,3,,,Bass,,6,4

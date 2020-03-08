@@ -1,0 +1,5 @@
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange,bankname,Single/Layer,Tempo
+A.11,Trancey Arpeg.,0,,0,,On,Arpeggio,,,1,TRANCE,Layer,138
+A.12,Acid Saw Bass,0,,1,,On,Bass,,,2,TRANCE,Single,138
+A.13,Unison Saw Lead,0,,2,,Off,Synth Lead,,,3,TRANCE,Single,138
+A.14,Unison HPF+LPF,0,,3,,On,Synth Lead,,,4,TRANCE,Layer,138

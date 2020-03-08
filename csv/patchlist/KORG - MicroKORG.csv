@@ -1,0 +1,129 @@
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange,bankname,Single/Layer,Tempo
+A.11,Trancey Arpeg.,0,,0,,On,Arpeggio,,,1,TRANCE,Layer,138
+A.12,Acid Saw Bass,0,,1,,On,Bass,,,2,TRANCE,Single,138
+A.13,Unison Saw Lead,0,,2,,Off,Synth Lead,,,3,TRANCE,Single,138
+A.14,Unison HPF+LPF,0,,3,,On,Synth Lead,,,4,TRANCE,Layer,138
+A.15,Weepy Lead,0,,4,,Off,Synth Lead,,,5,TRANCE,Single,138
+A.16,Slippy Pad,0,,5,,Off,Synth,,,6,TRANCE,Single,138
+A.17,Sweep Poly Pad,0,,6,,Off,Synth,,,7,TRANCE,Single,138
+A.18,Filter Strings,0,,7,,Off,Strings/Pad,,,8,TRANCE,Single,138
+A.21,Auto House,0,,8,,On,Arpeggio,,,9,TECHNO/HOUSE,Layer,140
+A.22,Burnin' Rave,0,,9,,On,Arpeggio,,,10,TECHNO/HOUSE,Layer,143
+A.23,X-Mod Perc.,0,,10,,On,Arpeggio,,,11,TECHNO/HOUSE,Single,124
+A.24,House Bass,0,,11,,Off,Bass,,,12,TECHNO/HOUSE,Single,128
+A.25,Distorted Bass,0,,12,,Off,Bass,,,13,TECHNO/HOUSE,Single,130
+A.26,Acid Square Bass,0,,13,,Off,Bass,,,14,TECHNO/HOUSE,Single,130
+A.27,Sync Bass,0,,14,,Off,Bass,,,15,TECHNO/HOUSE,Single,130
+A.28,Hard House Lead,0,,15,,Off,Synth Lead,,,16,TECHNO/HOUSE,Single,145
+A.31,Sequence Pad,0,,16,,On,Arpeggio,,,17,ELECTRONICA,Layer,130
+A.32,Bleeps Perc.,0,,17,,On,Arpeggio,,,18,ELECTRONICA,Single,94
+A.33,Gated Sync Bass,0,,18,,Off,Bass,,,19,ELECTRONICA,Single,102
+A.34,Flap & Sweep,0,,19,,On,Arpeggio,,,20,ELECTRONICA,Single,135
+A.35,Reverse Lead,0,,20,,Off,Synth Lead,,,21,ELECTRONICA,Single,130
+A.36,IDM Pad,0,,21,,Off,Strings/Pad,,,22,ELECTRONICA,Single,120
+A.37,Flanger 5th Pad,0,,22,,Off,Strings/Pad,,,23,ELECTRONICA,Single,160
+A.38,Voice /A/,0,,23,,Off,Strings/Pad,,,24,ELECTRONICA,Single,100
+A.41,2 Step Bass,0,,24,,Off,Bass,,,25,D'n'B/BREAKS,Layer,136
+A.42,Techstep Ring Bass,0,,25,,Off,Bass,,,26,D'n'B/BREAKS,Single,170
+A.43,Valve Kick Bass,0,,26,,Off,Bass,,,27,D'n'B/BREAKS,Layer,170
+A.44,Drive Bass,0,,27,,Off,Bass,,,28,D'n'B/BREAKS,Single,170
+A.45,Blade Bass,0,,28,,Off,Bass,,,29,D'n'B/BREAKS,Layer,140
+A.46,Sweep Sync Lead,0,,29,,Off,Synth Lead,,,30,D'n'B/BREAKS,Single,170
+A.47,Science Lead,0,,30,,Off,Synth Lead,,,31,D'n'B/BREAKS,Single,130
+A.48,Gated Chord,0,,31,,Off,Synth,,,32,D'n'B/BREAKS,Single,130
+A.51,Dirty Bass,0,,32,,Off,Bass,,,33,HIPHOP/VINTAGE,Layer,90
+A.52,MG Bass 1,0,,33,,Off,Bass,,,34,HIPHOP/VINTAGE,Single,90
+A.53,R&B Lead,0,,34,,Off,Synth Lead,,,35,HIPHOP/VINTAGE,Single,90
+A.54,PWM Strings,0,,35,,Off,Strings/Pad,,,36,HIPHOP/VINTAGE,Single,90
+A.55,Reed Piano,0,,36,,Off,"KBD, Rhodes",,,37,HIPHOP/VINTAGE,Single,114
+A.56,British Organ,0,,37,,Off,KBD,,,38,HIPHOP/VINTAGE,Single,184
+A.57,Synth Clav,0,,38,,Off,KBD,,,39,HIPHOP/VINTAGE,Single,120
+A.58,Tape Choir,0,,39,,Off,Strings/Pad,,,40,HIPHOP/VINTAGE,Single,90
+A.61,Elektric Arpeg.,0,,40,,On,Arpeggio,,,41,RETRO,Single,118
+A.62,Water Edge,0,,41,,On,Arpeggio,,,42,RETRO,Layer,140
+A.63,80's Synth Bass,0,,42,,On,Bass,,,43,RETRO,Single,103
+A.64,Reverse Sync Lead,0,,43,,Off,Synth Lead,,,44,RETRO,Single,140
+A.65,Bright Poly Synth,0,,44,,Off,Synth,,,45,RETRO,Single,120
+A.66,Poly Synth,0,,45,,Off,Synth,,,46,RETRO,Single,134
+A.67,Warm 4th Pad,0,,46,,Off,Strings/Pad,,,47,RETRO,Single,100
+A.68,Octave Strings,0,,47,,Off,Strings/Pad,,,48,RETRO,Single,90
+A.71,Killa Beez,0,,48,,Off,S.E.,,,49,S.E./HIT,Single,120
+A.72,Diginator,0,,49,,On,S.E.,,,50,S.E./HIT,Layer,240
+A.73,Stutter,0,,50,,Off,S.E.,,,51,S.E./HIT,Single,120
+A.74,Invaders,0,,51,,Off,S.E.,,,52,S.E./HIT,Single,80
+A.75,Ring Chord,0,,52,,Off,Hit,,,53,S.E./HIT,Single,135
+A.76,Sweep min Chord,0,,53,,Off,Hit,,,54,S.E./HIT,Single,135
+A.77,Noisy Hit,0,,54,,Off,Hit,,,55,S.E./HIT,Layer,142
+A.78,4 OSC m7 Chord,0,,55,,Off,Hit,,,56,S.E./HIT,Layer,148
+A.81,Male-Ahhh,0,,56,,Off,Vocoder,,,57,VOCODER,Vocoder,120
+A.82,Male-Eeee,0,,57,,Off,Vocoder,,,58,VOCODER,Vocoder,120
+A.83,Male-Ahhh 5th,0,,58,,Off,Vocoder,,,59,VOCODER,Vocoder,120
+A.84,Vocoder Ensemble,0,,59,,Off,Vocoder,,,60,VOCODER,Vocoder,120
+A.85,Vocoder Chorus,0,,60,,Off,Vocoder,,,61,VOCODER,Vocoder,120
+A.86,Vocoder 5th,0,,61,,Off,Vocoder,,,62,VOCODER,Vocoder,120
+A.87,Bass Vocoder,0,,62,,Off,Vocoder,,,63,VOCODER,Vocoder,120
+A.88,Voice Changer,0,,63,,Off,Vocoder,,,64,VOCODER,Vocoder,120
+B.11,Synth Harp,0,,64,,On,Arpeggio,,,65,TRANCE,Single,138
+B.12,Acid Ring Bass,0,,65,,Off,Bass,,,66,TRANCE,Single,138
+B.13,Unison Ring Lead,0,,66,,On,Synth Lead,,,67,TRANCE,Single,138
+B.14,Phaser Lead,0,,67,,Off,Synth Lead,,,68,TRANCE,Single,138
+B.15,Synth Pizz,0,,68,,Off,Synth,,,69,TRANCE,Layer,138
+B.16,Euphoric Synth,0,,69,,Off,Synth,,,70,TRANCE,Single,138
+B.17,Flashin' Pad,0,,70,,Off,Strings/Pad,,,71,TRANCE,Single,138
+B.18,Stream Pad,0,,71,,Off,Strings/Pad,,,72,TRANCE,Single,138
+B.21,S&H Signal,0,,72,,On,Arpeggio,,,73,TECHNO/HOUSE,Single,138
+B.22,Dirty Motion,0,,73,,On,Arpeggio,,,74,TECHNO/HOUSE,Layer,124
+B.23,Short Ring Perc.,0,,74,,On,Arpeggio,,,75,TECHNO/HOUSE,Layer,140
+B.24,Organ Bass,0,,75,,Off,"Bass, Organ",,,76,TECHNO/HOUSE,Single,132
+B.25,Unison SQU Bass,0,,76,,Off,Bass,,,77,TECHNO/HOUSE,Single,145
+B.26,Detune Bass,0,,77,,Off,Bass,,,78,TECHNO/HOUSE,Single,130
+B.27,Short Synth Bass,0,,78,,Off,Bass,,,79,TECHNO/HOUSE,Single,134
+B.28,NRG Stab,0,,79,,Off,Synth Lead,,,80,TECHNO/HOUSE,Layer,130
+B.31,Noize Blasts,0,,80,,On,Arpeggio,,,81,ELECTRONICA,Layer,140
+B.32,Future Perc.,0,,81,,On,Arpeggio,,,82,ELECTRONICA,Single,97
+B.33,Rhythmic Pad,0,,82,,Off,Synth,,,83,ELECTRONICA,Single,130
+B.34,Pump Organ,0,,83,,Off,Synth,,,84,ELECTRONICA,Single,82
+B.35,Lazy Pitch,0,,84,,Off,Synth,,,85,ELECTRONICA,Single,128
+B.36,BPF 4th Pad,0,,85,,Off,Strings/Pad,,,86,ELECTRONICA,Single,148
+B.37,Future Pad,0,,86,,Off,Strings/Pad,,,87,ELECTRONICA,Single,110
+B.38,Shadow Pad,0,,87,,Off,Strings/Pad,,,88,ELECTRONICA,Single,122
+B.41,X-Mod Bass,0,,88,,Off,Bass,,,89,D'n'B/BREAKS,Layer,136
+B.42,Pipe Bass,0,,89,,Off,Bass,,,90,D'n'B/BREAKS,Single,85
+B.43,Reverse Bass,0,,90,,Off,Bass,,,91,D'n'B/BREAKS,Single,136
+B.44,RingSync Bass,0,,91,,Off,Bass,,,92,D'n'B/BREAKS,Single,134
+B.45,HPF Sweep Bass,0,,92,,Off,Bass,,,93,D'n'B/BREAKS,Single,133
+B.46,Nu Skool Drop,0,,93,,Off,Bass,,,94,D'n'B/BREAKS,Single,125
+B.47,Modulation Lead,0,,94,,Off,Synth Lead,,,95,D'n'B/BREAKS,Single,130
+B.48,Grimey Storm,0,,95,,On,Arpeggio,,,96,D'n'B/BREAKS,Single,136
+B.51,Dark Bass,0,,96,,Off,Bass,,,97,HIPHOP/VINTAGE,Single,90
+B.52,MG Bass 2,0,,97,,Off,Bass,,,98,HIPHOP/VINTAGE,Single,90
+B.53,Sub Bass,0,,98,,Off,Bass,,,99,HIPHOP/VINTAGE,Single,90
+B.54,70's Funk Lead,0,,99,,Off,Synth Lead,,,100,HIPHOP/VINTAGE,Single,87
+B.55,Rock Organ,0,,100,,Off,KBD,,,101,HIPHOP/VINTAGE,Single,120
+B.56,Perc. Organ,0,,101,,Off,KBD,,,102,HIPHOP/VINTAGE,Single,120
+B.57,Phaser Clav,0,,102,,Off,KBD,,,103,HIPHOP/VINTAGE,Single,120
+B.58,String Machine,0,,103,,Off,Strings/Pad,,,104,HIPHOP/VINTAGE,Single,120
+B.61,Analog Bell,0,,104,,On,Arpeggio,,,105,RETRO,Single,139
+B.62,Stairs Pad,0,,105,,On,Arpeggio,,,106,RETRO,Layer,140
+B.63,Triangle Lead,0,,106,,Off,Synth Lead,,,107,RETRO,Single,135
+B.64,Random Comp,0,,107,,Off,Synth,,,108,RETRO,Single,144
+B.65,Stab Saw,0,,108,,Off,Synth,,,109,RETRO,Single,140
+B.66,Square Comp,0,,109,,Off,Synth,,,110,RETRO,Single,144
+B.67,Detuned Comp,0,,110,,Off,Synth,,,111,RETRO,Single,178
+B.68,Old Strings,0,,111,,Off,Strings/Pad,,,112,RETRO,Single,127
+B.71,Time Zone SFX,0,,112,,Off,S.E.,,,113,S.E./HIT,Single,134
+B.72,Domin8or,0,,113,,Off,S.E.,,,114,S.E./HIT,Single,125
+B.73,Thunder,0,,114,,Off,S.E.,,,115,S.E./HIT,Layer,34
+B.74,Cry,0,,115,,Off,S.E.,,,116,S.E./HIT,Single,137
+B.75,HPF m7 Chord,0,,116,,Off,Hit,,,117,S.E./HIT,Layer,120
+B.76,M3rd Chord,0,,117,,Off,Hit,,,118,S.E./HIT,Layer,130
+B.77,Hardcore Hit,0,,118,,Off,Hit,,,119,S.E./HIT,Layer,139
+B.78,Artcore M7 Chord,0,,119,,Off,Hit,,,120,S.E./HIT,Layer,176
+B.81,Female-Ahhh,0,,120,,Off,Vocoder,,,121,VOCODER,Vocoder,120
+B.82,Kid-Eeey,0,,121,,Off,Vocoder,,,122,VOCODER,Vocoder,120
+B.83,Kid-Ahhh (Wow),0,,122,,Off,Vocoder,,,123,VOCODER,Vocoder,120
+B.84,Vocoder Pulse,0,,123,,Off,Vocoder,,,124,VOCODER,Vocoder,120
+B.85,Vocoder SQU,0,,124,,Off,Vocoder,,,125,VOCODER,Vocoder,120
+B.86,Vocoder Wah,0,,125,,Off,Vocoder,,,126,VOCODER,Vocoder,200
+B.87,Vocoder Vox Wave,0,,126,,Off,Vocoder,,,127,VOCODER,Vocoder,120
+B.88,Vocoder DWGS,0,,127,,Off,Vocoder,,,128,VOCODER,Vocoder,120

@@ -1,0 +1,151 @@
+No.,Name,Cat.
+FLt.1,Morphing Filter,Filter
+FLt.2,Low Pass Filter,Filter
+FLt.3,High Pass Filter,Filter
+FLt.4,Band Pass Filter,Filter
+FLt.5,72dB/oct LPF,Filter
+FLt.6,LPF & Delay,Filter
+FLt.7,HPF & Delay,Filter
+FLt.8,BPF+ & Delay,Filter
+FLt.9,LPF & Reverb,Filter
+FL.10,HPF & Reverb,Filter
+FL.11,BPF+&Reverb,Filter
+FL.12,Vowel Filter,Filter
+FL.13,Telephone Filter,Filter
+FL.14,Radio Filter,Filter
+FL.15,Radio Isolator,Filter
+FL.16,Center Canceler,Filter
+FL.17,Mid Cut Filter,Filter
+FL.18,Isolator,Filter
+FL.19,Isolator & Distortion,Filter
+FL.20,Isolator & Delay,Filter
+Eq.1,4 Band Equalizer,EQ
+Eq.2,8 Band Equalizer,EQ
+Mod.1,Vinyl Break,Modulation
+Mod.2,Break Reverb,Modulation
+Mod.3,Jet +,Modulation
+Mod.4,Jet,Modulation
+Mod.5,Manual Phaser,Modulation
+Mod.6,Talk Filter,Modulation
+Mod.7,Digi Talk,Modulation
+Mod.8,Ducking Compressor,Modulation
+Mod.9,Compressor,Modulation
+Md.10,Low Compressor,Modulation
+Md.11,Decimator,Modulation
+Md.12,Decimator & HPF,Modulation
+Md.13,Fuzz Distortion,Modulation
+Md.14,Broken Modulation,Modulation
+Md.15,Ring Mod & HPF,Modulation
+Md.16,Pitch Shifter & HPF,Modulation
+Md.17,Mid Pitch Shifter,Modulation
+Md.18,Pitch Shifter & Delay,Modulation
+LFO.1,Jag Filter,LFO
+LFO.2,LFO LPF,LFO
+LFO.3,LFO HPF,LFO
+LFO.4,LFO BPF+,LFO
+LFO.5,LFO HPF+ & Delay,LFO
+LFO.6,Infinite LFO HPF+,LFO
+LFO.7,Random LFO LPF,LFO
+LFO.8,Random LFO HPF+,LFO
+LFO.9,Yoi Yoi,LFO
+LF.10,Flanger,LFO
+LF.11,Deep Flanger,LFO
+LF.12,Mid Flanger,LFO
+LF.13,Flanger & LPF,LFO
+LF.14,Flanger & Delay,LFO
+LF.15,Infinit LFO Flanger,LFO
+LF.16,Phaser,LFO
+LF.17,Mid Phaser,LFO
+LF.18,Phaser & Delay,LFO
+LF.19,Step Phaser,LFO
+LF.20,Auto Pan,LFO
+LF.21,Mid Auto Pan,LFO
+LF.22,Slicer,LFO
+LF.23,Mid Slicer,LFO
+LF.24,Slicer & LPF,LFO
+LF.25,Slicer & HPF,LFO
+LF.26,Audio Gate & LPF,LFO
+LF.27,Audio Gate & HPF,LFO
+dLY.1,Delay,Delay
+dLY.2,Echo Break,Delay
+dLY.3,Reverse Echo Break,Delay
+dLY.4,LoFi Echo Break,Delay
+dLY.5,One Delay,Delay
+dLY.6,Tape Echo,Delay
+dLY.7,Dub Echo,Delay
+dLY.8,Feedback Echo,Delay
+dLY.9,Smooth Delay,Delay
+dL.10,Low Cut Delay,Delay
+dL.11,Ping Pong Delay,Delay
+dL.12,LCR Delay,Delay
+dL.13,3 band Delay,Delay
+dL.14,Reverse Delay Mix,Delay
+dL.15,3 band Reverse Delay,Delay
+dL.16,Gate Reverb & Delay,Delay
+dL.17,Delay & Reverb,Delay
+rEV.1,Pump Reverb,Reverb
+rEV.2,Freeze Reverb,Reverb
+rEV.3,Reverb Break,Reverb
+rEV.4,Reverb,Reverb
+rEV.5,Reverb 2,Reverb
+rEV.6,Spring Reverb,Reverb
+rEV.7,Gate Reverb,Reverb
+rEV.8,Reverse Gate Reverb,Reverb
+Grn.1,Grain Shifter,Grain Shifter
+Grn.2,Beat Grain,Grain Shifter
+Grn.3,Mid Grain Shifter,Grain Shifter
+Grn.4,Mid Grain Shifter+,Grain Shifter
+Grn.5,Grain&HPF,Grain Shifter
+Grn.6,Stutter Grain,Grain Shifter
+LoP.1,Looper Forward/Reverse,Looper
+LoP.2,Break Looper,Looper
+LoP.3,Looper & Reverse Delay,Looper
+LoP.4,Freeze Looper,Looper
+LoP.5,High Looper,Looper
+LoP.6,Shuttle Looper,Looper
+LoP.7,Slice Looper,Looper
+LoP.8,Loop Breaker,Looper
+LoP.9,KP2 Looper,Looper
+LP.10,Vinyl Looper,Looper
+LP.11,Rewind Spin Looper,Looper
+LP.12,Looper & LPF,Looper
+LP.13,Looper & HPF,Looper
+LP.14,Looper & Flanger,Looper
+LP.15,Looper & Pitch Shifter,Looper
+LP.16,Looper & Decimator,Looper
+LP.17,Looper Isolator & HPF,Looper
+LP.18,Looper & Isolator+,Looper
+LP.19,Looper & OSC,Looper
+LP.20,Looper & Noise,Looper
+SMP.1,Sample End Point,Sampler
+SMP.2,Sample Roll,Sampler
+SMP.3,Sample Forward/Reverse,Sampler
+SMP.4,Sample Fast Forward/Reverse,Sampler
+SMP.5,Sample Forward/Reverse & Delay,Sampler
+SMP.6,Sample Time Stretch,Sampler
+SMP.7,Sample Grain,Sampler
+CrS.1,4 sample bank Cross Fader Roll,CrossFade
+CrS.2,4 sample bank Cross Fader Time Stretch,CrossFade
+CrS.3,4 sample bank Cross Fader & LPF,CrossFade
+CrS.4,4 sample bank Cross Fader & HPF,CrossFade
+drM.1,House Beat,Drum
+drM.2,Beat Box,Drum
+drM.3,Tribal Beat,Drum
+drM.4,Electro Beat,Drum
+drM.5,Pad Drum 1,Drum
+drM.6,Pad Drum 2,Drum
+Syn.1,Unison Saw Bass,Synth
+Syn.2,Unison Square Bass,Synth
+Syn.3,Pump Noise,Synth
+Syn.4,LoFi Synth,Synth
+Syn.5,Metalic Synth,Synth
+Syn.6,Siren,Synth
+Syn.7,LFO Sin,Synth
+Syn.8,LFO Squ,Synth
+Syn.9,Resonator,Synth
+SY.10,Synth & Looper,Synth
+Voc.1,Vocoder,Vocoder
+Voc.2,Bass Vocoder,Vocoder
+Voc.3,Vocoder Maj7,Vocoder
+Voc.4,Vocoder min7,Vocoder
+Voc.5,Vocoder Mix,Vocoder

@@ -1,0 +1,187 @@
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange,Mode,SEQ 1,SEQ 2,SEQ 3
+A01,Stab Saw,0,,0,,OFF,Synth Hard,,,1,Single,,,
+A02,Synth Lana,0,,1,,Up,Arpeggio,,,2,Single,Panpot,Pitch,Step Length
+A03,Evolution,0,,2,,OFF,Synth Pad,,,3,Single,LFO1 Freq,Patch 4 Int,EG2 Release
+A04,Boost Bass,0,,3,,OFF,Synth Bass,,,4,Single,,,
+A05,Dirty Sync,0,,4,,OFF,Synth Lead,,,5,Single,,,
+A06,Zoop Mania,0,,5,,Down,Sequence,,,6,Dual,"T1| Patch 4 Int
+T2| OSC2 Level","EG2 Decay
+OSC1 Ctrl1","Pitch
+Amp Level"
+A07,Ice Field,0,,6,,OFF,Bell,,,7,Single,,,
+A08,Lounge Organ,0,,7,,OFF,Keyboard,,,8,Single,,,
+A09,MG Bass,0,,8,,OFF,Synth Bass,,,9,Single,,,
+A10,GatesOfHell,0,,9,,OFF,Sequence,,,10,Single,Amp Level,None,None
+A11,PWM Strings,0,,10,,OFF,Strings,,,11,Single,,,
+A12,Turn Wheel,0,,11,,OFF,Synth Lead,,,12,Single,,,
+A13,Synth Tp,0,,12,,OFF,Synth Brass,,,13,Single,,,
+A14,DWGS WaveSeq,0,,13,,OFF,Wave Seq,,,14,Single,OSC1 Ctrl2,Panpot,None
+A15,Drive Bass,0,,14,,OFF,Synth Bass,,,15,Single,,,
+A16,Surrounded,0,,15,,OFF,S.E.,,,16,Single,LFO1 Freq,None,None
+B01,Lazy Pitch,0,,16,,OFF,Synth Hard,,,17,Single,,,
+B02,Stairs Pad,0,,17,,Alt1,Arpeggio,,,18,Dual,"T1| Panpot
+T2| None","EG1 Int
+None","Step Length
+None"
+B03,Silk Pad,0,,18,,OFF,Synth Pad,,,19,Single,,,
+B04,Zap Bass,0,,19,,OFF,Synth Bass,,,20,Single,,,
+B05,Uni Synth,0,,20,,OFF,Synth Lead,,,21,Dual,"T1 |
+T2 |",,
+B06,PsycheTrance,0,,21,,OFF,Sequence,,,22,Dual,"T1| Amp Level
+T2| Amp Level","Pitch
+Noise Level","OSC2 Semi
+None"
+B07,Deep Bell,0,,22,,OFF,Bell,,,23,Single,Patch1 Int,None,None
+B08,Synth Clav,0,,23,,OFF,Keyboard,,,24,Single,,,
+B09,Line Bass,0,,24,,OFF,Synth Bass,,,25,Single,,,
+B10,SearchEngine,0,,25,,Trigger,Sequence,,,26,Dual,"T1| Step Length
+T2| EG1 Decay","None
+Noise Level","None
+Cutoff"
+B11,Voice /A/,0,,26,,OFF,Choir,,,27,Single,,,
+B12,Far Horizon,0,,27,,OFF,Synth Lead,,,28,Dual,"T1 |
+T2 |",,
+B13,Glass,0,,28,,OFF,Synth Soft,,,29,Single,,,
+B14,Random,0,,29,,OFF,Sequence,,,30,Single,Pitch,OSC1 Ctrl1,Cutoff
+B15,Jami Bass,0,,30,,OFF,Synth Bass,,,31,Single,,,
+B16,Loomy,0,,31,,OFF,S.E.,,,32,Single,,,
+C01,Poly Line,0,,32,,OFF,Synth Hard,,,33,Single,,,
+C02,Krazy Arpy 1,0,,33,,Random,Arpeggio,,,34,Single,,,
+C03,Mod3&4 Squad,0,,34,,OFF,Synth Pad,,,35,Single,,,
+C04,What D' Time,0,,35,,OFF,Synth Bass,,,36,Single,,,
+C05,Healing,0,,36,,OFF,Synth Lead,,,37,Single,,,
+C06,Auto Disco,0,,37,,Up,Sequence,,,38,Dual,"T1 |
+T2 |",,
+C07,Candy Box,0,,38,,OFF,Bell,,,39,Single,,,
+C08,Vintage EP,0,,39,,OFF,Keyboard,,,40,Single,,,
+C09,Mini Bass,0,,40,,OFF,Synth Bass,,,41,Single,,,
+C10,Tap Lead,0,,41,,Up,Sequence,,,42,Dual,"T1| Cutoff
+T1| Pitch","OSC2 Semi
+Cutoff","None
+None"
+C11,Royal Pad,0,,42,,OFF,Synth Pad,,,43,Single,,,
+C12,Freq Lead,0,,43,,OFF,Synth Lead,,,44,Single,,,
+C13,Solemn Brass,0,,44,,OFF,Synth Brass,,,45,Dual,"T1 |
+T2 |",,
+C14,IZDISA-WS,0,,45,,OFF,Wave Seq,,,46,Single,OSC1 Ctrl2,None,None
+C15,House Bass,0,,46,,OFF,Synth Bass,,,47,Single,,,
+C16,Invaders,0,,47,,Random,S.E.,,,48,Single,EG1 Attack,Resonance,None
+D01,Ana Fuzz,0,,48,,OFF,Synth Hard,,,49,Single,,,
+D02,Water Edge,0,,49,,Alt2,Arpeggio,,,50,Dual,"T1| Noise Level
+T1| Pitch","None
+OSC2 Level","None
+None"
+D03,Reactor Pad,0,,50,,OFF,Synth Pad,,,51,Single,Step Length,Panpot,None
+D04,MS-101 Sqr,0,,51,,OFF,Synth Bass,,,52,Single,,,
+D05,Edge Lead,0,,52,,OFF,Synth Lead,,,53,Single,,,
+D06,Goa Trax,0,,53,,OFF,Sequence,,,54,Dual,"T1| Amp Level
+T1| Amp Level","Step Length
+Pitch","Pitch
+None"
+D07,Retro BD/SD,0,,54,,OFF,Synth Drum,,,55,Split,"T1 |
+T2 |",,
+D08,Wet Reed,0,,55,,OFF,Keyboard,,,56,Single,,,
+D09,Fat Bass,0,,56,,OFF,Synth Bass,,,57,Single,,,
+D10,Flashlight,0,,57,,OFF,Synth Motion,,,58,Single,,,
+D11,Stream Pad,0,,58,,OFF,Strings,,,59,Single,,,
+D12,EP Fusion Ld,0,,59,,OFF,Synth Lead,,,60,Single,,,
+D13,TremoloSynth,0,,60,,OFF,Synth Soft,,,61,Single,,,
+D14,Motion Pad,0,,61,,OFF,Synth Motion,,,62,Single,,,
+D15,Banana Bass,0,,62,,OFF,Synth Bass,,,63,Dual,"T1 |
+T2 |",,
+D16,Bad Dream,0,,63,,OFF,S.E.,,,64,Single,,,
+E01,Century Stab,0,,64,,OFF,Synth Hard,,,65,Single,,,
+E02,Simple Arpg,0,,65,,Random,Arpeggio,,,66,Single,EG2 Decay,EG1 Decay,Noise Level
+E03,Tin Memoreez,0,,66,,OFF,Synth Pad,,,67,Single,Panpot,Step Length,None
+E04,Organ Bass,0,,67,,OFF,Synth Bass,,,68,Single,,,
+E05,High Voltage,0,,68,,OFF,Synth Lead,,,69,Dual,"T1 |
+T2 |",,
+E06,Trip Planet,0,,69,,Up,Sequence,,,70,Dual,"T1| Amp Level
+T2| EG2 Decay","OSC1 Level
+Amp Level","OSC2 Semi
+Pitch"
+E07,Dry Plant,0,,70,,OFF,Bell,,,71,Single,,,
+E08,Reed Piano,0,,71,,OFF,Keyboard,,,72,Single,,,
+E09,Magnum Bass,0,,72,,OFF,Synth Bass,,,73,Single,,,
+E10,Mad Lead,0,,73,,OFF,Sequence,,,74,Single,Amp Level,Step Length,Panpot
+E11,Belly,0,,74,,OFF,Choir,,,75,Single,,,
+E12,BackInTheDay,0,,75,,OFF,Synth Lead,,,76,Single,,,
+E13,Synth Brass,0,,76,,OFF,Synth Brass,,,77,Single,,,
+E14,ElectroShock,0,,77,,Up,Sequence,,,78,Dual,"T1| Pitch
+T1| Cutoff","Cutoff
+None","None
+None"
+E15,Bakin' Bass,0,,78,,OFF,Synth Bass,,,79,Single,,,
+E16,Telephone,0,,79,,OFF,S.E.,,,80,Split,"T1 |
+T2 |",,
+F01,Golden Synth,0,,80,,,Synth Hard,,,81,Single,OSC2 Tune,None,None
+F02,Blue&White,0,,81,,Alt1,Arpeggio,,,82,Dual,"T1 |
+T2 |",,
+F03,Pan Tran,0,,82,,,Synth Pad,,,83,Single,Panpot,None,None
+F04,Warp Bass,0,,83,,OFF,Synth Bass,,,84,Single,,,
+F05,Killa Lead,0,,84,,OFF,Synth Lead,,,85,Single,,,
+F06,Tribe'n Beat,0,,85,,Up,Sequence,,,86,Dual,"T1| Amp Level
+T2| EG2 Decay","OSC2 Level
+Cutoff","None
+OSC1 Level"
+F07,Bound Ball,0,,86,,OFF,Bell,,,87,Single,,,
+F08,CuttingArpg,0,,87,,Trigger,Keyboard,,,88,Single,EG2 Release,Amp Level,None
+F09,Bass Machine,0,,88,,OFF,Synth Bass,,,89,Single,,,
+F10,Trip 2 Ibiza,0,,89,,,Sequence,,,90,Single,Cutoff,None,None
+F11,Ana Strings,0,,90,,OFF,Strings,,,91,Single,,,
+F12,Past Mind,0,,91,,OFF,Synth Lead,,,92,Split,"T1| EG1 Attack
+T2| Patch1 Int","Noise Level
+None","Patch1 Int
+None"
+F13,Future Vibe,0,,92,,OFF,Synth Soft,,,93,Single,,,
+F14,Euro Synthe,0,,93,,OFF,Sequence,,,94,Dual,"T1| Pitch
+T2| Pitch","None
+OSC1 Ctrl2","None
+Panpot"
+F15,Digy Bass,0,,94,,OFF,Synth Bass,,,95,Single,,,
+F16,Thunder,0,,95,,OFF,S.E.,,,96,Single,,,
+G01,Square Comp,0,,96,,OFF,Synth Hard,,,97,Single,,,
+G02,Krazy Arpy 2,0,,97,,Random,Arpeggio,,,98,Single,,,
+G03,Sweep Pad,0,,98,,OFF,Synth Pad,,,99,Single,,,
+G04,Sub Bass,0,,99,,OFF,Synth Bass,,,100,Single,,,
+G05,Phenomenon,0,,100,,OFF,Synth Lead,,,101,Single,,,
+G06,Ready 2 Air,0,,101,,OFF,Sequence,,,102,Dual,"T1| Cutoff
+T2| Pitch","Resonance
+Amp Level","Noise Level
+OSC1 Ctrl2"
+G07,X-Mod Perc,0,,102,,Random,Bell,,,103,Single,EG2 Decay,EG2 Release,Amp Level
+G08,BritishOrgan,0,,103,,OFF,Keyboard,,,104,Single,,,
+G09,80's Bass,0,,104,,OFF,Synth Bass,,,105,Single,,,
+G10,Min.Deal,0,,105,,OFF,Sequence,,,106,Dual,"T1| Amp Level
+T2| Amp Level","None
+None","None
+None"
+G11,Astral Vox,0,,106,,OFF,Choir,,,107,Single,,,
+G12,Rez Lead,0,,107,,OFF,Synth Lead,,,108,Single,,,
+G13,Soft Brass,0,,108,,OFF,Synth Brass,,,109,Single,,,
+G14,CPU Talk,0,,109,,OFF,Sequence,,,110,Single,OSC1 Ctrl1,Resonance,OSC2 Semi
+G15,Phunk Bass,0,,110,,OFF,Synth Bass,,,111,Single,,,
+G16,Jet Set 2000,0,,111,,OFF,S.E.,,,112,Single,,,
+H01,Poly400,0,,112,,OFF,Synth Hard,,,113,Single,Cutoff,None,None
+H02,Diginator,0,,113,,OFF,S.E.,,,114,Dual,"T1| Panpot
+T2| Pitch","None
+Amp Level","None
+None"
+H03,Light Pad,0,,114,,OFF,Synth Pad,,,115,Single,,,
+H04,Bass&5thLead,0,,115,,OFF,Synth Bass,,,116,Split,"T1 |
+T2 |",,
+H05,Woody's Lead,0,,116,,OFF,Synth Lead,,,117,Single,,,
+H06,Filter Muzik,0,,117,,OFF,Sequence,,,118,Dual,"T1| Pitch
+T1| Noise Level","None
+Cutoff","OSC2 Semi
+Pitch"
+H07,TimeZone SFX,0,,118,,OFF,S.E.,,,119,Single,,,
+H08,Pulse Comp,0,,119,,OFF,Keyboard,,,120,Single,,,
+H09,Vocoder Ens,0,,120,,OFF,Vocoder,,,121,Vocoder,,,
+H10,Vocoder Cho,0,,121,,OFF,Vocoder,,,122,Vocoder,,,
+H11,Vocoder Wah,0,,122,,OFF,Vocoder,,,123,Vocoder,,,
+H12,VocoderPulse,0,,123,,OFF,Vocoder,,,124,Vocoder,,,
+H13,VoiceChanger,0,,124,,OFF,Vocoder,,,125,Vocoder,,,
+H14,Vocodevil,0,,125,,OFF,Vocoder,,,126,Vocoder,,,
+H15,AudioIn INIT,0,,126,,Trigger,AudioIn,,,127,Single,,,
+H16,Init Program,0,,127,,OFF,Init Program,,,128,Single,,,
