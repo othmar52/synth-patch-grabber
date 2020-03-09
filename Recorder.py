@@ -2,12 +2,16 @@
 
 # thanks to https://stackoverflow.com/questions/18406570/python-record-audio-on-detected-sound#50340723
 
+
+# TODO properly set channel count based on mono-synth or stereo-synth
+
 import pyaudio
 import math
 import struct
 import wave
 import time
 import os
+import logging
 
 Threshold = 0.5
 
@@ -22,7 +26,10 @@ swidth = 2
 # seconds of silence after audio signal to trigger stop()
 TIMEOUT_LENGTH = 1
 
-EXIT_AFTER_SECONDS = 20
+EXIT_AFTER_SECONDS_SILENCE = 20
+
+# TODO: force recording stop to avoid endless recording of stuck notes
+EXIT_AFTER_SECONDS_AUDIO = 7
 
 f_name_directory = r'./'
 
@@ -39,7 +46,6 @@ class Recorder:
             n = sample * SHORT_NORMALIZE
             sum_squares += n * n
         rms = math.pow(sum_squares / count, 0.5)
-
         return rms * 1000
 
     def __init__(self):
@@ -58,7 +64,7 @@ class Recorder:
 
     def record(self):
         self.jobDone = False
-        print('Noise detected, recording beginning')
+        logging.debug('Noise detected, recording beginning')
         rec = []
         current = time.time()
         end = time.time() + TIMEOUT_LENGTH
@@ -85,7 +91,7 @@ class Recorder:
         wf.setframerate(RATE)
         wf.writeframes(recording)
         wf.close()
-        print('Written to file: {}'.format(filename))
+        logging.debug('Written to file: {}'.format(filename))
         self.jobDone = True
         self.unarm()
 
@@ -101,20 +107,20 @@ class Recorder:
         return self.resultFile
 
     def unarm(self):
-        print('unarming...')
+        logging.debug('unarming...')
         self.armed = False
 
     async def arm(self):
         while True:
             if self.recorderReady == True:
-                print('arming...')
+                logging.debug('arming...')
                 self.startTime = time.time()
                 self.armed = True
                 return
         
 
     def listen(self):
-        print('setting up recorder. waiting for arming...')
+        logging.info('setting up recorder. waiting for arming...')
         self.armed = False
         self.recorderReady = True
         
@@ -133,10 +139,10 @@ class Recorder:
                 input = None
                 #return self.resultFile
 
-            if time.time() - self.startTime > EXIT_AFTER_SECONDS:
+            if time.time() - self.startTime > EXIT_AFTER_SECONDS_SILENCE:
                 input = None
                 self.resultFile = None
-                print(" unable to detect audio. aborting....")
+                logging.info(" unable to detect audio. aborting....")
                 self.unarm()
                 #return None
 
