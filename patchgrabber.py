@@ -24,17 +24,26 @@ from NoteSequenceChooser import NoteSequenceChooser
 from Recorder import Recorder
 
 async def main():
-    logging.basicConfig(level=logging.DEBUG)
+    logging.basicConfig(level=logging.INFO)
 
+    # for debugging purposes
+    limitPatchesPerDevice = 1
 
     deviceConfigs = [
-        #{
-        #    "patchConfType": "csv",
-        #    "name": "Roland - JD-Xi ana",
-        #    "midiPort": 3,
-        #    "midiChannel": 3,
-        #    "csvPath": "csv/patchlist/Roland - JD-Xi ana.csv"
-        #},
+        {
+            "patchConfType": "csv",
+            "name": "Roland - TB-3",
+            "midiPort": 3,
+            "midiChannel": 9,
+            "csvPath": "csv/patchlist/Roland - TB-3.csv"
+        },
+        {
+            "patchConfType": "csv",
+            "name": "Roland - JD-Xi ana",
+            "midiPort": 3,
+            "midiChannel": 3,
+            "csvPath": "csv/patchlist/Roland - JD-Xi ana.csv"
+        },
         {
             "patchConfType": "csv",
             "name": "Roland - JD-Xi digi",
@@ -65,13 +74,6 @@ async def main():
         },
         {
             "patchConfType": "csv",
-            "name": "Roland - TB-3",
-            "midiPort": 3,
-            "midiChannel": 9,
-            "csvPath": "csv/patchlist/Roland - TB-3.csv"
-        },
-        {
-            "patchConfType": "csv",
             "name": "MicroKORG",
             "midiPort": 3,
             "midiChannel": 6,
@@ -83,14 +85,14 @@ async def main():
             "midiPort": 3,
             "midiChannel": 8,
             "csvPath": "csv/patchlist/MFB - Synth2.csv"
-        },
-        {
-            "patchConfType": "csv",
-            "name": "KORG - MS2000",
-            "midiPort": 3,
-            "midiChannel": 15,
-            "csvPath": "csv/patchlist/KORG - MS2000.csv"
-        },
+        }#,
+        #{
+        #    "patchConfType": "csv",
+        #    "name": "KORG - MS2000",
+        #    "midiPort": 3,
+        #    "midiChannel": 15,
+        #    "csvPath": "csv/patchlist/KORG - MS2000.csv"
+        #},
         #{
         #    "patchConfType": "generic",
         #    "name": "Example of generic device withou csv sounds list",
@@ -102,27 +104,6 @@ async def main():
         #}
     ]
 
-
-
-
-    deviceConfXigs = [
-        {
-            "patchConfType": "csv",
-            "name": "MicroKORG",
-            "midiPort": 3,
-            "midiChannel": 6,
-            "csvPath": "csv/patchlist/KORG - MicroKORG.csv"
-        },
-        {
-            "patchConfType": "generic",
-            "name": "Generic Virus",
-            "msb": [1],
-            "lsb": [],
-            "patchRange": range(40,41),
-            "midiPort": 3,
-            "midiChannel": 7
-        }
-    ]
 
     midiout = rtmidi.MidiOut()
 
@@ -138,7 +119,7 @@ async def main():
     recorderThread.start()
 
     for deviceConfig in deviceConfigs:
-        device = MidiControllableSoundDevice(deviceConfig)
+        device = MidiControllableSoundDevice(deviceConfig, limitPatchesPerDevice)
 
         audioSampleDir = Path("./output/%s" % device.name)
         rmtree(audioSampleDir, ignore_errors=True)
@@ -185,7 +166,7 @@ async def main():
             #yy = await task1
             
             if rec.getRecordingResult() == None or not os.path.isfile(rec.getRecordingResult()):
-                print( "TODO log failed recording of %s %s %s" % ( device.name, soundPatch.displayname, soundPatch.patchname))
+                logging.warning( "TODO: log failed recording of %s %s %s" % ( device.name, soundPatch.displayname, soundPatch.patchname))
             else:
                 targetFilePath = "%s/%s.wav" % ( str(audioSampleDir), soundPatch.fileName )
                 await awaitMoveFile(rec.getRecordingResult(), targetFilePath )
@@ -199,10 +180,6 @@ async def main():
 
     #recorderThread.exit()
     print ( "yeah")
-    sys.exit()
-    sys.exit()
-    sys.exit()
-    sys.exit()
     sys.exit()
 
 
@@ -218,17 +195,13 @@ async def main():
     #print ( "finished recording" )
 
 
-#async def audioRecording(rec):
-#    return rec.listen()
-
-
 
 async def awaitMoveFile(sourcePath, targetPath):
     move(str(sourcePath), str(targetPath))
 
 
 def generalCmd(cmdArgsList, description, readStdError = False):
-    logging.info("starting %s" % description)
+    logging.debug("starting %s" % description)
     logging.debug(' '.join(cmdArgsList))
     startTime = time.time()
     if readStdError:
@@ -239,9 +212,9 @@ def generalCmd(cmdArgsList, description, readStdError = False):
         processStdOut = process.stdout.read()
     retcode = process.wait()
     if retcode != 0:
-        print ( "ERROR: %s did not complete successfully (error code is %s)" % (description, retcode) )
+        logging.critical( "ERROR: %s did not complete successfully (error code is %s)" % (description, retcode) )
 
-    logging.info("finished %s in %s seconds" % ( description, '{0:.3g}'.format(time.time() - startTime) ) )
+    logging.debug("finished %s in %s seconds" % ( description, '{0:.3g}'.format(time.time() - startTime) ) )
     return processStdOut.decode('utf-8')
 
 def convertWavToMp3(inputPath, outputPath, bitrate):
