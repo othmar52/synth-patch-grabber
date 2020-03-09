@@ -20,7 +20,7 @@ swidth = 2
 
 
 # seconds of silence after audio signal to trigger stop()
-TIMEOUT_LENGTH = 0.2
+TIMEOUT_LENGTH = 1
 
 EXIT_AFTER_SECONDS = 20
 
@@ -46,6 +46,8 @@ class Recorder:
         self.startTime = time.time()
         self.jobDone = False
         self.resultFile = ""
+        self.armed = False
+        self.recorderReady = False
         self.p = pyaudio.PyAudio()
         self.stream = self.p.open(format=FORMAT,
                                   channels=CHANNELS,
@@ -55,6 +57,7 @@ class Recorder:
                                   frames_per_buffer=chunk)
 
     def record(self):
+        self.jobDone = False
         print('Noise detected, recording beginning')
         rec = []
         current = time.time()
@@ -71,8 +74,9 @@ class Recorder:
 
     def write(self, recording):
         n_files = len(os.listdir(f_name_directory))
-
         filename = os.path.join(f_name_directory, '{}.wav'.format(n_files))
+
+        filename = os.path.join(f_name_directory, 'current.wav')
         self.resultFile = filename
 
         wf = wave.open(filename, 'wb')
@@ -83,27 +87,58 @@ class Recorder:
         wf.close()
         print('Written to file: {}'.format(filename))
         self.jobDone = True
-        print('Returning to listening')
+        self.unarm()
 
 
 
-    def getJobDone(self):
-        return self.jobDone
+    def getRecordingResult(self):
+        return self.resultFile
+
+    async def getRecordingResultAsync(self):
+        while not self.jobDone:
+            continue
+
+        return self.resultFile
+
+    def unarm(self):
+        print('unarming...')
+        self.armed = False
+
+    async def arm(self):
+        while True:
+            if self.recorderReady == True:
+                print('arming...')
+                self.startTime = time.time()
+                self.armed = True
+                return
+        
 
     def listen(self):
-        print('Listening beginning')
+        print('setting up recorder. waiting for arming...')
+        self.armed = False
+        self.recorderReady = True
+        
         while True:
+            if self.armed == False:
+                input = None
+                continue
+
             input = self.stream.read(chunk)
             rms_val = self.rms(input)
             if rms_val > Threshold:
+                #print("still in record loop")
                 self.record()
 
             if self.jobDone == True:
-                return self.resultFile
+                input = None
+                #return self.resultFile
 
             if time.time() - self.startTime > EXIT_AFTER_SECONDS:
+                input = None
+                self.resultFile = None
                 print(" unable to detect audio. aborting....")
-                return None
+                self.unarm()
+                #return None
 
 #a = Recorder()
 #a.listen()

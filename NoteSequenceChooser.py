@@ -2,21 +2,23 @@
 #!/bin/env python3
 
 import time
+import asyncio
 
 '''
     todo: improve choosed notes
-    maybe soundPatch properties should affect the notes like "bass" in patch name or categoy names
+    maybe soundPatch properties should affect the notes like "bass" in patch name or category names
 '''
 class NoteSequenceChooser:
     def __init__(self, midiOutWrapper, soundPatch):
         self.midiOutWrapper = midiOutWrapper
         self.soundPatch = soundPatch
+        self.finishedAllSequences = False
 
-    def sendSequences(self):
+    async def sendSequences(self):
         seqs = [
             {
                 "notes": [60,64,68],
-                "duration": 0.2
+                "duration": 1.5
             },
             {
                 "notes": [45],
@@ -30,4 +32,9 @@ class NoteSequenceChooser:
             for note in sequence["notes"]:
                 self.midiOutWrapper.note_off(note)
             self.midiOutWrapper.send_all_sound_off()
-            time.sleep(1)
+            #time.sleep(0.5)
+
+        self.finishedAllSequences = True
+
+        #return 1
+            

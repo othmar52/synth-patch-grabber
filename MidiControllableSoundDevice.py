@@ -2,6 +2,7 @@
 
 import sys
 import csv
+import re
 
 class SoundPatch:
     def __init__(self, csvDict=None):
@@ -10,6 +11,7 @@ class SoundPatch:
         self.programchange = None
         self.displayname = None
         self.patchname = None
+        self.fileName = None
         self.samplePath = ""
         self.seconds = 0
         self.polyphonic = False
@@ -22,6 +24,11 @@ class SoundPatch:
         for key,value in csvDict.items():
             if hasattr(self, key):
                 self.__dict__[key] = value
+
+        self.fileName = self.cleanFileName()
+
+    def cleanFileName(self):
+        return re.sub('[^A-Za-z0-9.\-_]', '_', '%s-%s' % (self.displayname , self.patchname))
 
 
 class MidiControllableSoundDevice:
@@ -41,6 +48,12 @@ class MidiControllableSoundDevice:
                 self.__dict__[key] = value
 
         self.createSoundPatchList()
+        # TODO validate
+        # name required for directory
+        # add vendor for sub sub directories?
+        # soundpatches.displayName has to be unique
+        # midiChannel positive int
+
 
 
     def createSoundPatchList(self):
