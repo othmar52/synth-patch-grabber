@@ -105,7 +105,7 @@ async def main():
 
 
 
-    deviceConfigs = [
+    deviceConfXigs = [
         {
             "patchConfType": "csv",
             "name": "MicroKORG",
@@ -228,7 +228,7 @@ async def awaitMoveFile(sourcePath, targetPath):
 
 
 def generalCmd(cmdArgsList, description, readStdError = False):
-    logging.info("starting %s" % description)    
+    logging.info("starting %s" % description)
     logging.debug(' '.join(cmdArgsList))
     startTime = time.time()
     if readStdError:
