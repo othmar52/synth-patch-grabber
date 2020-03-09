@@ -190,6 +190,9 @@ async def main():
                 targetFilePath = "%s/%s.wav" % ( str(audioSampleDir), soundPatch.fileName )
                 await awaitMoveFile(rec.getRecordingResult(), targetFilePath )
                 normalizeWav(str(targetFilePath))
+                convertWavToMp3(targetFilePath, "%s/%s.mp3" % ( str(audioSampleDir), soundPatch.fileName ), 320)
+                os.unlink(str(targetFilePath))
+
             rec.unarm()
             del noteSender
         midiout.close_port()
@@ -241,7 +244,15 @@ def generalCmd(cmdArgsList, description, readStdError = False):
     logging.info("finished %s in %s seconds" % ( description, '{0:.3g}'.format(time.time() - startTime) ) )
     return processStdOut.decode('utf-8')
 
-
+def convertWavToMp3(inputPath, outputPath, bitrate):
+    cmd = [
+        'ffmpeg', '-y', '-hide_banner', '-v', 'quiet', '-stats',
+        '-i', str(inputPath),
+        '-c:a', 'libmp3lame',
+        '-ab', ('%sk'%bitrate),
+        str(outputPath)
+    ]
+    generalCmd(cmd, 'wav to mp3 conversion')
 
 def normalizeWav(inputFilePath):
     cmd = [
