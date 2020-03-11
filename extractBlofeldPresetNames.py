@@ -49,11 +49,16 @@ for f in args.files:
                         continue
                     patchNameChars.append(chr(chrOrd))
 
-                print(''.join(patchNameChars).strip(), categories[msg.data[385] ] )
+                try:
+                    categoryString = categories[msg.data[385]]
+                except IndexError:
+                    categoryString = ""
+
+                print(''.join(patchNameChars).strip(), categoryString )
                 counter += 1
                 if limitOutputTo == None:
                     continue
                 if counter > limitOutputTo:
                     sys.exit()
-            except (AttributeError, IndexError) as e:
+            except AttributeError:
                 continue
