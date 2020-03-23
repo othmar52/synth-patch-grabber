@@ -65,7 +65,8 @@ class SoundPatch:
             'categories': self.categories,
             'creator': self.creator,
             'duration': self.duration,
-            'digitakt': self.digitakt
+            'digitakt': self.digitakt,
+            'wavPeaks': self.wavPeaks
         }
         with open(self.samplePath + '.json', 'w') as jsonFile:
             json.dump(patchDict, jsonFile, indent=2)

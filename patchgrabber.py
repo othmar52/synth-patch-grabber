@@ -14,6 +14,8 @@ import re
 import os
 import asyncio
 import threading
+import wave
+import numpy as np
 
 from pathlib import Path
 from shutil import copyfile, move, rmtree
@@ -255,6 +257,13 @@ async def main():
 
                 soundPatch.samplePath = targetFilePath
                 soundPatch.duration = detectDuration(targetFilePath)
+
+                # we temporary need a wav file to create a waveform
+                tmpWav = targetFilePath + '.wav'
+                convertMp3ToWav(targetFilePath, tmpWav)
+                soundPatch.wavPeaks = getWaveformValues(tmpWav)
+                os.unlink(tmpWav)
+
                 soundPatch.persistJson(audioSampleDir)
                 patchJsonPaths['%s-%s' % ( device.uniquePrefix, soundPatch.displayname)] = targetFilePath + '.json'
             else:
@@ -310,6 +319,7 @@ async def main():
                     await awaitMoveFile(rec.getRecordingResult(), targetFilePathWav )
                     normalizeWav(str(targetFilePathWav))
                     convertWavToMp3(targetFilePathWav, targetFilePathMp3, 320)
+                    soundPatch.wavPeaks = getWaveformValues(targetFilePathWav)
                     os.unlink(str(targetFilePathWav))
                     soundPatch.samplePath = targetFilePathMp3
                     soundPatch.duration = detectDuration(targetFilePathMp3)
@@ -324,19 +334,6 @@ async def main():
     #recorderThread.exit()
     print ( "finished!\nhit Ctrl+C to stop")
     sys.exit()
-
-
-    #rec = Recorder()
-    #resultFile = rec.listen()
-    #if resultFile == None:
-    #    print( "TODO log failed recording")
-
-    #normalizeWav(resultFile)
-    #print(resultFile)
-
-
-    #print ( "finished recording" )
-
 
 
 async def awaitMoveFile(sourcePath, targetPath):
@@ -370,6 +367,17 @@ def convertWavToMp3(inputPath, outputPath, bitrate):
     ]
     generalCmd(cmd, 'wav to mp3 conversion')
 
+def convertMp3ToWav(inputPath, outputPath):
+    cmd = [
+        'ffmpeg', '-y', '-hide_banner', '-v', 'quiet', '-stats',
+        '-i', str(inputPath),
+        '-acodec', 'pcm_s16le',
+        '-ar', '44100',
+        str(outputPath)
+    ]
+    generalCmd(cmd, 'mp3 to wav conversion')
+
+
 def normalizeWav(inputFilePath):
     cmd = [
         'normalize', '--peak', inputFilePath
@@ -399,6 +407,68 @@ def detectDuration(filePath):
     ]
     processStdOut = generalCmd(cmd, 'detect duration')
     return float(processStdOut.strip())
+
+
+'''
+    dirty/simplyfied approach to get values for drawing a waveform
+    thanks to https://stackoverflow.com/questions/18625085/how-to-plot-a-wav-file/18625294#answer-42352826
+'''
+def getWaveformValues(inputWavFile, resolution=2048):
+
+    with wave.open(str(inputWavFile),'r') as wav_file:
+        #Extract Raw Audio from Wav File
+        signal = wav_file.readframes(-1)
+        signal = np.frombuffer(signal, dtype='int16')
+
+        #Split the data into channels
+        channels = [[] for channel in range(wav_file.getnchannels())]
+        for index, datum in enumerate(signal):
+            channels[index%len(channels)].append(datum)
+
+        return recalculateToRange(
+            createWavPeakList(channels)
+        )
+
+
+'''
+    reduces total values of the 2 channel arrays to limit
+    within value iteration the highest value is kept
+'''
+def createWavPeakList(channelPeaks, limit=1024):
+
+    totalValues = len(channelPeaks[0])
+    chunkSize = totalValues/limit
+
+    finalPeaks = []
+    chunkPeaks = []
+    for idx, chValue in enumerate(channelPeaks[0]):
+        if len(chunkPeaks) >= chunkSize:
+            finalPeaks.append( max( chunkPeaks ) )
+            chunkPeaks = []
+        chunkPeaks.append( abs(chValue) )
+        chunkPeaks.append( abs(channelPeaks[0][idx]) )
+
+    try:
+        finalPeaks.append( max( chunkPeaks ) )
+    except ValueError:
+        pass
+
+    return finalPeaks
+
+
+'''
+    this forces all list values to be lower than limit
+    all values get linear proportionally modified according to highest input value
+'''
+def recalculateToRange(inputList, limit=640):
+    maxValue = max(inputList)
+    result = []
+    for val in inputList:
+        percent = val / (maxValue/100)
+        result.append( int(percent * (limit/100)) )
+
+    return result
+
 
 if __name__ == "__main__":
     #main()
