@@ -1,4 +1,4 @@
-displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange,mode,skip,comment
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,mode,skip,comment
 P01,Concert Piano 1,0,,1,,,,,,1,Single,,
 P02,Concert Piano 2,0,,2,,,,,,2,Single,,
 P03,Rock Concert Piano 1,0,,3,,,,,,3,Single,,

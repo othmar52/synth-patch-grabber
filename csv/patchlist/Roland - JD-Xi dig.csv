@@ -1,4 +1,4 @@
-displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange
 001,JP8 Strings1,95,64,0,,,Strings/Pad,96,65,1
 002,Soft Pad 1,95,64,1,,,Strings/Pad,96,65,2
 003,JP8 Strings2,95,64,2,,,Strings/Pad,96,65,3

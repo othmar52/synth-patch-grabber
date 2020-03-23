@@ -1,4 +1,4 @@
-displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange
 001,Toxic Bass 1,94,64,0,,,,95,65,1
 002,Sub Bass 1,94,64,1,,,,95,65,2
 003,Backwards 1,94,64,2,,,,95,65,3

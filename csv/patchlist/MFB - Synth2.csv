@@ -1,4 +1,4 @@
-displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange,comment
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,comment
 01,Typical,0,,50,,,Lead,,,51,Preset+KB01
 02,Metasync,0,,51,,,Lead,,,52,Preset+KB02
 03,Bobcat,0,,52,,,Lead,,,53,Preset+KB03

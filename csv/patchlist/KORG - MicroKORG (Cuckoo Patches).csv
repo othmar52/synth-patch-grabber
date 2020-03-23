@@ -1,129 +1,129 @@
-displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange
-A.11,Mana Longing,0,,0,,,Favourites,,,1
-A.12,Bad Mahal,0,,1,,,Favourites,,,2
-A.13,Thunderfat,0,,2,,,Favourites,,,3
-A.14,Key Tramp,0,,3,,,Favourites,,,4
-A.15,Steel Pan,0,,4,,,Favourites,,,5
-A.16,Plinka Box,0,,5,,,Favourites,,,6
-A.17,Boston,0,,6,,,Favourites,,,7
-A.18,Silent Bella,0,,7,,,Favourites,,,8
-A.21,Bass Toe,0,,8,,,Bass,,,9
-A.22,Bassup,0,,9,,,Bass,,,10
-A.23,Boss Time,0,,10,,,Bass,,,11
-A.24,Bass mass,0,,11,,,Bass,,,12
-A.25,Synth Bass,0,,12,,,Bass,,,13
-A.26,Damnit Bass,0,,13,,,Bass,,,14
-A.27,Basstic,0,,14,,,Bass,,,15
-A.28,Just Bass,0,,15,,,Bass,,,16
-A.31,Key Bolton,0,,16,,,Keyboards,,,17
-A.32,Key Some,0,,17,,,Keyboards,,,18
-A.33,Key Thump,0,,18,,,Keyboards,,,19
-A.34,Key Mute,0,,19,,,Keyboards,,,20
-A.35,End Piano,0,,20,,,Keyboards,,,21
-A.36,Clavio,0,,21,,,Keyboards,,,22
-A.37,Sqeet Fox,0,,22,,,Keyboards,,,23
-A.38,Beardy Birds,0,,23,,,Keyboards,,,24
-A.41,Visconsin,0,,24,,,Sadventure,,,25
-A.42,Kitaro,0,,25,,,Sadventure,,,26
-A.43,SecretString,0,,26,,,Sadventure,,,27
-A.44,Hesa Hasse,0,,27,,,Sadventure,,,28
-A.45,Vibes,0,,28,,,Sadventure,,,29
-A.46,Setback,0,,29,,,Sadventure,,,30
-A.47,Whistler,0,,30,,,Sadventure,,,31
-A.48,Grain Spray,0,,31,,,Sadventure,,,32
-A.51,Bit Stars,0,,32,,,8-Bit,,,33
-A.52,BlandSquare,0,,33,,,8-Bit,,,34
-A.53,NESquare,0,,34,,,8-Bit,,,35
-A.54,NESWIZ,0,,35,,,8-Bit,,,36
-A.55,PitchDZA,0,,36,,,8-Bit,,,37
-A.56,PitchPatch,0,,37,,,8-Bit,,,38
-A.57,Clarisquare,0,,38,,,8-Bit,,,39
-A.58,Clarisquat,0,,39,,,8-Bit,,,40
-A.61,4ever Y,0,,40,,,Pads,,,41
-A.62,Dead Tower,0,,41,,,Pads,,,42
-A.63,Pad Mahal,0,,42,,,Pads,,,43
-A.64,Cric Mahal,0,,43,,,Pads,,,44
-A.65,Almost Heaven,0,,44,,,Pads,,,45
-A.66,Future Chron,0,,45,,,Pads,,,46
-A.67,Dolphester,0,,46,,,Pads,,,47
-A.68,Aunt Eve,0,,47,,,Pads,,,48
-A.71,Final Boss,0,,48,,,Arpeggio,,,49
-A.72,Cuckonga,0,,49,,,Arpeggio,,,50
-A.73,Boom Cha,0,,50,,,Arpeggio,,,51
-A.74,Quant Moment,0,,51,,,Arpeggio,,,52
-A.75,Multipeggio,0,,52,,,Arpeggio,,,53
-A.76,Risotto,0,,53,,,Arpeggio,,,54
-A.77,Peggiotto,0,,54,,,Arpeggio,,,55
-A.78,Spot On,0,,55,,,Arpeggio,,,56
-A.81,Sqeetypie,0,,56,,,Voice Like,,,57
-A.82,Squilt Song,0,,57,,,Voice Like,,,58
-A.83,Vixel Pixel,0,,58,,,Voice Like,,,59
-A.84,Vixel Piano,0,,59,,,Voice Like,,,60
-A.85,Tunnel bass,0,,60,,,Voice Like,,,61
-A.86,Weoweo,0,,61,,,Voice Like,,,62
-A.87,Argh,0,,62,,,Voice Like,,,63
-A.88,Save Shrine,0,,63,,,Voice Like,,,64
-B.11,Orgaston,0,,64,,,Organ,,,65
-B.12,Orgail,0,,65,,,Organ,,,66
-B.13,Orgain,0,,66,,,Organ,,,67
-B.14,Keyth,0,,67,,,Organ,,,68
-B.15,Orfar,0,,68,,,Organ,,,69
-B.16,Organ Pain,0,,69,,,Organ,,,70
-B.17,Nostrilamus,0,,70,,,Organ,,,71
-B.18,Boost Boss,0,,71,,,Organ,,,72
-B.21,Chrono bell,0,,72,,,Bell,,,73
-B.22,PlingPlague,0,,73,,,Bell,,,74
-B.23,Bellica,0,,74,,,Bell,,,75
-B.24,The Tower,0,,75,,,Bell,,,76
-B.25,Steel Panner,0,,76,,,Bell,,,77
-B.26,Stroked Bell,0,,77,,,Bell,,,78
-B.27,Bath Tubular,0,,78,,,Bell,,,79
-B.28,Blade blast,0,,79,,,Bell,,,80
-B.31,Thunderforte,0,,80,,,FM,,,81
-B.32,Thunderfat,0,,81,,,FM,,,82
-B.33,Thunderfault,0,,82,,,FM,,,83
-B.34,Thunderfeil,0,,83,,,FM,,,84
-B.35,Thunderror,0,,84,,,FM,,,85
-B.36,MechaCuckoo,0,,85,,,FM,,,86
-B.37,Nei Drops,0,,86,,,FM,,,87
-B.38,Beybey,0,,87,,,FM,,,88
-B.41,Shred Fred,0,,88,,,Solo,,,89
-B.42,Fluterier,0,,89,,,Solo,,,90
-B.43,Squitten,0,,90,,,Solo,,,91
-B.44,Eff Monotise,0,,91,,,Solo,,,92
-B.45,Beardy Bads,0,,92,,,Solo,,,93
-B.46,Happy Again,0,,93,,,Solo,,,94
-B.47,Evilin,0,,94,,,Solo,,,95
-B.48,Tub Bub,0,,95,,,Solo,,,96
-B.51,Chembalong,0,,96,,,Synth,,,97
-B.52,Kitty,0,,97,,,Synth,,,98
-B.53,Data Date,0,,98,,,Synth,,,99
-B.54,Pheena,0,,99,,,Synth,,,100
-B.55,Catwinkle,0,,100,,,Synth,,,101
-B.56,Mornie,0,,101,,,Synth,,,102
-B.57,Axel F,0,,102,,,Synth,,,103
-B.58,Peacer,0,,103,,,Synth,,,104
-B.61,Moms Grandma,0,,104,,,Background,,,105
-B.62,Plinka Pix,0,,105,,,Background,,,106
-B.63,WayBackOrgan,0,,106,,,Background,,,107
-B.64,Grumpa,0,,107,,,Background,,,108
-B.65,Fague Voyage,0,,108,,,Background,,,109
-B.66,MockLock,0,,109,,,Background,,,110
-B.67,Sqeet Vox,0,,110,,,Background,,,111
-B.68,Sqeet Piano,0,,111,,,Background,,,112
-B.71,HerpDerp,0,,112,,,Glitch,,,113
-B.72,Bengan,0,,113,,,Glitch,,,114
-B.73,Patchinko,0,,114,,,Glitch,,,115
-B.74,MoSteel,0,,115,,,Glitch,,,116
-B.75,Digistorm,0,,116,,,Glitch,,,117
-B.76,Datatheft,0,,117,,,Glitch,,,118
-B.77,Peg Bro,0,,118,,,Glitch,,,119
-B.78,Peg Sis,0,,119,,,Glitch,,,120
-B.81,Hello V,0,,120,,,Mic Input,,,121
-B.82,Lost Phone M,0,,121,,,Mic Input,,,122
-B.83,Sing Me Down,0,,122,,,Mic Input,,,123
-B.84,Faster,0,,123,,,Mic Input,,,124
-B.85,Stronger,0,,124,,,Mic Input,,,125
-B.86,Slow Peggy,0,,125,,,Mic Input,,,126
-B.87,Bit Vox Peg,0,,126,,,Mic Input,,,127
-B.88,Bit Vox,0,,127,,,Mic Input,,,128
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,yt-startsecond,yt-starttime,yt-endsecond,yt-link,creator
+A.11,Mana Longing,0,,0,,,Favourites,,,1,399.68,0:06:39.68,418.12,https://www.youtube.com/watch?v=UeiKJdvcync#t=399.68,Cuckoo
+A.12,Bad Mahal,0,,1,,,Favourites,,,2,418.12,0:06:58.12,431.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=418.12,Cuckoo
+A.13,Thunderfat,0,,2,,,Favourites,,,3,431.00,0:07:11,442.88,https://www.youtube.com/watch?v=UeiKJdvcync#t=431.00,Cuckoo
+A.14,Key Tramp,0,,3,,,Favourites,,,4,442.88,0:07:22.88,457.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=442.88,Cuckoo
+A.15,Steel Pan,0,,4,,,Favourites,,,5,457.00,0:07:37,466.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=457.00,Cuckoo
+A.16,Plinka Box,0,,5,,,Favourites,,,6,466.00,0:07:46,474.12,https://www.youtube.com/watch?v=UeiKJdvcync#t=466.00,Cuckoo
+A.17,Boston,0,,6,,,Favourites,,,7,474.12,0:07:54.12,483.60,https://www.youtube.com/watch?v=UeiKJdvcync#t=474.12,Cuckoo
+A.18,Silent Bella,0,,7,,,Favourites,,,8,483.60,0:08:03.60,499.48,https://www.youtube.com/watch?v=UeiKJdvcync#t=483.60,Cuckoo
+A.21,Bass Toe,0,,8,,,Bass,,,9,499.48,0:08:19.48,508.28,https://www.youtube.com/watch?v=UeiKJdvcync#t=499.48,Cuckoo
+A.22,Bassup,0,,9,,,Bass,,,10,508.28,0:08:28.28,517.60,https://www.youtube.com/watch?v=UeiKJdvcync#t=508.28,Cuckoo
+A.23,Boss Time,0,,10,,,Bass,,,11,517.60,0:08:37.60,526.96,https://www.youtube.com/watch?v=UeiKJdvcync#t=517.60,Cuckoo
+A.24,Bass mass,0,,11,,,Bass,,,12,526.96,0:08:46.96,534.56,https://www.youtube.com/watch?v=UeiKJdvcync#t=526.96,Cuckoo
+A.25,Synth Bass,0,,12,,,Bass,,,13,534.56,0:08:54.56,547.68,https://www.youtube.com/watch?v=UeiKJdvcync#t=534.56,Cuckoo
+A.26,Damnit Bass,0,,13,,,Bass,,,14,547.68,0:09:07.68,553.76,https://www.youtube.com/watch?v=UeiKJdvcync#t=547.68,Cuckoo
+A.27,Basstic,0,,14,,,Bass,,,15,553.76,0:09:13.76,562.76,https://www.youtube.com/watch?v=UeiKJdvcync#t=553.76,Cuckoo
+A.28,Just Bass,0,,15,,,Bass,,,16,562.76,0:09:22.76,573.44,https://www.youtube.com/watch?v=UeiKJdvcync#t=562.76,Cuckoo
+A.31,Key Bolton,0,,16,,,Keyboards,,,17,573.44,0:09:33.44,583.24,https://www.youtube.com/watch?v=UeiKJdvcync#t=573.44,Cuckoo
+A.32,Key Some,0,,17,,,Keyboards,,,18,583.24,0:09:43.24,593.20,https://www.youtube.com/watch?v=UeiKJdvcync#t=583.24,Cuckoo
+A.33,Key Thump,0,,18,,,Keyboards,,,19,593.20,0:09:53.20,602.56,https://www.youtube.com/watch?v=UeiKJdvcync#t=593.20,Cuckoo
+A.34,Key Mute,0,,19,,,Keyboards,,,20,602.56,0:10:02.56,614.92,https://www.youtube.com/watch?v=UeiKJdvcync#t=602.56,Cuckoo
+A.35,End Piano,0,,20,,,Keyboards,,,21,614.92,0:10:14.92,626.32,https://www.youtube.com/watch?v=UeiKJdvcync#t=614.92,Cuckoo
+A.36,Clavio,0,,21,,,Keyboards,,,22,626.32,0:10:26.32,634.24,https://www.youtube.com/watch?v=UeiKJdvcync#t=626.32,Cuckoo
+A.37,Sqeet Fox,0,,22,,,Keyboards,,,23,634.24,0:10:34.24,649.76,https://www.youtube.com/watch?v=UeiKJdvcync#t=634.24,Cuckoo
+A.38,Beardy Birds,0,,23,,,Keyboards,,,24,649.76,0:10:49.76,658.72,https://www.youtube.com/watch?v=UeiKJdvcync#t=649.76,Cuckoo
+A.41,Visconsin,0,,24,,,Sadventure,,,25,658.72,0:10:58.72,668.44,https://www.youtube.com/watch?v=UeiKJdvcync#t=658.72,Cuckoo
+A.42,Kitaro,0,,25,,,Sadventure,,,26,668.44,0:11:08.44,683.04,https://www.youtube.com/watch?v=UeiKJdvcync#t=668.44,Cuckoo
+A.43,SecretString,0,,26,,,Sadventure,,,27,683.04,0:11:23.04,694.60,https://www.youtube.com/watch?v=UeiKJdvcync#t=683.04,Cuckoo
+A.44,Hesa Hasse,0,,27,,,Sadventure,,,28,694.60,0:11:34.60,709.04,https://www.youtube.com/watch?v=UeiKJdvcync#t=694.60,Cuckoo
+A.45,Vibes,0,,28,,,Sadventure,,,29,709.04,0:11:49.04,720.96,https://www.youtube.com/watch?v=UeiKJdvcync#t=709.04,Cuckoo
+A.46,Setback,0,,29,,,Sadventure,,,30,720.96,0:12:00.96,731.52,https://www.youtube.com/watch?v=UeiKJdvcync#t=720.96,Cuckoo
+A.47,Whistler,0,,30,,,Sadventure,,,31,731.52,0:12:11.52,738.88,https://www.youtube.com/watch?v=UeiKJdvcync#t=731.52,Cuckoo
+A.48,Grain Spray,0,,31,,,Sadventure,,,32,738.88,0:12:18.88,751.84,https://www.youtube.com/watch?v=UeiKJdvcync#t=738.88,Cuckoo
+A.51,Bit Stars,0,,32,,,8-Bit,,,33,751.84,0:12:31.84,761.08,https://www.youtube.com/watch?v=UeiKJdvcync#t=751.84,Cuckoo
+A.52,BlandSquare,0,,33,,,8-Bit,,,34,761.08,0:12:41.08,774.28,https://www.youtube.com/watch?v=UeiKJdvcync#t=761.08,Cuckoo
+A.53,NESquare,0,,34,,,8-Bit,,,35,774.28,0:12:54.28,789.76,https://www.youtube.com/watch?v=UeiKJdvcync#t=774.28,Cuckoo
+A.54,NESWIZ,0,,35,,,8-Bit,,,36,789.76,0:13:09.76,806.28,https://www.youtube.com/watch?v=UeiKJdvcync#t=789.76,Cuckoo
+A.55,PitchDZA,0,,36,,,8-Bit,,,37,806.28,0:13:26.28,818.76,https://www.youtube.com/watch?v=UeiKJdvcync#t=806.28,Cuckoo
+A.56,PitchPatch,0,,37,,,8-Bit,,,38,818.76,0:13:38.76,831.60,https://www.youtube.com/watch?v=UeiKJdvcync#t=818.76,Cuckoo
+A.57,Clarisquare,0,,38,,,8-Bit,,,39,831.60,0:13:51.60,843.48,https://www.youtube.com/watch?v=UeiKJdvcync#t=831.60,Cuckoo
+A.58,Clarisquat,0,,39,,,8-Bit,,,40,843.48,0:14:03.48,854.72,https://www.youtube.com/watch?v=UeiKJdvcync#t=843.48,Cuckoo
+A.61,4ever Y,0,,40,,,Pads,,,41,854.72,0:14:14.72,870.72,https://www.youtube.com/watch?v=UeiKJdvcync#t=854.72,Cuckoo
+A.62,Dead Tower,0,,41,,,Pads,,,42,870.72,0:14:30.72,883.48,https://www.youtube.com/watch?v=UeiKJdvcync#t=870.72,Cuckoo
+A.63,Pad Mahal,0,,42,,,Pads,,,43,883.48,0:14:43.48,897.60,https://www.youtube.com/watch?v=UeiKJdvcync#t=883.48,Cuckoo
+A.64,Cric Mahal,0,,43,,,Pads,,,44,897.60,0:14:57.60,908.96,https://www.youtube.com/watch?v=UeiKJdvcync#t=897.60,Cuckoo
+A.65,Almost Heaven,0,,44,,,Pads,,,45,908.96,0:15:08.96,919.88,https://www.youtube.com/watch?v=UeiKJdvcync#t=908.96,Cuckoo
+A.66,Future Chron,0,,45,,,Pads,,,46,919.88,0:15:19.88,936.92,https://www.youtube.com/watch?v=UeiKJdvcync#t=919.88,Cuckoo
+A.67,Dolphester,0,,46,,,Pads,,,47,936.92,0:15:36.92,953.88,https://www.youtube.com/watch?v=UeiKJdvcync#t=936.92,Cuckoo
+A.68,Aunt Eve,0,,47,,,Pads,,,48,953.88,0:15:53.88,967.20,https://www.youtube.com/watch?v=UeiKJdvcync#t=953.88,Cuckoo
+A.71,Final Boss,0,,48,,,Arpeggio,,,49,967.20,0:16:07.20,986.96,https://www.youtube.com/watch?v=UeiKJdvcync#t=967.20,Cuckoo
+A.72,Cuckonga,0,,49,,,Arpeggio,,,50,986.96,0:16:26.96,994.32,https://www.youtube.com/watch?v=UeiKJdvcync#t=986.96,Cuckoo
+A.73,Boom Cha,0,,50,,,Arpeggio,,,51,994.32,0:16:34.32,1003.40,https://www.youtube.com/watch?v=UeiKJdvcync#t=994.32,Cuckoo
+A.74,Quant Moment,0,,51,,,Arpeggio,,,52,1003.40,0:16:43.40,1019.32,https://www.youtube.com/watch?v=UeiKJdvcync#t=1003.40,Cuckoo
+A.75,Multipeggio,0,,52,,,Arpeggio,,,53,1019.32,0:16:59.32,1038.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=1019.32,Cuckoo
+A.76,Risotto,0,,53,,,Arpeggio,,,54,1038.00,0:17:18,1053.72,https://www.youtube.com/watch?v=UeiKJdvcync#t=1038.00,Cuckoo
+A.77,Peggiotto,0,,54,,,Arpeggio,,,55,1053.72,0:17:33.72,1070.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=1053.72,Cuckoo
+A.78,Spot On,0,,55,,,Arpeggio,,,56,1070.00,0:17:50,1094.28,https://www.youtube.com/watch?v=UeiKJdvcync#t=1070.00,Cuckoo
+A.81,Sqeetypie,0,,56,,,Voice Like,,,57,1094.28,0:18:14.28,1105.40,https://www.youtube.com/watch?v=UeiKJdvcync#t=1094.28,Cuckoo
+A.82,Squilt Song,0,,57,,,Voice Like,,,58,1105.40,0:18:25.40,1111.64,https://www.youtube.com/watch?v=UeiKJdvcync#t=1105.40,Cuckoo
+A.83,Vixel Pixel,0,,58,,,Voice Like,,,59,1111.64,0:18:31.64,1119.76,https://www.youtube.com/watch?v=UeiKJdvcync#t=1111.64,Cuckoo
+A.84,Vixel Piano,0,,59,,,Voice Like,,,60,1119.76,0:18:39.76,1132.88,https://www.youtube.com/watch?v=UeiKJdvcync#t=1119.76,Cuckoo
+A.85,Tunnel bass,0,,60,,,Voice Like,,,61,1132.88,0:18:52.88,1143.04,https://www.youtube.com/watch?v=UeiKJdvcync#t=1132.88,Cuckoo
+A.86,Weoweo,0,,61,,,Voice Like,,,62,1143.04,0:19:03.04,1152.84,https://www.youtube.com/watch?v=UeiKJdvcync#t=1143.04,Cuckoo
+A.87,Argh,0,,62,,,Voice Like,,,63,1152.84,0:19:12.84,1162.28,https://www.youtube.com/watch?v=UeiKJdvcync#t=1152.84,Cuckoo
+A.88,Save Shrine,0,,63,,,Voice Like,,,64,1162.28,0:19:22.28,1173.92,https://www.youtube.com/watch?v=UeiKJdvcync#t=1162.28,Cuckoo
+B.11,Orgaston,0,,64,,,Organ,,,65,1173.92,0:19:33.92,1188.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=1173.92,Cuckoo
+B.12,Orgail,0,,65,,,Organ,,,66,1188.00,0:19:48,1194.88,https://www.youtube.com/watch?v=UeiKJdvcync#t=1188.00,Cuckoo
+B.13,Orgain,0,,66,,,Organ,,,67,1194.88,0:19:54.88,1208.56,https://www.youtube.com/watch?v=UeiKJdvcync#t=1194.88,Cuckoo
+B.14,Keyth,0,,67,,,Organ,,,68,1208.56,0:20:08.56,1218.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=1208.56,Cuckoo
+B.15,Orfar,0,,68,,,Organ,,,69,1218.00,0:20:18,1230.16,https://www.youtube.com/watch?v=UeiKJdvcync#t=1218.00,Cuckoo
+B.16,Organ Pain,0,,69,,,Organ,,,70,1230.16,0:20:30.16,1241.68,https://www.youtube.com/watch?v=UeiKJdvcync#t=1230.16,Cuckoo
+B.17,Nostrilamus,0,,70,,,Organ,,,71,1241.68,0:20:41.68,1258.36,https://www.youtube.com/watch?v=UeiKJdvcync#t=1241.68,Cuckoo
+B.18,Boost Boss,0,,71,,,Organ,,,72,1258.36,0:20:58.36,1268.64,https://www.youtube.com/watch?v=UeiKJdvcync#t=1258.36,Cuckoo
+B.21,Chrono bell,0,,72,,,Bell,,,73,1268.64,0:21:08.64,1277.36,https://www.youtube.com/watch?v=UeiKJdvcync#t=1268.64,Cuckoo
+B.22,PlingPlague,0,,73,,,Bell,,,74,1277.36,0:21:17.36,1288.04,https://www.youtube.com/watch?v=UeiKJdvcync#t=1277.36,Cuckoo
+B.23,Bellica,0,,74,,,Bell,,,75,1288.04,0:21:28.04,1296.16,https://www.youtube.com/watch?v=UeiKJdvcync#t=1288.04,Cuckoo
+B.24,The Tower,0,,75,,,Bell,,,76,1296.16,0:21:36.16,1303.92,https://www.youtube.com/watch?v=UeiKJdvcync#t=1296.16,Cuckoo
+B.25,Steel Panner,0,,76,,,Bell,,,77,1303.92,0:21:43.92,1317.16,https://www.youtube.com/watch?v=UeiKJdvcync#t=1303.92,Cuckoo
+B.26,Stroked Bell,0,,77,,,Bell,,,78,1317.16,0:21:57.16,1327.08,https://www.youtube.com/watch?v=UeiKJdvcync#t=1317.16,Cuckoo
+B.27,Bath Tubular,0,,78,,,Bell,,,79,1327.08,0:22:07.08,1335.72,https://www.youtube.com/watch?v=UeiKJdvcync#t=1327.08,Cuckoo
+B.28,Blade blast,0,,79,,,Bell,,,80,1335.72,0:22:15.72,1341.16,https://www.youtube.com/watch?v=UeiKJdvcync#t=1335.72,Cuckoo
+B.31,Thunderforte,0,,80,,,FM,,,81,1341.16,0:22:21.16,1352.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=1341.16,Cuckoo
+B.32,Thunderfat,0,,81,,,FM,,,82,1352.00,0:22:32,1363.12,https://www.youtube.com/watch?v=UeiKJdvcync#t=1352.00,Cuckoo
+B.33,Thunderfault,0,,82,,,FM,,,83,1363.12,0:22:43.12,1376.28,https://www.youtube.com/watch?v=UeiKJdvcync#t=1363.12,Cuckoo
+B.34,Thunderfeil,0,,83,,,FM,,,84,1376.28,0:22:56.28,1386.28,https://www.youtube.com/watch?v=UeiKJdvcync#t=1376.28,Cuckoo
+B.35,Thunderror,0,,84,,,FM,,,85,1386.28,0:23:06.28,1397.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=1386.28,Cuckoo
+B.36,MechaCuckoo,0,,85,,,FM,,,86,1397.00,0:23:17,1406.88,https://www.youtube.com/watch?v=UeiKJdvcync#t=1397.00,Cuckoo
+B.37,Nei Drops,0,,86,,,FM,,,87,1406.88,0:23:26.88,1416.24,https://www.youtube.com/watch?v=UeiKJdvcync#t=1406.88,Cuckoo
+B.38,Beybey,0,,87,,,FM,,,88,1416.24,0:23:36.24,1431.24,https://www.youtube.com/watch?v=UeiKJdvcync#t=1416.24,Cuckoo
+B.41,Shred Fred,0,,88,,,Solo,,,89,1431.24,0:23:51.24,1444.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=1431.24,Cuckoo
+B.42,Fluterier,0,,89,,,Solo,,,90,1444.00,0:24:04,1452.20,https://www.youtube.com/watch?v=UeiKJdvcync#t=1444.00,Cuckoo
+B.43,Squitten,0,,90,,,Solo,,,91,1452.20,0:24:12.20,1466.08,https://www.youtube.com/watch?v=UeiKJdvcync#t=1452.20,Cuckoo
+B.44,Eff Monotise,0,,91,,,Solo,,,92,1466.08,0:24:26.08,1479.52,https://www.youtube.com/watch?v=UeiKJdvcync#t=1466.08,Cuckoo
+B.45,Beardy Bads,0,,92,,,Solo,,,93,1479.52,0:24:39.52,1488.64,https://www.youtube.com/watch?v=UeiKJdvcync#t=1479.52,Cuckoo
+B.46,Happy Again,0,,93,,,Solo,,,94,1488.64,0:24:48.64,1497.64,https://www.youtube.com/watch?v=UeiKJdvcync#t=1488.64,Cuckoo
+B.47,Evilin,0,,94,,,Solo,,,95,1497.64,0:24:57.64,1506.96,https://www.youtube.com/watch?v=UeiKJdvcync#t=1497.64,Cuckoo
+B.48,Tub Bub,0,,95,,,Solo,,,96,1506.96,0:25:06.96,1516.08,https://www.youtube.com/watch?v=UeiKJdvcync#t=1506.96,Cuckoo
+B.51,Chembalong,0,,96,,,Synth,,,97,1516.08,0:25:16.08,1526.48,https://www.youtube.com/watch?v=UeiKJdvcync#t=1516.08,Cuckoo
+B.52,Kitty,0,,97,,,Synth,,,98,1526.48,0:25:26.48,1534.36,https://www.youtube.com/watch?v=UeiKJdvcync#t=1526.48,Cuckoo
+B.53,Data Date,0,,98,,,Synth,,,99,1534.36,0:25:34.36,1547.52,https://www.youtube.com/watch?v=UeiKJdvcync#t=1534.36,Cuckoo
+B.54,Pheena,0,,99,,,Synth,,,100,1547.52,0:25:47.52,1563.16,https://www.youtube.com/watch?v=UeiKJdvcync#t=1547.52,Cuckoo
+B.55,Catwinkle,0,,100,,,Synth,,,101,1563.16,0:26:03.16,1580.16,https://www.youtube.com/watch?v=UeiKJdvcync#t=1563.16,Cuckoo
+B.56,Mornie,0,,101,,,Synth,,,102,1580.16,0:26:20.16,1597.40,https://www.youtube.com/watch?v=UeiKJdvcync#t=1580.16,Cuckoo
+B.57,Axel F,0,,102,,,Synth,,,103,1597.40,0:26:37.40,1605.60,https://www.youtube.com/watch?v=UeiKJdvcync#t=1597.40,Cuckoo
+B.58,Peacer,0,,103,,,Synth,,,104,1605.60,0:26:45.60,1624.40,https://www.youtube.com/watch?v=UeiKJdvcync#t=1605.60,Cuckoo
+B.61,Moms Grandma,0,,104,,,Background,,,105,1624.40,0:27:04.40,1635.44,https://www.youtube.com/watch?v=UeiKJdvcync#t=1624.40,Cuckoo
+B.62,Plinka Pix,0,,105,,,Background,,,106,1635.44,0:27:15.44,1649.24,https://www.youtube.com/watch?v=UeiKJdvcync#t=1635.44,Cuckoo
+B.63,WayBackOrgan,0,,106,,,Background,,,107,1649.24,0:27:29.24,1659.20,https://www.youtube.com/watch?v=UeiKJdvcync#t=1649.24,Cuckoo
+B.64,Grumpa,0,,107,,,Background,,,108,1659.20,0:27:39.20,1670.12,https://www.youtube.com/watch?v=UeiKJdvcync#t=1659.20,Cuckoo
+B.65,Fague Voyage,0,,108,,,Background,,,109,1670.12,0:27:50.12,1683.44,https://www.youtube.com/watch?v=UeiKJdvcync#t=1670.12,Cuckoo
+B.66,MockLock,0,,109,,,Background,,,110,1683.44,0:28:03.44,1698.12,https://www.youtube.com/watch?v=UeiKJdvcync#t=1683.44,Cuckoo
+B.67,Sqeet Vox,0,,110,,,Background,,,111,1698.12,0:28:18.12,1711.36,https://www.youtube.com/watch?v=UeiKJdvcync#t=1698.12,Cuckoo
+B.68,Sqeet Piano,0,,111,,,Background,,,112,1711.36,0:28:31.36,1727.88,https://www.youtube.com/watch?v=UeiKJdvcync#t=1711.36,Cuckoo
+B.71,HerpDerp,0,,112,,,Glitch,,,113,1727.88,0:28:47.88,1734.48,https://www.youtube.com/watch?v=UeiKJdvcync#t=1727.88,Cuckoo
+B.72,Bengan,0,,113,,,Glitch,,,114,1734.48,0:28:54.48,1741.16,https://www.youtube.com/watch?v=UeiKJdvcync#t=1734.48,Cuckoo
+B.73,Patchinko,0,,114,,,Glitch,,,115,1741.16,0:29:01.16,1749.24,https://www.youtube.com/watch?v=UeiKJdvcync#t=1741.16,Cuckoo
+B.74,MoSteel,0,,115,,,Glitch,,,116,1749.24,0:29:09.24,1760.72,https://www.youtube.com/watch?v=UeiKJdvcync#t=1749.24,Cuckoo
+B.75,Digistorm,0,,116,,,Glitch,,,117,1760.72,0:29:20.72,1769.36,https://www.youtube.com/watch?v=UeiKJdvcync#t=1760.72,Cuckoo
+B.76,Datatheft,0,,117,,,Glitch,,,118,1769.36,0:29:29.36,1777.68,https://www.youtube.com/watch?v=UeiKJdvcync#t=1769.36,Cuckoo
+B.77,Peg Bro,0,,118,,,Glitch,,,119,1777.68,0:29:37.68,1793.48,https://www.youtube.com/watch?v=UeiKJdvcync#t=1777.68,Cuckoo
+B.78,Peg Sis,0,,119,,,Glitch,,,120,1793.48,0:29:53.48,1808.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=1793.48,Cuckoo
+B.81,Hello V,0,,120,,,Mic Input,,,121,1817.76,0:30:17.76,1835.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=1817.76,Cuckoo
+B.82,Lost Phone M,0,,121,,,Mic Input,,,122,1835.00,0:30:35,1862.72,https://www.youtube.com/watch?v=UeiKJdvcync#t=1835.00,Cuckoo
+B.83,Sing Me Down,0,,122,,,Mic Input,,,123,1862.72,0:31:02.72,1878.96,https://www.youtube.com/watch?v=UeiKJdvcync#t=1862.72,Cuckoo
+B.84,Faster,0,,123,,,Mic Input,,,124,1878.96,0:31:18.96,1893.80,https://www.youtube.com/watch?v=UeiKJdvcync#t=1878.96,Cuckoo
+B.85,Stronger,0,,124,,,Mic Input,,,125,1893.80,0:31:33.80,1904.20,https://www.youtube.com/watch?v=UeiKJdvcync#t=1893.80,Cuckoo
+B.86,Slow Peggy,0,,125,,,Mic Input,,,126,1904.20,0:31:44.20,1918.72,https://www.youtube.com/watch?v=UeiKJdvcync#t=1904.20,Cuckoo
+B.87,Bit Vox Peg,0,,126,,,Mic Input,,,127,1918.72,0:31:58.72,1942.00,https://www.youtube.com/watch?v=UeiKJdvcync#t=1918.72,Cuckoo
+B.88,Bit Vox,0,,127,,,Mic Input,,,128,1942.00,0:32:22,1949.52,https://www.youtube.com/watch?v=UeiKJdvcync#t=1942.00,Cuckoo

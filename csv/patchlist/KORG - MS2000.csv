@@ -1,4 +1,4 @@
-displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange,Mode,SEQ 1,SEQ 2,SEQ 3
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,Mode,SEQ 1,SEQ 2,SEQ 3
 A01,Stab Saw,0,,0,,OFF,Synth Hard,,,1,Single,,,
 A02,Synth Lana,0,,1,,Up,Arpeggio,,,2,Single,Panpot,Pitch,Step Length
 A03,Evolution,0,,2,,OFF,Synth Pad,,,3,Single,LFO1 Freq,Patch 4 Int,EG2 Release

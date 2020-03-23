@@ -1,257 +1,257 @@
-displayname,patchname,msb,lsb,programchange,poly,arp,categories,dt-bank,dt-sbnk,dt-programchange
-A0,Overture K,0,,0,,,,,1,1
-A1,First K,0,,1,,,,,1,2
-A2,Virus K,0,,2,,,,,1,3
-A3,V-Pad 1 K,0,,3,,,,,1,4
-A4,V-Birth1 K,0,,4,,,,,1,5
-A5,V-Birth1 K,0,,5,,,,,1,6
-A6,V-Birth2 K,0,,6,,,,,1,7
-A7,RavePad1 K,0,,7,,,,,1,8
-A8,RavePad2 K,0,,8,,,,,1,9
-A9,Compres2 K,0,,9,,,,,1,10
-A10,Basics,0,,10,,,,,1,11
-A11,PP?-PAD RP,0,,11,,,,,1,12
-A12,NO-SEQ RP,0,,12,,,,,1,13
-A13,FusionBrs,0,,13,,,,,1,14
-A14,V-Pad 2 K,0,,14,,,,,1,15
-A15,Vi-bass RP,0,,15,,,,,1,16
-A16,VI-SYNC RP,0,,16,,,,,1,17
-A17,ZZ-ROB RP,0,,17,,,,,1,18
-A18,Polaris,0,,18,,,,,1,19
-A19,Compress K,0,,19,,,,,1,20
-A20,SatSync K,0,,20,,,,,1,21
-A21,VIP-PAD RP,0,,21,,,,,1,22
-A22,ZZ-bass RP,0,,22,,,,,1,23
-A23,XOBASS RP,0,,23,,,,,1,24
-A24,SeqBass 2,0,,24,,,,,1,25
-A25,PickBass 2,0,,25,,,,,1,26
-A26,No Age,0,,26,,,,,1,27
-A27,Bass-MAN,0,,27,,,,,1,28
-A28,PAD-777 RP,0,,28,,,,,1,29
-A29,WangTang,0,,29,,,,,1,30
-A30,Virus 2 K,0,,30,,,,,1,31
-A31,D-SOCK RP,0,,31,,,,,1,32
-A32,Clockwork,0,,32,,,,,1,33
-A33,Cybercussn,0,,33,,,,,1,34
-A34,Shivatron,0,,34,,,,,1,35
-A35,V-Resoni K,0,,35,,,,,1,36
-A36,Whew!,0,,36,,,,,1,37
-A37,TechnoArp,0,,37,,,,,1,38
-A38,Strongs,0,,38,,,,,1,39
-A39,Tension...,0,,39,,,,,1,40
-A40,Penicillin,0,,40,,,,,1,41
-A41,Bellthing,0,,41,,,,,1,42
-A42,V-Church K,0,,42,,,Organ,,1,43
-A43,HOLLAND RP,0,,43,,,,,1,44
-A44,PEG Horns,0,,44,,,,,1,45
-A45,Fluffy,0,,45,,,,,1,46
-A46,Jet*Lag,0,,46,,,,,1,47
-A47,Basics,0,,47,,,,,1,48
-A48,InfectLead,0,,48,,,,,1,49
-A49,Melodies,0,,49,,,,,1,50
-A50,Infected,0,,50,,,,,1,51
-A51,Sitar,0,,51,,,,,1,52
-A52,V-Orgel K,0,,52,,,Organ,,1,53
-A53,Cutoff K,0,,53,,,,,1,54
-A54,V-Birth3 K,0,,54,,,,,1,55
-A55,V-Reso2 K,0,,55,,,,,1,56
-A56,V-Pad 1 K,0,,56,,,,,1,57
-A57,PPG Bass,0,,57,,,,,1,58
-A58,Zoober,0,,58,,,,,1,59
-A59,Pad-Shop 2,0,,59,,,,,1,60
-A60,USA RP,0,,60,,,,,1,61
-A61,BoomB RP,0,,61,,,,,1,62
-A62,Clockshop,0,,62,,,,,1,63
-A63,ZZ-YOU RP,0,,63,,,,,1,64
-A64,S.Stevens,0,,64,,,,,1,65
-A65,Spinett,0,,65,,,,,1,66
-A66,SteelDrum,0,,66,,,,,1,67
-A67,MoogBass 1,0,,67,,,,,1,68
-A68,MoogBass 2,0,,68,,,,,1,69
-A69,PercVox,0,,69,,,,,1,70
-A70,PhaseStrng,0,,70,,,,,1,71
-A71,MoogBass3,0,,71,,,,,1,72
-A72,PPG Bass2,0,,72,,,,,1,73
-A73,S&H Arp,0,,73,,,,,1,74
-A74,J.Arnold,0,,74,,,,,1,75
-A75,SpaceChor2,0,,75,,,,,1,76
-A76,Arpegiator,0,,76,,,,,1,77
-A77,Arpeg 2,0,,77,,,,,1,78
-A78,Ufo 1,0,,78,,,,,1,79
-A79,Thing !,0,,79,,,,,1,80
-A80,Ufo 2,0,,80,,,,,1,81
-A81,Arpeggia,0,,81,,,,,1,82
-A82,Rave 2,0,,82,,,,,1,83
-A83,Adrenalin1,0,,83,,,,,1,84
-A84,Adrenalin2,0,,84,,,,,1,85
-A85,ResoBS,0,,85,,,,,1,86
-A86,BD12,0,,86,,,,,1,87
-A87,BD10,0,,87,,,,,1,88
-A88,ARP KCK RP,0,,88,,,,,1,89
-A89,V-KICK RP,0,,89,,,,,1,90
-A90,909 KCK RP,0,,90,,,,,1,91
-A91,908 KCK RP,0,,91,,,,,1,92
-A92,BD 1 <C3>,0,,92,,,,,1,93
-A93,BD 2 (C3),0,,93,,,,,1,94
-A94,BD 3 (C3),0,,94,,,,,1,95
-A95,BD 4 (C3),0,,95,,,,,1,96
-A96,BD 5 (C3),0,,96,,,,,1,97
-A97,BD 6 (C3),0,,97,,,,,1,98
-A98,BD 7 (C3),0,,98,,,,,1,99
-A99,V-snare RP,0,,99,,,,,1,100
-A100,SNR 1,0,,100,,,,,1,101
-A101,SNR 2,0,,101,,,,,1,102
-A102,FM SNR,0,,102,,,,,1,103
-A103,SNR 3,0,,103,,,,,1,104
-A104,Snr4,0,,104,,,,,1,105
-A105,C-HIHAT RP,0,,105,,,,,1,106
-A106,O-HIHAT RP,0,,106,,,,,1,107
-A107,HH 2,0,,107,,,,,1,108
-A108,HH 3,0,,108,,,,,1,109
-A109,ARP HH,0,,109,,,,,1,110
-A110,HH 1,0,,110,,,,,1,111
-A111,TOM-TOM RP,0,,111,,,,,1,112
-A112,SLAP-IT RP,0,,112,,,,,1,113
-A113,Block,0,,113,,,,,1,114
-A114,Snip,0,,114,,,,,1,115
-A115,Conga,0,,115,,,,,1,116
-A116,Wood,0,,116,,,,,1,117
-A117,Stick,0,,117,,,,,1,118
-A118,V-CUSS RP,0,,118,,,,,1,119
-A119,OctaSectn2,0,,119,,,,,1,120
-A120,V-Jump K,0,,120,,,,,1,121
-A121,Sacralizer,0,,121,,,,,1,122
-A122,Klicklead,0,,122,,,,,1,123
-A123,Dangle,0,,123,,,,,1,124
-A124,Pin-Piano,0,,124,,,,,1,125
-A125,>>INPUT<<,0,,125,,,,,1,126
-A126,- Init -,0,,126,,,,,1,127
-A127,- Start -,0,,127,,,,,1,128
-B0,Low,1,,0,,,,,2,1
-B1,Sci-fi1 K,1,,1,,,,,2,2
-B2,NEU *UTZ,1,,2,,,,,2,3
-B3,AION RP,1,,3,,,,,2,4
-B4,R'DAM RP,1,,4,,,,,2,5
-B5,ABC-1 RP,1,,5,,,,,2,6
-B6,Sci-Fi 2,1,,6,,,,,2,7
-B7,ACTion,1,,7,,,,,2,8
-B8,Orc,1,,8,,,,,2,9
-B9,Resonator,1,,9,,,,,2,10
-B10,SatSync K,1,,10,,,,,2,11
-B11,- Dream \,1,,11,,,,,2,12
-B12,UFO 3,1,,12,,,,,2,13
-B13,BluePAD RP,1,,13,,,,,2,14
-B14,V-Perc 1,1,,14,,,,,2,15
-B15,Spaz meC*:,1,,15,,,,,2,16
-B16,GEE-PAD RP,1,,16,,,,,2,17
-B17,- STAR \,1,,17,,,,,2,18
-B18,What... RP,1,,18,,,,,2,19
-B19,CRISPY,1,,19,,,,,2,20
-B20,Bass-MAN2,1,,20,,,,,2,21
-B21,Syn 4,1,,21,,,,,2,22
-B22,PPG-PAD,1,,22,,,,,2,23
-B23,Ice House,1,,23,,,,,2,24
-B24,Zippy 2,1,,24,,,,,2,25
-B25,Welard !,1,,25,,,,,2,26
-B26,BIG.F1SH,1,,26,,,,,2,27
-B27,DarkMatter,1,,27,,,,,2,28
-B28,RINGPAD,1,,28,,,,,2,29
-B29,BASS ! RP,1,,29,,,,,2,30
-B30,FASE 6 RP,1,,30,,,,,2,31
-B31,FLUTE RP,1,,31,,,,,2,32
-B32,Sea RP,1,,32,,,,,2,33
-B33,BASS X RP,1,,33,,,,,2,34
-B34,HI-PAD RP,1,,34,,,,,2,35
-B35,SAW BEE RP,1,,35,,,,,2,36
-B36,Uck Muk RP,1,,36,,,,,2,37
-B37,IQ-PAD RP,1,,37,,,,,2,38
-B38,DANCIO2 RP,1,,38,,,,,2,39
-B39,PIZZ RP,1,,39,,,,,2,40
-B40,ROB-PAD RP,1,,40,,,,,2,41
-B41,PITCH-PAD,1,,41,,,,,2,42
-B42,SYNVIRN RP,1,,42,,,,,2,43
-B43,PIZZ 2 RP,1,,43,,,,,2,44
-B44,Luise K,1,,44,,,,,2,45
-B45,MOOGY RP,1,,45,,,,,2,46
-B46,V-BRASS RP,1,,46,,,,,2,47
-B47,CoolPorta,1,,47,,,,,2,48
-B48,MOOBASS RP,1,,48,,,,,2,49
-B49,BASS-ON RP,1,,49,,,,,2,50
-B50,DIGIT RP,1,,50,,,,,2,51
-B51,VORGAN RP,1,,51,,,Organ,,2,52
-B52,Seq 1,1,,52,,,,,2,53
-B53,543 SEQ RP,1,,53,,,,,2,54
-B54,MINI-M RP,1,,54,,,,,2,55
-B55,WAVEN RP,1,,55,,,,,2,56
-B56,KL IMBA P,1,,56,,,,,2,57
-B57,ViBee 1 RP,1,,57,,,,,2,58
-B58,TS-PAD RP,1,,58,,,,,2,59
-B59,V-HARP RP,1,,59,,,,,2,60
-B60,UNDERO RP,1,,60,,,,,2,61
-B61,WAVEN 2 RP,1,,61,,,,,2,62
-B62,ViBee 2 RP,1,,62,,,,,2,63
-B63,Unlimit RP,1,,63,,,Lead,,2,64
-B64,VX-BASS RP,1,,64,,,,,2,65
-B65,X-FATTY RP,1,,65,,,,,2,66
-B66,SWELLAD RP,1,,66,,,,,2,67
-B67,VELOOR RP,1,,67,,,,,2,68
-B68,WHIST RP,1,,68,,,,,2,69
-B69,DANGER RP,1,,69,,,,,2,70
-B70,ViBee 3 RP,1,,70,,,,,2,71
-B71,HQ-PAD RP,1,,71,,,,,2,72
-B72,CHEAPO RP,1,,72,,,,,2,73
-B73,ACCYBAS RP,1,,73,,,,,2,74
-B74,FX 303 RP,1,,74,,,,,2,75
-B75,MUSSET RP,1,,75,,,,,2,76
-B76,LOW-BAS RP,1,,76,,,,,2,77
-B77,A-FLUTE RP,1,,77,,,,,2,78
-B78,TECH RP,1,,78,,,,,2,79
-B79,Harmonix,1,,79,,,,,2,80
-B80,V-550 RP,1,,80,,,,,2,81
-B81,DCC-BAS RP,1,,81,,,,,2,82
-B82,GR-300 RP,1,,82,,,,,2,83
-B83,FUZZY RP,1,,83,,,,,2,84
-B84,WING RP,1,,84,,,,,2,85
-B85,T-BASS RP,1,,85,,,,,2,86
-B86,SYN-KEY RP,1,,86,,1,Arp,,2,87
-B87,V-ORG RP,1,,87,,,Organ,,2,88
-B88,X-CLAVI RP,1,,88,,,,,2,89
-B89,BASSE-Y RP,1,,89,,,,,2,90
-B90,V-550-2 RP,1,,90,,,,,2,91
-B91,S-BASS RP,1,,91,,,,,2,92
-B92,JUNO-99 RP,1,,92,,,,,2,93
-B93,- Space \,1,,93,,,,,2,94
-B94,ZWAP RP,1,,94,,,,,2,95
-B95,NOWSEQ 2,1,,95,,,,,2,96
-B96,PICTURE RP,1,,96,,,,,2,97
-B97,CLICKO RP,1,,97,,,,,2,98
-B98,SO-SOFT RP,1,,98,,,,,2,99
-B99,VARP RP,1,,99,,,,,2,100
-B100,Chop Orga2,1,,100,,,,,2,101
-B101,Waily,1,,101,,,,,2,102
-B102,Wino Bench,1,,102,,,,,2,103
-B103,Seq,1,,103,,,,,2,104
-B104,E1,1,,104,,,,,2,105
-B105,SCREAM RP,1,,105,,,,,2,106
-B106,Spaz me!,1,,106,,,,,2,107
-B107,OutSpace,1,,107,,,,,2,108
-B108,Sci-fi2 K,1,,108,,,,,2,109
-B109,V-Perc 2,1,,109,,,,,2,110
-B110,H-BASS RP,1,,110,,,,,2,111
-B111,ABC-2 RP,1,,111,,,,,2,112
-B112,VACIN RP,1,,112,,,,,2,113
-B113,RIMBA RP,1,,113,,,,,2,114
-B114,WATTY RP,1,,114,,,,,2,115
-B115,V-ELEC RP,1,,115,,,,,2,116
-B116,808 COW RP,1,,116,,,,,2,117
-B117,TIMBA RP,1,,117,,,,,2,118
-B118,POTTY RP,1,,118,,,,,2,119
-B119,V-12 RP,1,,119,,,,,2,120
-B120,V-WURL RP,1,,120,,,,,2,121
-B121,@-LEAD RP,1,,121,,,,,2,122
-B122,KRAFT RP,1,,122,,,,,2,123
-B123,TB-V03 RP,1,,123,,,,,2,124
-B124,TECH-NO RP,1,,124,,,,,2,125
-B125,WEX TEX RP,1,,125,,,,,2,126
-B126,SEA-PAD RP,1,,126,,,,,2,127
-B127,SNxRexx RP,1,,127,,,,,2,128
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,designer-short,designer-name,designer-proximity,original-patchname
+A0,Overture,0,,0,,,,,1,1,K,Unknown (K),1,Overture K
+A1,First,0,,1,,,,,1,2,K,Unknown (K),1,First K
+A2,Virus,0,,2,,,,,1,3,K,Unknown (K),1,Virus K
+A3,V-Pad 1,0,,3,,,,,1,4,K,Unknown (K),1,V-Pad 1 K
+A4,V-Birth1,0,,4,,,,,1,5,K,Unknown (K),1,V-Birth1 K
+A5,V-Birth1,0,,5,,,,,1,6,K,Unknown (K),1,V-Birth1 K
+A6,V-Birth2,0,,6,,,,,1,7,K,Unknown (K),1,V-Birth2 K
+A7,RavePad1,0,,7,,,,,1,8,K,Unknown (K),1,RavePad1 K
+A8,RavePad2,0,,8,,,,,1,9,K,Unknown (K),1,RavePad2 K
+A9,Compres2,0,,9,,,,,1,10,K,Unknown (K),1,Compres2 K
+A10,Basics,0,,10,,,,,1,11,,,,
+A11,PP?-PAD,0,,11,,,,,1,12,RP,Rob Papen,1,PP?-PAD RP
+A12,NO-SEQ,0,,12,,,,,1,13,RP,Rob Papen,1,NO-SEQ RP
+A13,FusionBrs,0,,13,,,,,1,14,,,,
+A14,V-Pad 2,0,,14,,,,,1,15,K,Unknown (K),1,V-Pad 2 K
+A15,Vi-bass,0,,15,,,,,1,16,RP,Rob Papen,1,Vi-bass RP
+A16,VI-SYNC,0,,16,,,,,1,17,RP,Rob Papen,1,VI-SYNC RP
+A17,ZZ-ROB,0,,17,,,,,1,18,RP,Rob Papen,1,ZZ-ROB RP
+A18,Polaris,0,,18,,,,,1,19,,,,
+A19,Compress,0,,19,,,,,1,20,K,Unknown (K),1,Compress K
+A20,SatSync,0,,20,,,,,1,21,K,Unknown (K),1,SatSync K
+A21,VIP-PAD,0,,21,,,,,1,22,RP,Rob Papen,1,VIP-PAD RP
+A22,ZZ-bass,0,,22,,,,,1,23,RP,Rob Papen,1,ZZ-bass RP
+A23,XOBASS,0,,23,,,,,1,24,RP,Rob Papen,1,XOBASS RP
+A24,SeqBass 2,0,,24,,,,,1,25,,,,
+A25,PickBass 2,0,,25,,,,,1,26,,,,
+A26,No Age,0,,26,,,,,1,27,,,,
+A27,Bass-MAN,0,,27,,,,,1,28,,,,
+A28,PAD-777,0,,28,,,,,1,29,RP,Rob Papen,1,PAD-777 RP
+A29,WangTang,0,,29,,,,,1,30,,,,
+A30,Virus 2,0,,30,,,,,1,31,K,Unknown (K),1,Virus 2 K
+A31,D-SOCK,0,,31,,,,,1,32,RP,Rob Papen,1,D-SOCK RP
+A32,Clockwork,0,,32,,,,,1,33,,,,
+A33,Cybercussn,0,,33,,,,,1,34,,,,
+A34,Shivatron,0,,34,,,,,1,35,,,,
+A35,V-Resoni,0,,35,,,,,1,36,K,Unknown (K),1,V-Resoni K
+A36,Whew!,0,,36,,,,,1,37,,,,
+A37,TechnoArp,0,,37,,,,,1,38,,,,
+A38,Strongs,0,,38,,,,,1,39,,,,
+A39,Tension...,0,,39,,,,,1,40,,,,
+A40,Penicillin,0,,40,,,,,1,41,,,,
+A41,Bellthing,0,,41,,,,,1,42,,,,
+A42,V-Church,0,,42,,,Organ,,1,43,K,Unknown (K),1,V-Church K
+A43,HOLLAND,0,,43,,,,,1,44,RP,Rob Papen,1,HOLLAND RP
+A44,PEG Horns,0,,44,,,,,1,45,,,,
+A45,Fluffy,0,,45,,,,,1,46,,,,
+A46,Jet*Lag,0,,46,,,,,1,47,,,,
+A47,Basics,0,,47,,,,,1,48,,,,
+A48,InfectLead,0,,48,,,,,1,49,,,,
+A49,Melodies,0,,49,,,,,1,50,,,,
+A50,Infected,0,,50,,,,,1,51,,,,
+A51,Sitar,0,,51,,,,,1,52,,,,
+A52,V-Orgel,0,,52,,,Organ,,1,53,K,Unknown (K),1,V-Orgel K
+A53,Cutoff,0,,53,,,,,1,54,K,Unknown (K),1,Cutoff K
+A54,V-Birth3,0,,54,,,,,1,55,K,Unknown (K),1,V-Birth3 K
+A55,V-Reso2,0,,55,,,,,1,56,K,Unknown (K),1,V-Reso2 K
+A56,V-Pad 1,0,,56,,,,,1,57,K,Unknown (K),1,V-Pad 1 K
+A57,PPG Bass,0,,57,,,,,1,58,,,,
+A58,Zoober,0,,58,,,,,1,59,,,,
+A59,Pad-Shop 2,0,,59,,,,,1,60,,,,
+A60,USA,0,,60,,,,,1,61,RP,Rob Papen,1,USA RP
+A61,BoomB,0,,61,,,,,1,62,RP,Rob Papen,1,BoomB RP
+A62,Clockshop,0,,62,,,,,1,63,,,,
+A63,ZZ-YOU,0,,63,,,,,1,64,RP,Rob Papen,1,ZZ-YOU RP
+A64,S.Stevens,0,,64,,,,,1,65,,,,
+A65,Spinett,0,,65,,,,,1,66,,,,
+A66,SteelDrum,0,,66,,,,,1,67,,,,
+A67,MoogBass 1,0,,67,,,,,1,68,,,,
+A68,MoogBass 2,0,,68,,,,,1,69,,,,
+A69,PercVox,0,,69,,,,,1,70,,,,
+A70,PhaseStrng,0,,70,,,,,1,71,,,,
+A71,MoogBass3,0,,71,,,,,1,72,,,,
+A72,PPG Bass2,0,,72,,,,,1,73,,,,
+A73,S&H Arp,0,,73,,,,,1,74,,,,
+A74,J.Arnold,0,,74,,,,,1,75,,,,
+A75,SpaceChor2,0,,75,,,,,1,76,,,,
+A76,Arpegiator,0,,76,,,,,1,77,,,,
+A77,Arpeg 2,0,,77,,,,,1,78,,,,
+A78,Ufo 1,0,,78,,,,,1,79,,,,
+A79,Thing !,0,,79,,,,,1,80,,,,
+A80,Ufo 2,0,,80,,,,,1,81,,,,
+A81,Arpeggia,0,,81,,,,,1,82,,,,
+A82,Rave 2,0,,82,,,,,1,83,,,,
+A83,Adrenalin1,0,,83,,,,,1,84,,,,
+A84,Adrenalin2,0,,84,,,,,1,85,,,,
+A85,ResoBS,0,,85,,,,,1,86,,,,
+A86,BD12,0,,86,,,,,1,87,,,,
+A87,BD10,0,,87,,,,,1,88,,,,
+A88,ARP KCK,0,,88,,,,,1,89,RP,Rob Papen,1,ARP KCK RP
+A89,V-KICK,0,,89,,,,,1,90,RP,Rob Papen,1,V-KICK RP
+A90,909 KCK,0,,90,,,,,1,91,RP,Rob Papen,1,909 KCK RP
+A91,908 KCK,0,,91,,,,,1,92,RP,Rob Papen,1,908 KCK RP
+A92,BD 1 <C3>,0,,92,,,,,1,93,,,,
+A93,BD 2 (C3),0,,93,,,,,1,94,,,,
+A94,BD 3 (C3),0,,94,,,,,1,95,,,,
+A95,BD 4 (C3),0,,95,,,,,1,96,,,,
+A96,BD 5 (C3),0,,96,,,,,1,97,,,,
+A97,BD 6 (C3),0,,97,,,,,1,98,,,,
+A98,BD 7 (C3),0,,98,,,,,1,99,,,,
+A99,V-snare,0,,99,,,,,1,100,RP,Rob Papen,1,V-snare RP
+A100,SNR 1,0,,100,,,,,1,101,,,,
+A101,SNR 2,0,,101,,,,,1,102,,,,
+A102,FM SNR,0,,102,,,,,1,103,,,,
+A103,SNR 3,0,,103,,,,,1,104,,,,
+A104,Snr4,0,,104,,,,,1,105,,,,
+A105,C-HIHAT,0,,105,,,,,1,106,RP,Rob Papen,1,C-HIHAT RP
+A106,O-HIHAT,0,,106,,,,,1,107,RP,Rob Papen,1,O-HIHAT RP
+A107,HH 2,0,,107,,,,,1,108,,,,
+A108,HH 3,0,,108,,,,,1,109,,,,
+A109,ARP HH,0,,109,,,,,1,110,,,,
+A110,HH 1,0,,110,,,,,1,111,,,,
+A111,TOM-TOM,0,,111,,,,,1,112,RP,Rob Papen,1,TOM-TOM RP
+A112,SLAP-IT,0,,112,,,,,1,113,RP,Rob Papen,1,SLAP-IT RP
+A113,Block,0,,113,,,,,1,114,,,,
+A114,Snip,0,,114,,,,,1,115,,,,
+A115,Conga,0,,115,,,,,1,116,,,,
+A116,Wood,0,,116,,,,,1,117,,,,
+A117,Stick,0,,117,,,,,1,118,,,,
+A118,V-CUSS,0,,118,,,,,1,119,RP,Rob Papen,1,V-CUSS RP
+A119,OctaSectn2,0,,119,,,,,1,120,,,,
+A120,V-Jump,0,,120,,,,,1,121,K,Unknown (K),1,V-Jump K
+A121,Sacralizer,0,,121,,,,,1,122,,,,
+A122,Klicklead,0,,122,,,,,1,123,,,,
+A123,Dangle,0,,123,,,,,1,124,,,,
+A124,Pin-Piano,0,,124,,,,,1,125,,,,
+A125,>>INPUT<<,0,,125,,,,,1,126,,,,
+A126,- Init -,0,,126,,,,,1,127,,,,
+A127,- Start -,0,,127,,,,,1,128,,,,
+B0,Low,1,,0,,,,,2,1,,,,
+B1,Sci-fi1,1,,1,,,,,2,2,K,Unknown (K),1,Sci-fi1 K
+B2,NEU *UTZ,1,,2,,,,,2,3,,,,
+B3,AION,1,,3,,,,,2,4,RP,Rob Papen,1,AION RP
+B4,R'DAM,1,,4,,,,,2,5,RP,Rob Papen,1,R'DAM RP
+B5,ABC-1,1,,5,,,,,2,6,RP,Rob Papen,1,ABC-1 RP
+B6,Sci-Fi 2,1,,6,,,,,2,7,,,,
+B7,ACTion,1,,7,,,,,2,8,,,,
+B8,Orc,1,,8,,,,,2,9,,,,
+B9,Resonator,1,,9,,,,,2,10,,,,
+B10,SatSync,1,,10,,,,,2,11,K,Unknown (K),1,SatSync K
+B11,- Dream \,1,,11,,,,,2,12,,,,
+B12,UFO 3,1,,12,,,,,2,13,,,,
+B13,BluePAD,1,,13,,,,,2,14,RP,Rob Papen,1,BluePAD RP
+B14,V-Perc 1,1,,14,,,,,2,15,,,,
+B15,Spaz meC*:,1,,15,,,,,2,16,,,,
+B16,GEE-PAD,1,,16,,,,,2,17,RP,Rob Papen,1,GEE-PAD RP
+B17,- STAR \,1,,17,,,,,2,18,,,,
+B18,What...,1,,18,,,,,2,19,RP,Rob Papen,1,What... RP
+B19,CRISPY,1,,19,,,,,2,20,,,,
+B20,Bass-MAN2,1,,20,,,,,2,21,,,,
+B21,Syn 4,1,,21,,,,,2,22,,,,
+B22,PPG-PAD,1,,22,,,,,2,23,,,,
+B23,Ice House,1,,23,,,,,2,24,,,,
+B24,Zippy 2,1,,24,,,,,2,25,,,,
+B25,Welard !,1,,25,,,,,2,26,,,,
+B26,BIG.F1SH,1,,26,,,,,2,27,,,,
+B27,DarkMatter,1,,27,,,,,2,28,,,,
+B28,RINGPAD,1,,28,,,,,2,29,,,,
+B29,BASS !,1,,29,,,,,2,30,RP,Rob Papen,1,BASS ! RP
+B30,FASE 6,1,,30,,,,,2,31,RP,Rob Papen,1,FASE 6 RP
+B31,FLUTE,1,,31,,,,,2,32,RP,Rob Papen,1,FLUTE RP
+B32,Sea,1,,32,,,,,2,33,RP,Rob Papen,1,Sea RP
+B33,BASS X,1,,33,,,,,2,34,RP,Rob Papen,1,BASS X RP
+B34,HI-PAD,1,,34,,,,,2,35,RP,Rob Papen,1,HI-PAD RP
+B35,SAW BEE,1,,35,,,,,2,36,RP,Rob Papen,1,SAW BEE RP
+B36,Uck Muk,1,,36,,,,,2,37,RP,Rob Papen,1,Uck Muk RP
+B37,IQ-PAD,1,,37,,,,,2,38,RP,Rob Papen,1,IQ-PAD RP
+B38,DANCIO2,1,,38,,,,,2,39,RP,Rob Papen,1,DANCIO2 RP
+B39,PIZZ,1,,39,,,,,2,40,RP,Rob Papen,1,PIZZ RP
+B40,ROB-PAD,1,,40,,,,,2,41,RP,Rob Papen,1,ROB-PAD RP
+B41,PITCH-PAD,1,,41,,,,,2,42,,,,
+B42,SYNVIRN,1,,42,,,,,2,43,RP,Rob Papen,1,SYNVIRN RP
+B43,PIZZ 2,1,,43,,,,,2,44,RP,Rob Papen,1,PIZZ 2 RP
+B44,Luise,1,,44,,,,,2,45,K,Unknown (K),1,Luise K
+B45,MOOGY,1,,45,,,,,2,46,RP,Rob Papen,1,MOOGY RP
+B46,V-BRASS,1,,46,,,,,2,47,RP,Rob Papen,1,V-BRASS RP
+B47,CoolPorta,1,,47,,,,,2,48,,,,
+B48,MOOBASS,1,,48,,,,,2,49,RP,Rob Papen,1,MOOBASS RP
+B49,BASS-ON,1,,49,,,,,2,50,RP,Rob Papen,1,BASS-ON RP
+B50,DIGIT,1,,50,,,,,2,51,RP,Rob Papen,1,DIGIT RP
+B51,VORGAN,1,,51,,,Organ,,2,52,RP,Rob Papen,1,VORGAN RP
+B52,Seq 1,1,,52,,,,,2,53,,,,
+B53,543 SEQ,1,,53,,,,,2,54,RP,Rob Papen,1,543 SEQ RP
+B54,MINI-M,1,,54,,,,,2,55,RP,Rob Papen,1,MINI-M RP
+B55,WAVEN,1,,55,,,,,2,56,RP,Rob Papen,1,WAVEN RP
+B56,KL IMBA P,1,,56,,,,,2,57,,,,
+B57,ViBee 1,1,,57,,,,,2,58,RP,Rob Papen,1,ViBee 1 RP
+B58,TS-PAD,1,,58,,,,,2,59,RP,Rob Papen,1,TS-PAD RP
+B59,V-HARP,1,,59,,,,,2,60,RP,Rob Papen,1,V-HARP RP
+B60,UNDERO,1,,60,,,,,2,61,RP,Rob Papen,1,UNDERO RP
+B61,WAVEN 2,1,,61,,,,,2,62,RP,Rob Papen,1,WAVEN 2 RP
+B62,ViBee 2,1,,62,,,,,2,63,RP,Rob Papen,1,ViBee 2 RP
+B63,Unlimit,1,,63,,,Lead,,2,64,RP,Rob Papen,1,Unlimit RP
+B64,VX-BASS,1,,64,,,,,2,65,RP,Rob Papen,1,VX-BASS RP
+B65,X-FATTY,1,,65,,,,,2,66,RP,Rob Papen,1,X-FATTY RP
+B66,SWELLAD,1,,66,,,,,2,67,RP,Rob Papen,1,SWELLAD RP
+B67,VELOOR,1,,67,,,,,2,68,RP,Rob Papen,1,VELOOR RP
+B68,WHIST,1,,68,,,,,2,69,RP,Rob Papen,1,WHIST RP
+B69,DANGER,1,,69,,,,,2,70,RP,Rob Papen,1,DANGER RP
+B70,ViBee 3,1,,70,,,,,2,71,RP,Rob Papen,1,ViBee 3 RP
+B71,HQ-PAD,1,,71,,,,,2,72,RP,Rob Papen,1,HQ-PAD RP
+B72,CHEAPO,1,,72,,,,,2,73,RP,Rob Papen,1,CHEAPO RP
+B73,ACCYBAS,1,,73,,,,,2,74,RP,Rob Papen,1,ACCYBAS RP
+B74,FX 303,1,,74,,,,,2,75,RP,Rob Papen,1,FX 303 RP
+B75,MUSSET,1,,75,,,,,2,76,RP,Rob Papen,1,MUSSET RP
+B76,LOW-BAS,1,,76,,,,,2,77,RP,Rob Papen,1,LOW-BAS RP
+B77,A-FLUTE,1,,77,,,,,2,78,RP,Rob Papen,1,A-FLUTE RP
+B78,TECH,1,,78,,,,,2,79,RP,Rob Papen,1,TECH RP
+B79,Harmonix,1,,79,,,,,2,80,,,,
+B80,V-550,1,,80,,,,,2,81,RP,Rob Papen,1,V-550 RP
+B81,DCC-BAS,1,,81,,,,,2,82,RP,Rob Papen,1,DCC-BAS RP
+B82,GR-300,1,,82,,,,,2,83,RP,Rob Papen,1,GR-300 RP
+B83,FUZZY,1,,83,,,,,2,84,RP,Rob Papen,1,FUZZY RP
+B84,WING,1,,84,,,,,2,85,RP,Rob Papen,1,WING RP
+B85,T-BASS,1,,85,,,,,2,86,RP,Rob Papen,1,T-BASS RP
+B86,SYN-KEY,1,,86,,1,Arp,,2,87,RP,Rob Papen,1,SYN-KEY RP
+B87,V-ORG,1,,87,,,Organ,,2,88,RP,Rob Papen,1,V-ORG RP
+B88,X-CLAVI,1,,88,,,,,2,89,RP,Rob Papen,1,X-CLAVI RP
+B89,BASSE-Y,1,,89,,,,,2,90,RP,Rob Papen,1,BASSE-Y RP
+B90,V-550-2,1,,90,,,,,2,91,RP,Rob Papen,1,V-550-2 RP
+B91,S-BASS,1,,91,,,,,2,92,RP,Rob Papen,1,S-BASS RP
+B92,JUNO-99,1,,92,,,,,2,93,RP,Rob Papen,1,JUNO-99 RP
+B93,- Space \,1,,93,,,,,2,94,,,,
+B94,ZWAP,1,,94,,,,,2,95,RP,Rob Papen,1,ZWAP RP
+B95,NOWSEQ 2,1,,95,,,,,2,96,,,,
+B96,PICTURE,1,,96,,,,,2,97,RP,Rob Papen,1,PICTURE RP
+B97,CLICKO,1,,97,,,,,2,98,RP,Rob Papen,1,CLICKO RP
+B98,SO-SOFT,1,,98,,,,,2,99,RP,Rob Papen,1,SO-SOFT RP
+B99,VARP,1,,99,,,,,2,100,RP,Rob Papen,1,VARP RP
+B100,Chop Orga2,1,,100,,,,,2,101,,,,
+B101,Waily,1,,101,,,,,2,102,,,,
+B102,Wino Bench,1,,102,,,,,2,103,,,,
+B103,Seq,1,,103,,,,,2,104,,,,
+B104,E1,1,,104,,,,,2,105,,,,
+B105,SCREAM,1,,105,,,,,2,106,RP,Rob Papen,1,SCREAM RP
+B106,Spaz me!,1,,106,,,,,2,107,,,,
+B107,OutSpace,1,,107,,,,,2,108,,,,
+B108,Sci-fi2,1,,108,,,,,2,109,K,Unknown (K),1,Sci-fi2 K
+B109,V-Perc 2,1,,109,,,,,2,110,,,,
+B110,H-BASS,1,,110,,,,,2,111,RP,Rob Papen,1,H-BASS RP
+B111,ABC-2,1,,111,,,,,2,112,RP,Rob Papen,1,ABC-2 RP
+B112,VACIN,1,,112,,,,,2,113,RP,Rob Papen,1,VACIN RP
+B113,RIMBA,1,,113,,,,,2,114,RP,Rob Papen,1,RIMBA RP
+B114,WATTY,1,,114,,,,,2,115,RP,Rob Papen,1,WATTY RP
+B115,V-ELEC,1,,115,,,,,2,116,RP,Rob Papen,1,V-ELEC RP
+B116,808 COW,1,,116,,,,,2,117,RP,Rob Papen,1,808 COW RP
+B117,TIMBA,1,,117,,,,,2,118,RP,Rob Papen,1,TIMBA RP
+B118,POTTY,1,,118,,,,,2,119,RP,Rob Papen,1,POTTY RP
+B119,V-12,1,,119,,,,,2,120,RP,Rob Papen,1,V-12 RP
+B120,V-WURL,1,,120,,,,,2,121,RP,Rob Papen,1,V-WURL RP
+B121,@-LEAD,1,,121,,,,,2,122,RP,Rob Papen,1,@-LEAD RP
+B122,KRAFT,1,,122,,,,,2,123,RP,Rob Papen,1,KRAFT RP
+B123,TB-V03,1,,123,,,,,2,124,RP,Rob Papen,1,TB-V03 RP
+B124,TECH-NO,1,,124,,,,,2,125,RP,Rob Papen,1,TECH-NO RP
+B125,WEX TEX,1,,125,,,,,2,126,RP,Rob Papen,1,WEX TEX RP
+B126,SEA-PAD,1,,126,,,,,2,127,RP,Rob Papen,1,SEA-PAD RP
+B127,SNxRexx,1,,127,,,,,2,128,RP,Rob Papen,1,SNxRexx RP
