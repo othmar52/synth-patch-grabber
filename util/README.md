@@ -1,0 +1,3 @@
+this is a collection of a few hacky scripts used for creating and enhancing csv files of synthesizer sound patches  
+
+probably they never get used again but who knows...
