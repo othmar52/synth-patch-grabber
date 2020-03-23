@@ -143,6 +143,7 @@ class Recorder:
                 input = None
                 self.resultFile = None
                 logging.info(" unable to detect audio. aborting....")
+                self.jobDone = True
                 self.unarm()
                 #return None
 

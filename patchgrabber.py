@@ -27,75 +27,136 @@ async def main():
     logging.basicConfig(level=logging.INFO)
 
     # for debugging purposes
-    limitPatchesPerDevice = 1
+    limitPatchesPerDevice = 0
 
     deviceConfigs = [
         {
+            "uniquePrefix": "tb3",
+            "vendor": "Roland",
+            "model": "TB-3",
+            "yearOfConstruction": 2014,
             "patchConfType": "csv",
-            "name": "Roland - TB-3",
+            "patchSetName": "Factory",
             "midiPort": 3,
             "midiChannel": 9,
             "csvPath": "csv/patchlist/Roland - TB-3.csv"
         },
         {
+            "uniquePrefix": "xia",
+            "vendor": "Roland",
+            "model": "JD-Xi",
+            "yearOfConstruction": 2015,
             "patchConfType": "csv",
-            "name": "Roland - JD-Xi ana",
+            "patchSetName": "Factory Analog",
             "midiPort": 3,
             "midiChannel": 3,
             "csvPath": "csv/patchlist/Roland - JD-Xi ana.csv"
         },
         {
+            "uniquePrefix": "xid",
+            "vendor": "Roland",
+            "model": "JD-Xi",
+            "yearOfConstruction": 2015,
             "patchConfType": "csv",
-            "name": "Roland - JD-Xi digi",
+            "patchSetName": "Factory Digital",
             "midiPort": 3,
             "midiChannel": 1,
             "csvPath": "csv/patchlist/Roland - JD-Xi dig.csv"
         },
         {
+            "uniquePrefix": "rpx",
+            "vendor": "GEM",
+            "model": "rp-x",
+            "yearOfConstruction": 2006,
             "patchConfType": "csv",
-            "name": "GEM - rp-x",
+            "patchSetName": "Factory",
             "midiPort": 2,
             "midiChannel": 4,
             "csvPath": "csv/patchlist/GEM - rp-x.csv"
         },
         {
+            "uniquePrefix": "vir",
+            "vendor": "Access",
+            "model": "Virus A",
+            "yearOfConstruction": 1997,
             "patchConfType": "csv",
-            "name": "Virus",
+            "patchSetName": "Factory",
             "midiPort": 3,
             "midiChannel": 7,
             "csvPath": "csv/patchlist/Access - VirusA.csv"
         },
         {
+            "uniquePrefix": "s1f",
+            "vendor": "Roland",
+            "model": "System-1m",
+            "yearOfConstruction": 2014,
             "patchConfType": "csv",
-            "name": "System1",
+            "patchSetName": "Factory",
             "midiPort": 3,
             "midiChannel": 5,
             "csvPath": "csv/patchlist/Roland - System1.csv"
         },
         {
+            "uniquePrefix": "mkf",
+            "vendor": "KORG",
+            "model": "MicroKORG",
+            "yearOfConstruction": 2000,
             "patchConfType": "csv",
-            "name": "MicroKORG",
+            "patchSetName": "Factory",
             "midiPort": 3,
             "midiChannel": 6,
             "csvPath": "csv/patchlist/KORG - MicroKORG.csv"
         },
         {
+            "uniquePrefix": "ms2",
+            "vendor": "MFB",
+            "model": "Synth II",
+            "yearOfConstruction": 2004,
             "patchConfType": "csv",
-            "name": "MFB - Synth2",
+            "patchSetName": "Factory",
             "midiPort": 3,
             "midiChannel": 8,
             "csvPath": "csv/patchlist/MFB - Synth2.csv"
-        }#,
+        },
+        {
+            "uniquePrefix": "mkc",
+            "vendor": "KORG",
+            "model": "MicroKORG",
+            "yearOfConstruction": 2000,
+            "patchConfType": "video-csv",
+            "patchSetName": "Cuckoo",
+            "midiPort": 3,
+            "midiChannel": 6,
+            "csvPath": "csv/patchlist/KORG - MicroKORG (Cuckoo Patches).csv",
+            "video": {
+                "path": "util/MicroKORG-Cuckoo-Patches/128 NEW microKorg patches-UeiKJdvcync.webm",
+                "col-start": "yt-startsecond",
+                "col-end": "yt-endsecond",
+                "delta-start": 0.2
+            }
+        },
+        {
+            "patchConfType": "csv",
+            "uniquePrefix": "wb12",
+            "vendor": "Waldorf",
+            "model": "Blofeld",
+            "yearOfConstruction": 2007,
+            "patchSetName": "Factory 2012",
+            "midiPort": 3,
+            "midiChannel": 11,
+            "csvPath": "csv/patchlist/Waldorf - Blofeld (Factory Presets 2012).csv"
+        }
+        #,
         #{
         #    "patchConfType": "csv",
-        #    "name": "KORG - MS2000",
+        #    "patchSetName": "KORG - MS2000",
         #    "midiPort": 3,
         #    "midiChannel": 15,
         #    "csvPath": "csv/patchlist/KORG - MS2000.csv"
         #},
         #{
         #    "patchConfType": "generic",
-        #    "name": "Example of generic device withou csv sounds list",
+        #    "patchSetName": "Example of generic device withou csv sounds list",
         #    "msb": [0],
         #    "lsb": [],
         #    "patchRange": range(0,127), # will create [0,1,2,...,125,126]
@@ -103,6 +164,45 @@ async def main():
         #    "midiChannel": 7
         #}
     ]
+
+
+
+
+
+    devXXXiceConfigs = [
+        {
+            "patchConfType": "csv",
+            "uniquePrefix": "mkf",
+            "vendor": "KORG",
+            "model": "MicroKORG",
+            "yearOfConstruction": 2000,
+            "patchSetName": "Factory",
+            "midiPort": 3,
+            "midiChannel": 6,
+            "csvPath": "csv/patchlist/KORG - MicroKORG.csv"
+        }
+    ]
+
+    deviceCXXXXonfigs = [
+        {
+            "uniquePrefix": "mkc",
+            "vendor": "KORG",
+            "model": "MicroKORG",
+            "yearOfConstruction": 2000,
+            "patchConfType": "video-csv",
+            "patchSetName": "Cuckoo",
+            "midiPort": 3,
+            "midiChannel": 6,
+            "csvPath": "csv/patchlist/KORG - MicroKORG (Cuckoo Patches).csv",
+            "video": {
+                "path": "util/MicroKORG-Cuckoo-Patches/128 NEW microKorg patches-UeiKJdvcync.webm",
+                "col-start": "yt-startsecond",
+                "col-end": "yt-endsecond",
+                "delta-start": 0.2
+            }
+        }
+    ]
+    limitPatchesPerDevice = 2
 
 
     midiout = rtmidi.MidiOut()
@@ -118,10 +218,13 @@ async def main():
     recorderThread = threading.Thread(target=rec.listen)
     recorderThread.start()
 
+    
     for deviceConfig in deviceConfigs:
         device = MidiControllableSoundDevice(deviceConfig, limitPatchesPerDevice)
 
-        audioSampleDir = Path("./output/%s" % device.name)
+        patchJsonPaths = {}
+
+        audioSampleDir = Path("./output/%s/%s/%s" % (device.vendor, device.model, device.patchSetName))
         rmtree(audioSampleDir, ignore_errors=True)
         audioSampleDir.mkdir(parents=True, exist_ok=True)
 
@@ -129,57 +232,97 @@ async def main():
         midiout.open_port(int(device.midiPort))
         mWrapper = MidiOutWrapper(midiout, ch=int(device.midiChannel))
         for soundPatch in device.soundPatches:
-            print( '%s %s %s %s %s' % (device.name, soundPatch.displayname, soundPatch.patchname, str(soundPatch.msb), str(soundPatch.programchange)))
-            # fire MIDI bank select and program change
-            bankSelectArgs = { 'msb': int(soundPatch.msb) }
-            if soundPatch.lsb:
-                bankSelectArgs['lsb'] = lsb=int(soundPatch.lsb)
+            if device.patchConfType == "video-csv":
 
-            mWrapper.send_bank_select(**bankSelectArgs)
-            mWrapper.program_change(program=int(soundPatch.programchange))
-            time.sleep(0.2)
+                print(
+                    device.vendor,
+                    device.model,
+                    device.patchSetName,
+                    soundPatch.displayname,
+                    soundPatch.patchname,
+                    soundPatch.video['startSecond'],
+                    soundPatch.video['endSecond'],
+                    device.video["path"]
+                )
+                targetFilePath = "%s/%s.mp3" % ( str(audioSampleDir), soundPatch.fileName )
 
-            noteSender = NoteSequenceChooser(mWrapper, soundPatch)
+                extractAudioFromTo(
+                    device.video["path"],
+                    soundPatch.video['startSecond'],
+                    soundPatch.video['endSecond'],
+                    targetFilePath
+                )
 
-            # the async challenge:
-            # note sender can have multiple sequences which have to be recorded separately
-            # we don't know how long (seconds) the recording will be
-            # so we have to use coroutines (thanks to https://realpython.com/async-io-python/ )
-            # further we have to tell the notesender if we had been able to capture any audio
-            # because some soundpatches require different note length or key number to really produce sound
-
-
-            #task1 = asyncio.create_task(
-            #    rec.listen()
-            #)
-            #task2 = asyncio.create_task(
-            #    noteSender.sendSequences()
-            #)
-            
-            results = await asyncio.gather(
-                rec.arm(),
-                noteSender.sendSequences(),
-                rec.getRecordingResultAsync()
-            )
-
-            #xx = await task2
-            #yy = await task1
-            
-            if rec.getRecordingResult() == None or not os.path.isfile(rec.getRecordingResult()):
-                logging.warning( "TODO: log failed recording of %s %s %s" % ( device.name, soundPatch.displayname, soundPatch.patchname))
+                soundPatch.samplePath = targetFilePath
+                soundPatch.duration = detectDuration(targetFilePath)
+                soundPatch.persistJson(audioSampleDir)
+                patchJsonPaths['%s-%s' % ( device.uniquePrefix, soundPatch.displayname)] = targetFilePath + '.json'
             else:
-                targetFilePath = "%s/%s.wav" % ( str(audioSampleDir), soundPatch.fileName )
-                await awaitMoveFile(rec.getRecordingResult(), targetFilePath )
-                normalizeWav(str(targetFilePath))
-                convertWavToMp3(targetFilePath, "%s/%s.mp3" % ( str(audioSampleDir), soundPatch.fileName ), 320)
-                os.unlink(str(targetFilePath))
+                print(
+                    device.vendor,
+                    device.model,
+                    device.patchSetName,
+                    soundPatch.displayname,
+                    soundPatch.patchname,
+                    str(soundPatch.msb),
+                    str(soundPatch.programchange)
+                )
+                # fire MIDI bank select and program change
+                bankSelectArgs = { 'msb': int(soundPatch.msb) }
+                if soundPatch.lsb:
+                    bankSelectArgs['lsb'] = lsb=int(soundPatch.lsb)
 
-            rec.unarm()
-            del noteSender
+                mWrapper.send_bank_select(**bankSelectArgs)
+                mWrapper.program_change(program=int(soundPatch.programchange))
+                time.sleep(0.2)
+
+                noteSender = NoteSequenceChooser(mWrapper, soundPatch)
+
+                # the async challenge:
+                # note sender can have multiple sequences which have to be recorded separately
+                # we don't know how long (seconds) the recording will be
+                # so we have to use coroutines (thanks to https://realpython.com/async-io-python/ )
+                # further we have to tell the notesender if we had been able to capture any audio
+                # because some soundpatches require different note length or key number to really produce sound
+
+
+                #task1 = asyncio.create_task(
+                #    rec.listen()
+                #)
+                #task2 = asyncio.create_task(
+                #    noteSender.sendSequences()
+                #)
+                
+                results = await asyncio.gather(
+                    rec.arm(),
+                    noteSender.sendSequences(),
+                    rec.getRecordingResultAsync()
+                )
+
+                #xx = await task2
+                #yy = await task1
+                
+                if rec.getRecordingResult() == None or not os.path.isfile(rec.getRecordingResult()):
+                    logging.warning( "TODO: log failed recording of %s %s %s" % ( device.model, soundPatch.displayname, soundPatch.patchname))
+                else:
+                    targetFilePathWav = "%s/%s.wav" % ( str(audioSampleDir), soundPatch.fileName )
+                    targetFilePathMp3 = "%s/%s.mp3" % ( str(audioSampleDir), soundPatch.fileName )
+                    await awaitMoveFile(rec.getRecordingResult(), targetFilePathWav )
+                    normalizeWav(str(targetFilePathWav))
+                    convertWavToMp3(targetFilePathWav, targetFilePathMp3, 320)
+                    os.unlink(str(targetFilePathWav))
+                    soundPatch.samplePath = targetFilePathMp3
+                    soundPatch.duration = detectDuration(targetFilePathMp3)
+                    soundPatch.persistJson(audioSampleDir)
+                    patchJsonPaths['%s-%s' % ( device.uniquePrefix, soundPatch.displayname)] = targetFilePathMp3 + '.json'
+
+                rec.unarm()
+                del noteSender
+        device.persistJson('%s/00-device.json' % str(audioSampleDir),  patchJsonPaths)
         midiout.close_port()
 
     #recorderThread.exit()
-    print ( "yeah")
+    print ( "finished!\nhit Ctrl+C to stop")
     sys.exit()
 
 
@@ -234,6 +377,28 @@ def normalizeWav(inputFilePath):
     generalCmd(cmd, 'normalize wav (peak)')
 
 
+def extractAudioFromTo(inputVideoPath, startSecond, endSecond, outputPath):
+
+    cmd = [
+        'ffmpeg',
+        '-y', '-hide_banner', '-v', 'quiet', '-stats',
+        '-i', str(inputVideoPath),
+        '-ss', str(startSecond),
+        '-to', str(endSecond),
+        '-q:a', '0',
+        '-map', 'a',
+        str(outputPath)
+    ]
+    generalCmd(cmd, 'extract mp3 portion of video')
+
+def detectDuration(filePath):
+    cmd = [
+        'ffprobe', '-i', str(filePath),
+        '-show_entries', 'format=duration',
+        '-v', 'quiet', '-of', 'csv=p=0'
+    ]
+    processStdOut = generalCmd(cmd, 'detect duration')
+    return float(processStdOut.strip())
 
 if __name__ == "__main__":
     #main()

@@ -3,7 +3,7 @@
 
 import time
 import asyncio
-import random
+from random import random,randint
 
 '''
     todo: improve choosed notes
@@ -24,19 +24,25 @@ class NoteSequenceChooser:
             for note in sequence["notes"]:
                 self.midiOutWrapper.note_off(note)
             time.sleep(sequence["pause"])
-            self.midiOutWrapper.send_all_sound_off()
+
+        # sending sound off sounds pretty bad :/
+        # but some sounds never stop playing
+        # TODO how to deal with that?
+        # maybe decrease device volume via midi CC7?
+        self.midiOutWrapper.send_all_sound_off()
+    
         self.finishedAllSequences = True
 
     def generateSequence(self):
 
-        startNote = random.randint(40,55)
-        chordChoice = random.randint(0,4)
-        reverse = random.randint(0,1)
-        noteLength = 0.1 + random.randint(0,1) + random.random()
-        pause = random.random()/4
-        maxSeqDuration = random.randint(3,5)
-        noteStep = random.randint(2,8)
-        increase = random.randint(2,7)
+        startNote = randint(40,55)
+        chordChoice = randint(0,4)
+        reverse = randint(0,1)
+        noteLength = 0.1 + randint(0,1) + random()
+        pause = random()/4
+        maxSeqDuration = randint(3,5)
+        noteStep = randint(2,8)
+        increase = randint(2,7)
 
         seq = []
         seqDuration = 0
