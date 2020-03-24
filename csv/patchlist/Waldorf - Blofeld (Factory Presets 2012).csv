@@ -1,1025 +1,1025 @@
-displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,designer-short,designer-name,designer-found,original-patchname
-A001,Start Up,0,,0,,,Arp,,,,T,Tsching (Holger Steinbrink),7,Start Up       T
-A002,70s Pad,0,,1,,,Pad,,,,T,Tsching (Holger Steinbrink),8,70s Pad        T
-A003,Tschingeling,0,,2,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),1,Tschingeling SCD
-A004,XT Close,0,,3,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),5,XT Close     SCD
-A005,Digital JP4,0,,4,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),2,Digital JP4  SCD
-A006,BloChoir,0,,5,,,Pad,,,,T,Tsching (Holger Steinbrink),7,BloChoir       T
-A007,Sync Different,0,,6,,,Lead,,,,T,Tsching (Holger Steinbrink),1,Sync Different T
-A008,TearsFromComb,0,,7,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),0,TearsFromCombSCD
-A009,Click Bass,0,,8,,,Bass,,,,T,Tsching (Holger Steinbrink),5,Click Bass     T
-A010,Myst 6,0,,9,,,Atmo,,,,T,Tsching (Holger Steinbrink),9,Myst 6         T
-A011,Sander Lead,0,,10,,,Lead,,,,T,Tsching (Holger Steinbrink),4,Sander Lead    T
-A012,Bladerunner,0,,11,,,Poly,,,,T,Tsching (Holger Steinbrink),4,Bladerunner    T
-A013,BloStrings,0,,12,,,Pad,,,,T,Tsching (Holger Steinbrink),5,BloStrings     T
-A014,ArpDelayLFO?,0,,13,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),1,ArpDelayLFO? SCD
-A015,Dahlbeck Bass,0,,14,,,Bass,,,,T,Tsching (Holger Steinbrink),2,Dahlbeck Bass  T
-A016,CopiedByLargo,0,,15,,,Atmo,,,,T,Tsching (Holger Steinbrink),2,CopiedByLargo  T
-A017,JustResonance,0,,16,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),0,JustResonanceSCD
-A018,IntensiveCare,0,,17,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),0,IntensiveCareSCD
-A019,Planet Ice,0,,18,,,Pad,,,,T,Tsching (Holger Steinbrink),5,Planet Ice     T
-A020,Pad Brown,0,,19,,,Pad,,,,T,Tsching (Holger Steinbrink),6,Pad Brown      T
-A021,Rasenflaeche,0,,20,,,Pad,,,,T,Tsching (Holger Steinbrink),3,Rasenflaeche   T
-A022,PWM<->SWM,0,,21,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),4,PWM<->SWM    SCD
-A023,SuperPulse,0,,22,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),3,SuperPulse   SCD
-A024,Eyes Wide Open,0,,23,,,Pad,,,,T,Tsching (Holger Steinbrink),1,Eyes Wide Open T
-A025,BriteWhitePad,0,,24,,,Pad,,,,T,Tsching (Holger Steinbrink),2,BriteWhitePad  T
-A026,Chronos,0,,25,,,Pad,,,,T,Tsching (Holger Steinbrink),8,Chronos        T
-A027,Ambientity,0,,26,,,Pad,,,,T,Tsching (Holger Steinbrink),5,Ambientity     T
-A028,Lothlorien,0,,27,,,Pad,,,,T,Tsching (Holger Steinbrink),5,Lothlorien     T
-A029,Boelissimo,0,,28,,,Pad,,,,T,Tsching (Holger Steinbrink),5,Boelissimo     T
-A030,Inglorious Pad,0,,29,,,Pad,,,,T,Tsching (Holger Steinbrink),1,Inglorious Pad T
-A031,PitchShifter,0,,30,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),1,PitchShifter SCD
-A032,X-File Pad,0,,31,,,Pad,,,,T,Tsching (Holger Steinbrink),5,X-File Pad     T
-A033,AmbienTable,0,,32,,,Pad,,,,T,Tsching (Holger Steinbrink),4,AmbienTable    T
-A034,ShortWave,0,,33,,,Pad,,,,T,Tsching (Holger Steinbrink),6,ShortWave      T
-A035,CS100,0,,34,,,Pad,,,,T,Tsching (Holger Steinbrink),9,CS100          T
-A036,Slightly Pad,0,,35,,,Pad,,,,T,Tsching (Holger Steinbrink),3,Slightly Pad   T
-A037,FlyingDutchman,0,,36,,,Pad,,,,T,Tsching (Holger Steinbrink),1,FlyingDutchman T
-A038,BoelesBrass,0,,37,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),1,BoelesBrass SCD
-A039,Phase 5,0,,38,,,Pad,,,,T,Tsching (Holger Steinbrink),8,Phase 5        T
-A040,RingCon,0,,39,,,Pad,,,,T,Tsching (Holger Steinbrink),8,RingCon        T
-A041,LeadING,0,,40,,,Lead,,,,T,Tsching (Holger Steinbrink),8,LeadING        T
-A042,Chord Hose,0,,41,,,Lead,,,,T,Tsching (Holger Steinbrink),5,Chord Hose     T
-A043,Chordalis,0,,42,,,Lead,,,,T,Tsching (Holger Steinbrink),6,Chordalis      T
-A044,Deadmau5 Chord,0,,43,,,Lead,,,,T,Tsching (Holger Steinbrink),1,Deadmau5 Chord T
-A045,JigSaw,0,,44,,,Lead,,,,T,Tsching (Holger Steinbrink),9,JigSaw         T
-A046,Fat Pig,0,,45,,,Lead,,,,T,Tsching (Holger Steinbrink),8,Fat Pig        T
-A047,Leadgut,0,,46,,,Lead,,,,T,Tsching (Holger Steinbrink),8,Leadgut        T
-A048,Crying Lead,0,,47,,,Lead,,,,T,Tsching (Holger Steinbrink),4,Crying Lead    T
-A049,AggLead,0,,48,,,Lead,,,,T,Tsching (Holger Steinbrink),8,AggLead        T
-A050,Overdrive,0,,49,,,Lead,,,,T,Tsching (Holger Steinbrink),6,Overdrive      T
-A051,Lead Keen,0,,50,,,Lead,,,,T,Tsching (Holger Steinbrink),6,Lead Keen      T
-A052,Van Doorn,0,,51,,,Lead,,,,T,Tsching (Holger Steinbrink),6,Van Doorn      T
-A053,Gummi Lead,0,,52,,,Lead,,,,T,Tsching (Holger Steinbrink),5,Gummi Lead     T
-A054,Static Leads,0,,53,,,Lead,,,,T,Tsching (Holger Steinbrink),3,Static Leads   T
-A055,Sync By FM,0,,54,,,Lead,,,,SCD,Something Completely Different (Boele Gerkes),3,Sync By FM   SCD
-A056,Enganged,0,,55,,,Lead,,,,T,Tsching (Holger Steinbrink),7,Enganged       T
-A057,Hummer,0,,56,,,Bass,,,,T,Tsching (Holger Steinbrink),9,Hummer         T
-A058,Old School,0,,57,,,Lead,,,,T,Tsching (Holger Steinbrink),5,Old School     T
-A059,Handjob,0,,58,,,Lead,,,,T,Tsching (Holger Steinbrink),8,Handjob        T
-A060,Slipping Lead,0,,59,,,Lead,,,,T,Tsching (Holger Steinbrink),2,Slipping Lead  T
-A061,Glidelis,0,,60,,,Mono,,,,SCD,Something Completely Different (Boele Gerkes),5,Glidelis     SCD
-A062,Rave On,0,,61,,,Lead,,,,T,Tsching (Holger Steinbrink),8,Rave On        T
-A063,SynChaos,0,,62,,,Lead,,,,T,Tsching (Holger Steinbrink),7,SynChaos       T
-A064,Airy Lead,0,,63,,,Lead,,,,T,Tsching (Holger Steinbrink),6,Airy Lead      T
-A065,Airy Lead 2,0,,64,,,Lead,,,,T,Tsching (Holger Steinbrink),4,Airy Lead 2    T
-A066,Tiestofeld,0,,65,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),3,Tiestofeld   SCD
-A067,ARPollinaris,0,,66,,,Arp,,,,T,Tsching (Holger Steinbrink),3,ARPollinaris   T
-A068,Driving Line,0,,67,,,Arp,,,,T,Tsching (Holger Steinbrink),3,Driving Line   T
-A069,TD 2010,0,,68,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),6,TD 2010      SCD
-A070,Sawmodulation,0,,69,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),0,SawmodulationSCD
-A071,Bram A.,0,,70,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),6,Bram A.      SCD
-A072,Laidback,0,,71,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),5,Laidback     SCD
-A073,Reseq,0,,72,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),8,Reseq        SCD
-A074,S&H Drive,0,,73,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),4,S&H Drive    SCD
-A075,Mouth Arp,0,,74,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),4,Mouth Arp    SCD
-A076,ADHD,0,,75,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),9,ADHD         SCD
-A077,mARPledust,0,,76,,,Arp,,,,T,Tsching (Holger Steinbrink),5,mARPledust     T
-A078,305 Bassline,0,,77,,,Arp,,,,T,Tsching (Holger Steinbrink),3,305 Bassline   T
-A079,WArpeggiator,0,,78,,,Arp,,,,T,Tsching (Holger Steinbrink),3,WArpeggiator   T
-A080,ARPower,0,,79,,,Arp,,,,T,Tsching (Holger Steinbrink),8,ARPower        T
-A081,Drumloop,0,,80,,,Arp,,,,T,Tsching (Holger Steinbrink),7,Drumloop       T
-A082,OnTheRun,0,,81,,,Arp,,,,T,Tsching (Holger Steinbrink),7,OnTheRun       T
-A083,LFO Delay 2,0,,82,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),2,LFO Delay 2  SCD
-A084,LFOWahDelay,0,,83,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),2,LFOWahDelay  SCD
-A085,The End,0,,84,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),6,The End      SCD
-A086,Deadmau5 Bass,0,,85,,,Bass,,,,T,Tsching (Holger Steinbrink),2,Deadmau5 Bass  T
-A087,Pulse Drive,0,,86,,,Bass,,,,T,Tsching (Holger Steinbrink),4,Pulse Drive    T
-A088,FM Bass,0,,87,,,Bass,,,,T,Tsching (Holger Steinbrink),8,FM Bass        T
-A089,Oizo Bass,0,,88,,,Bass,,,,T,Tsching (Holger Steinbrink),6,Oizo Bass      T
-A090,Pickup Bass,0,,89,,,Bass,,,,T,Tsching (Holger Steinbrink),4,Pickup Bass    T
-A091,BassTrap,0,,90,,,Bass,,,,SCD,Something Completely Different (Boele Gerkes),5,BassTrap     SCD
-A092,Wide Bass,0,,91,,,Bass,,,,T,Tsching (Holger Steinbrink),6,Wide Bass      T
-A093,Dirty Bass,0,,92,,,Bass,,,,T,Tsching (Holger Steinbrink),5,Dirty Bass     T
-A094,Rev Pulse Bass,0,,93,,,Bass,,,,T,Tsching (Holger Steinbrink),1,Rev Pulse Bass T
-A095,C64 Bass,0,,94,,,Bass,,,,T,Tsching (Holger Steinbrink),7,C64 Bass       T
-A096,Tranceptor,0,,95,,,Seq,,,,T,Tsching (Holger Steinbrink),5,Tranceptor     T
-A097,Short Trance,0,,96,,,Seq,,,,T,Tsching (Holger Steinbrink),3,Short Trance   T
-A098,Sauron Pad,0,,97,,,Pad,,,,T,Tsching (Holger Steinbrink),5,Sauron Pad     T
-A099,Ghost On Mars,0,,98,,,Atmo,,,,T,Tsching (Holger Steinbrink),2,Ghost On Mars  T
-A100,ImpulseResp.,0,,99,,,Atmo,,,,SCD,Something Completely Different (Boele Gerkes),1,ImpulseResp. SCD
-A101,CombDeBoele,0,,100,,,Atmo,,,,SCD,Something Completely Different (Boele Gerkes),2,CombDeBoele  SCD
-A102,SpaceDigde,0,,101,,,Atmo,,,,T,Tsching (Holger Steinbrink),5,SpaceDigde     T
-A103,The 1980s,0,,102,,,Poly,,,,T,Tsching (Holger Steinbrink),6,The 1980s      T
-A104,Pulse3+,0,,103,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),6,Pulse3+      SCD
-A105,Dig. Modular,0,,104,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),1,Dig. Modular SCD
-A106,VA*FM,0,,105,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),8,VA*FM        SCD
-A107,PPGenious,0,,106,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),4,PPGenious    SCD
-A108,TriangleDance,0,,107,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),0,TriangleDanceSCD
-A109,Wave Voices,0,,108,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),2,Wave Voices  SCD
-A110,Piano E,0,,109,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),6,Piano E      SCD
-A111,SimpleSeq,0,,110,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),4,SimpleSeq    SCD
-A112,Chopshop3.0,0,,111,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),2,Chopshop3.0  SCD
-A113,OrganClav,0,,112,,,Keys,,,,T,Tsching (Holger Steinbrink),6,OrganClav      T
-A114,Wit Licht,0,,113,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),4,Wit Licht    SCD
-A115,Morphorgan,0,,114,,,Keys,,,,T,Tsching (Holger Steinbrink),5,Morphorgan     T
-A116,My Keys,0,,115,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),6,My Keys      SCD
-A117,Warning,0,,116,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),6,Warning      SCD
-A118,InYourRoom,0,,117,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),3,InYourRoom   SCD
-A119,Bad Highpass,0,,118,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),1,Bad Highpass SCD
-A120,ChildOfMine,0,,119,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),2,ChildOfMine  SCD
-A121,2 Cats,0,,120,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),7,2 Cats       SCD
-A122,PPG 2,0,,121,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),8,PPG 2        SCD
-A123,FlangerSaw,0,,122,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),3,FlangerSaw   SCD
-A124,ChainSaw,0,,123,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),5,ChainSaw     SCD
-A125,BloAttack,0,,124,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),4,BloAttack    SCD
-A126,Sines,0,,125,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),8,Sines        SCD
-A127,BloodLife,0,,126,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),4,BloodLife    SCD
-A128,Delerium,0,,127,,,Atmo,,,,T,Tsching (Holger Steinbrink),7,Delerium       T
-B001,RisePad,1,,0,,,Pad,,,,RL,Unknown (RL),1,RisePad RL
-B002,AmbientNodes,1,,1,,,Keys,,,,RL,Unknown (RL),1,AmbientNodes RL
-B003,JunoStack,1,,2,,,Poly,,,,RL,Unknown (RL),1,JunoStack RL
-B004,LayeredBass,1,,3,,,Bass,,,,RL,Unknown (RL),1,LayeredBass RL
-B005,FirstContact,1,,4,,,Arp,,,,RL,Unknown (RL),1,FirstContact RL
-B006,ElectroKitty,1,,5,,,Lead,,,,RL,Unknown (RL),1,ElectroKitty RL
-B007,AnoDomini,1,,6,,,Pad,,,,RL,Unknown (RL),1,AnoDomini RL
-B008,ClubbyOrgan,1,,7,,,Bass,,,,RL,Unknown (RL),1,ClubbyOrgan RL
-B009,DanceChord95,1,,8,,,Lead,,,,RL,Unknown (RL),1,DanceChord95 RL
-B010,RioLargo,1,,9,,,Arp,,,,RL,Unknown (RL),1,RioLargo RL
-B011,FunkyDisco,1,,10,,,Bass,,,,RL,Unknown (RL),1,FunkyDisco RL
-B012,UtopianPad,1,,11,,,Pad,,,,RL,Unknown (RL),1,UtopianPad RL
-B013,HardTrancer,1,,12,,,Lead,,,,RL,Unknown (RL),1,HardTrancer RL
-B014,TechnoChords,1,,13,,,Lead,,,,RL,Unknown (RL),1,TechnoChords RL
-B015,SquareWaver,1,,14,,,Bass,,,,RL,Unknown (RL),1,SquareWaver RL
-B016,ArpBells,1,,15,,,Arp,,,,RL,Unknown (RL),1,ArpBells RL
-B017,FakeGuitar,1,,16,,,Keys,,,,RL,Unknown (RL),1,FakeGuitar RL
-B018,Trance2K,1,,17,,,Pad,,,,RL,Unknown (RL),1,Trance2K RL
-B019,Hacienda,1,,18,,,Lead,,,,RL,Unknown (RL),1,Hacienda RL
-B020,BloChoir,1,,19,,,Lead,,,,RL,Unknown (RL),1,BloChoir RL
-B021,BassNation,1,,20,,,Bass,,,,RL,Unknown (RL),1,BassNation RL
-B022,MellowKeys,1,,21,,,Keys,,,,RL,Unknown (RL),1,MellowKeys RL
-B023,TotalTrance,1,,22,,,Arp,,,,RL,Unknown (RL),1,TotalTrance RL
-B024,PianoMan,1,,23,,,Keys,,,,RL,Unknown (RL),1,PianoMan RL
-B025,FloorBass,1,,24,,,Bass,,,,RL,Unknown (RL),1,FloorBass RL
-B026,AnotherWorld,1,,25,,,Pad,,,,RL,Unknown (RL),1,AnotherWorld RL
-B027,ClockWork,1,,26,,,Arp,,,,RL,Unknown (RL),1,ClockWork RL
-B028,SuperMario,1,,27,,,Lead,,,,RL,Unknown (RL),1,SuperMario RL
-B029,ClubDelays,1,,28,,,Lead,,,,RL,Unknown (RL),1,ClubDelays RL
-B030,TronicLead,1,,29,,,Lead,,,,RL,Unknown (RL),1,TronicLead RL
-B031,FireWire,1,,30,,,Arp,,,,RL,Unknown (RL),1,FireWire RL
-B032,DirtyRamirez,1,,31,,,Bass,,,,RL,Unknown (RL),1,DirtyRamirez RL
-B033,MerlinsPad,1,,32,,,Pad,,,,RL,Unknown (RL),1,MerlinsPad RL
-B034,DreamSaw,1,,33,,,Lead,,,,RL,Unknown (RL),1,DreamSaw RL
-B035,CosmicGates,1,,34,,,Arp,,,,RL,Unknown (RL),1,CosmicGates RL
-B036,ElectroPulse,1,,35,,,Lead,,,,RL,Unknown (RL),1,ElectroPulse RL
-B037,SquelchBass,1,,36,,,Bass,,,,RL,Unknown (RL),1,SquelchBass RL
-B038,TechnoDawn,1,,37,,,Pad,,,,RL,Unknown (RL),1,TechnoDawn RL
-B039,Orchestral,1,,38,,,Lead,,,,RL,Unknown (RL),1,Orchestral RL
-B040,StarGazer,1,,39,,,Arp,,,,RL,Unknown (RL),1,StarGazer RL
-B041,PartyLikeAlex,1,,40,,,Bass,,,,RL,Unknown (RL),1,PartyLikeAlex RL
-B042,DanceMaster,1,,41,,,Lead,,,,RL,Unknown (RL),1,DanceMaster RL
-B043,HeavenlyVox,1,,42,,,Pad,,,,RL,Unknown (RL),1,HeavenlyVox RL
-B044,PartyLead,1,,43,,,Lead,,,,RL,Unknown (RL),1,PartyLead RL
-B045,HouseClassic,1,,44,,,Lead,,,,RL,Unknown (RL),1,HouseClassic RL
-B046,ClubUK,1,,45,,,Arp,,,,RL,Unknown (RL),1,ClubUK RL
-B047,TrashBass,1,,46,,,Bass,,,,RL,Unknown (RL),1,TrashBass RL
-B048,SadStrings,1,,47,,,Pad,,,,RL,Unknown (RL),1,SadStrings RL
-B049,RezzoPoly,1,,48,,,Poly,,,,RL,Unknown (RL),1,RezzoPoly RL
-B050,MrMiles,1,,49,,,Keys,,,,RL,Unknown (RL),1,MrMiles RL
-B051,SamplerVox,1,,50,,,Lead,,,,RL,Unknown (RL),1,SamplerVox RL
-B052,TunnelPad,1,,51,,,Pad,,,,RL,Unknown (RL),1,TunnelPad RL
-B053,ElectroSaw,1,,52,,,Bass,,,,RL,Unknown (RL),1,ElectroSaw RL
-B054,TranceMelody,1,,53,,,Arp,,,,RL,Unknown (RL),1,TranceMelody RL
-B055,DancePizz,1,,54,,,Lead,,,,RL,Unknown (RL),1,DancePizz RL
-B056,DigitalDance,1,,55,,,Lead,,,,RL,Unknown (RL),1,DigitalDance RL
-B057,SlowingDown,1,,56,,,Arp,,,,RL,Unknown (RL),1,SlowingDown RL
-B058,303AutoGlide,1,,57,,,Bass,,,,RL,Unknown (RL),1,303AutoGlide RL
-B059,PhazedOut,1,,58,,,Lead,,,,RL,Unknown (RL),1,PhazedOut RL
-B060,MiniLead,1,,59,,,Lead,,,,RL,Unknown (RL),1,MiniLead RL
-B061,Neptune,1,,60,,,Pad,,,,RL,Unknown (RL),1,Neptune RL
-B062,Back2Detroit,1,,61,,,Lead,,,,RL,Unknown (RL),1,Back2Detroit RL
-B063,RetroKeys,1,,62,,,Poly,,,,RL,Unknown (RL),1,RetroKeys RL
-B064,PowerCore,1,,63,,,Lead,,,,RL,Unknown (RL),1,PowerCore RL
-B065,Infected,1,,64,,,Seq,,,,RL,Unknown (RL),1,Infected RL
-B066,Pikey,1,,65,,,Keys,,,,RL,Unknown (RL),1,Pikey RL
-B067,TechnoFX,1,,66,,,FX,,,,RL,Unknown (RL),1,TechnoFX RL
-B068,AfterDark,1,,67,,,Lead,,,,RL,Unknown (RL),1,AfterDark RL
-B069,FlangePad,1,,68,,,Pad,,,,RL,Unknown (RL),1,FlangePad RL
-B070,EuroClassic,1,,69,,,Lead,,,,RL,Unknown (RL),1,EuroClassic RL
-B071,HouseMeUp,1,,70,,,Lead,,,,RL,Unknown (RL),1,HouseMeUp RL
-B072,Motivator,1,,71,,,Arp,,,,RL,Unknown (RL),1,Motivator RL
-B073,TuffBass,1,,72,,,Bass,,,,RL,Unknown (RL),1,TuffBass RL
-B074,DarkSweeper,1,,73,,,Lead,,,,RL,Unknown (RL),1,DarkSweeper RL
-B075,DeepBlue,1,,74,,,Pad,,,,RL,Unknown (RL),1,DeepBlue RL
-B076,NuElectro,1,,75,,,Lead,,,,RL,Unknown (RL),1,NuElectro RL
-B077,NiteCrawler,1,,76,,,Keys,,,,RL,Unknown (RL),1,NiteCrawler RL
-B078,Time2Groove,1,,77,,,Arp,,,,RL,Unknown (RL),1,Time2Groove RL
-B079,Planetarium,1,,78,,,Pad,,,,RL,Unknown (RL),1,Planetarium RL
-B080,DiscoBass,1,,79,,,Bass,,,,RL,Unknown (RL),1,DiscoBass RL
-B081,NoseBleeder,1,,80,,,Arp,,,,RL,Unknown (RL),1,NoseBleeder RL
-B082,OldSkool,1,,81,,,Lead,,,,RL,Unknown (RL),1,OldSkool RL
-B083,Slither,1,,82,,,Lead,,,,RL,Unknown (RL),1,Slither RL
-B084,SuperSquare,1,,83,,,Lead,,,,RL,Unknown (RL),1,SuperSquare RL
-B085,RemixKeys,1,,84,,,Lead,,,,RL,Unknown (RL),1,RemixKeys RL
-B086,DangerZone,1,,85,,,Lead,,,,RL,Unknown (RL),1,DangerZone RL
-B087,SnapAttack,1,,86,,,Bass,,,,RL,Unknown (RL),1,SnapAttack RL
-B088,Pitch&Slide,1,,87,,,Lead,,,,RL,Unknown (RL),1,Pitch&Slide RL
-B089,LiquidSaws,1,,88,,,Lead,,,,RL,Unknown (RL),1,LiquidSaws RL
-B090,Icelandic,1,,89,,,Pad,,,,RL,Unknown (RL),1,Icelandic RL
-B091,Avatar,1,,90,,,Pad,,,,RL,Unknown (RL),1,Avatar RL
-B092,Seduction,1,,91,,,Bass,,,,RL,Unknown (RL),1,Seduction RL
-B093,FollowMe,1,,92,,,Arp,,,,RL,Unknown (RL),1,FollowMe RL
-B094,DutchLead,1,,93,,,Lead,,,,RL,Unknown (RL),1,DutchLead RL
-B095,ElectricPiano,1,,94,,,Keys,,,,RL,Unknown (RL),1,ElectricPiano RL
-B096,WetElectro,1,,95,,,Bass,,,,RL,Unknown (RL),1,WetElectro RL
-B097,Airwave,1,,96,,,Pad,,,,RL,Unknown (RL),1,Airwave RL
-B098,RaveGenerator,1,,97,,,Lead,,,,RL,Unknown (RL),1,RaveGenerator RL
-B099,Amnesia,1,,98,,,Lead,,,,RL,Unknown (RL),1,Amnesia RL
-B100,PlayedLive,1,,99,,,Keys,,,,RL,Unknown (RL),1,PlayedLive RL
-B101,AcidHouse,1,,100,,,Bass,,,,RL,Unknown (RL),1,AcidHouse RL
-B102,TechnoBoy,1,,101,,,Lead,,,,RL,Unknown (RL),1,TechnoBoy RL
-B103,ClubRiffer,1,,102,,,Keys,,,,RL,Unknown (RL),1,ClubRiffer RL
-B104,TechnoBells,1,,103,,,Lead,,,,RL,Unknown (RL),1,TechnoBells RL
-B105,Evolution,1,,104,,,Lead,,,,RL,Unknown (RL),2,Evolution  RL
-B106,DelMar,1,,105,,,Pad,,,,RL,Unknown (RL),1,DelMar RL
-B107,HardEdge,1,,106,,,Arp,,,,RL,Unknown (RL),1,HardEdge RL
-B108,FatPulse,1,,107,,,Bass,,,,RL,Unknown (RL),1,FatPulse RL
-B109,KnockDelays,1,,108,,,Bass,,,,RL,Unknown (RL),1,KnockDelays RL
-B110,Siberia,1,,109,,,Pad,,,,RL,Unknown (RL),1,Siberia RL
-B111,TechnoEric,1,,110,,,Bass,,,,RL,Unknown (RL),1,TechnoEric RL
-B112,DanceClassic,1,,111,,,Keys,,,,RL,Unknown (RL),1,DanceClassic RL
-B113,OffShore44,1,,112,,,Arp,,,,RL,Unknown (RL),1,OffShore44 RL
-B114,Parisien,1,,113,,,Pad,,,,RL,Unknown (RL),1,Parisien RL
-B115,DeepHouse,1,,114,,,Bass,,,,RL,Unknown (RL),1,DeepHouse RL
-B116,MonstaBass,1,,115,,,Bass,,,,RL,Unknown (RL),1,MonstaBass RL
-B117,Ambience,1,,116,,,Pad,,,,RL,Unknown (RL),1,Ambience RL
-B118,XTBass,1,,117,,,Bass,,,,RL,Unknown (RL),1,XTBass RL
-B119,ModularFX,1,,118,,,FX,,,,RL,Unknown (RL),1,ModularFX RL
-B120,Organesque,1,,119,,,Keys,,,,RL,Unknown (RL),1,Organesque RL
-B121,PearlDrops,1,,120,,,Poly,,,,RL,Unknown (RL),1,PearlDrops RL
-B122,BattleStar,1,,121,,,Poly,,,,RL,Unknown (RL),1,BattleStar RL
-B123,AlienBass,1,,122,,,Bass,,,,RL,Unknown (RL),1,AlienBass RL
-B124,SuperWaves,1,,123,,,Lead,,,,RL,Unknown (RL),1,SuperWaves RL
-B125,Unchartered,1,,124,,,Pad,,,,RL,Unknown (RL),1,Unchartered RL
-B126,PlanetZod,1,,125,,,Pad,,,,RL,Unknown (RL),1,PlanetZod RL
-B127,Elevation,1,,126,,,Lead,,,,RL,Unknown (RL),1,Elevation RL
-B128,BassTrap,1,,127,,,Bass,,,,RL,Unknown (RL),1,BassTrap RL
-C001,The 1980s,2,,0,,,Poly,,,,T,Tsching (Holger Steinbrink),6,The 1980s      T
-C002,S1l4g3,2,,1,,,Lead,,,,CA,Unknown (CA),8,S1l4g3        CA
-C003,Dig. Modular,2,,2,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),1,Dig. Modular SCD
-C004,Shy T3ddy,2,,3,,,Keys,,,,CA,Unknown (CA),5,Shy T3ddy     CA
-C005,PPGenious,2,,4,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),4,PPGenious    SCD
-C006,Torreblanca,2,,5,,,Lead,,,,CA,Unknown (CA),3,Torreblanca   CA
-C007,Wave Voices,2,,6,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),2,Wave Voices  SCD
-C008,Channel 1337,2,,7,,,Pad,,,,CA,Unknown (CA),2,Channel 1337  CA
-C009,SimpleSeq,2,,8,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),4,SimpleSeq    SCD
-C010,404 Found,2,,9,,,Init,,,,CA,Unknown (CA),2,404 Found  CA
-C011,OrganClav,2,,10,,,Keys,,,,T,Tsching (Holger Steinbrink),6,OrganClav      T
-C012,Encinarejo,2,,11,,,Lead,,,,CA,Unknown (CA),4,Encinarejo    CA
-C013,Morphorgan,2,,12,,,Keys,,,,T,Tsching (Holger Steinbrink),5,Morphorgan     T
-C014,Vic 20,2,,13,,,Lead,,,,CA,Unknown (CA),8,Vic 20        CA
-C015,Warning,2,,14,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),6,Warning      SCD
-C016,Jaws    CitCA y,2,,15,,,Init,,,,,,,
-C017,Bad Highpass,2,,16,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),1,Bad Highpass SCD
-C018,Bottle,2,,17,,,Lead,,,,CA,Unknown (CA),8,Bottle        CA
-C019,2 Cats,2,,18,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),7,2 Cats       SCD
-C020,Sa Calobra,2,,19,,,Atmo,,,,CA,Unknown (CA),4,Sa Calobra    CA
-C021,FlangerSaw,2,,20,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),3,FlangerSaw   SCD
-C022,Graja,2,,21,,,Bass,,,,CA,Unknown (CA),9,Graja         CA
-C023,BloAttack,2,,22,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),4,BloAttack    SCD
-C024,Table FM,2,,23,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),5,Table FM     SCD
-C025,Glockenklang,2,,24,,,Keys,,,,T,Tsching (Holger Steinbrink),3,Glockenklang   T
-C026,Flowinx,2,,25,,,FX,,,,CA,Unknown (CA),7,Flowinx       CA
-C027,BloodLife,2,,26,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),4,BloodLife    SCD
-C028,2Osc Sync,2,,27,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),4,2Osc Sync    SCD
-C029,Latmo,2,,28,,,Atmo,,,,T,Tsching (Holger Steinbrink),9,Latmo          T
-C030,Halloween,2,,29,,,Atmo,,,,T,Tsching (Holger Steinbrink),6,Halloween      T
-C031,Down to 5kHz,2,,30,,,Atmo,,,,T,Tsching (Holger Steinbrink),3,Down to 5kHz   T
-C032,Filter FM,2,,31,,,Atmo,,,,SCD,Something Completely Different (Boele Gerkes),4,Filter FM    SCD
-C033,Comb-at,2,,32,,,FX,,,,CA,Unknown (CA),7,Comb-at       CA
-C034,Borg Cubus,2,,33,,,Atmo,,,,T,Tsching (Holger Steinbrink),5,Borg Cubus     T
-C035,Relax3,2,,34,,,Atmo,,,,SCD,Something Completely Different (Boele Gerkes),7,Relax3       SCD
-C036,Mahlstrom,2,,35,,,Atmo,,,,T,Tsching (Holger Steinbrink),6,Mahlstrom      T
-C037,AM on Sinus,2,,36,,,Atmo,,,,SCD,Something Completely Different (Boele Gerkes),2,AM on Sinus  SCD
-C038,19/20,2,,37,,,FX,,,,T,Tsching (Holger Steinbrink),9,19/20          T
-C039,What?,2,,38,,,FX,,,,SCD,Something Completely Different (Boele Gerkes),8,What?        SCD
-C040,StefanIsMad,2,,39,,,FX,,,,SCD,Something Completely Different (Boele Gerkes),2,StefanIsMad  SCD
-C041,ReverseWhoosch,2,,40,,,FX,,,,T,Tsching (Holger Steinbrink),1,ReverseWhoosch T
-C042,50s Pad,2,,41,,,Pad,,,,T,Tsching (Holger Steinbrink),8,50s Pad        T
-C043,Deepspace 9,2,,42,,,Pad,,,,ST,Unknown (ST),3,Deepspace 9   ST
-C044,Chorus,2,,43,,,Pad,,,,WMF,Wolfram Franke,7,Chorus       WMF
-C045,HP PPG,2,,44,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),7,HP PPG       SCD
-C046,"Hmm, lecker",2,,45,,,Pad,,,,WMF,Wolfram Franke,2,"Hmm, lecker  WMF"
-C047,Angel Pad,2,,46,,,Pad,,,,HS,Howard Scarr,5,Angel Pad     HS
-C048,Heaven,2,,47,,,Pad,,,,JL,Juho Lepisto,8,Heaven        JL
-C049,Blovachord,2,,48,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),3,Blovachord   SCD
-C050,MeetInTheSky,2,,49,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),1,MeetInTheSky SCD
-C051,Padings,2,,50,,,Pad,,,,HM,Hubertus Maas,7,Padings       HM
-C052,Om mani padme,2,,51,,,Pad,,,,HM,Hubertus Maas,1,Om mani padme HM
-C053,Raising Sun,2,,52,,,Pad,,,,T,Tsching (Holger Steinbrink),4,Raising Sun    T
-C054,Slow Wavetrip,2,,53,,,Pad,,,,T,Tsching (Holger Steinbrink),2,Slow Wavetrip  T
-C055,Brightseite,2,,54,,,Pad,,,,T,Tsching (Holger Steinbrink),4,Brightseite    T
-C056,LateNightPad,2,,55,,,Pad,,,,T,Tsching (Holger Steinbrink),3,LateNightPad   T
-C057,Angels Cry,2,,56,,,Pad,,,,JL,Juho Lepisto,4,Angels Cry    JL
-C058,Phalanx,2,,57,,,Pad,,,,ST,Unknown (ST),7,Phalanx       ST
-C059,The Bridge,2,,58,,,Pad,,,,SK,Unknown (SK),4,The Bridge    SK
-C060,ObiWahnPad,2,,59,,,Pad,,,,SK,Unknown (SK),4,ObiWahnPad    SK
-C061,Sonnenaufgang,2,,60,,,Pad,,,,T,Tsching (Holger Steinbrink),2,Sonnenaufgang  T
-C062,Queen-mom,2,,61,,,Pad,,,,HM,Hubertus Maas,5,Queen-mom     HM
-C063,DarkQuietPad,2,,62,,,Pad,,,,T,Tsching (Holger Steinbrink),3,DarkQuietPad   T
-C064,Geiler Lurch,2,,63,,,Pad,,,,T,Tsching (Holger Steinbrink),3,Geiler Lurch   T
-C065,Zeitlos,2,,64,,,Pad,,,,T,Tsching (Holger Steinbrink),8,Zeitlos        T
-C066,MI5 Pad,2,,65,,,Pad,,,,ugh,Uwe G. Hoenig,6,MI5 Pad      ugh
-C067,Octopussy Pad,2,,66,,,Pad,,,,T,Tsching (Holger Steinbrink),2,Octopussy Pad  T
-C068,Like Wool,2,,67,,,Pad,,,,HM,Hubertus Maas,5,Like Wool     HM
-C069,di-Fusion,2,,68,,,Pad,,,,T,Tsching (Holger Steinbrink),6,di-Fusion      T
-C070,Go to Pad,2,,69,,,Pad,,,,T,Tsching (Holger Steinbrink),6,Go to Pad      T
-C071,Kiddings,2,,70,,,Pad,,,,HM,Hubertus Maas,6,Kiddings      HM
-C072,Harsh Pad,2,,71,,,Pad,,,,T,Tsching (Holger Steinbrink),6,Harsh Pad      T
-C073,Broadway,2,,72,,,Pad,,,,ugh,Uwe G. Hoenig,5,Broadway     ugh
-C074,Neocrest,2,,73,,,Pad,,,,ST,Unknown (ST),6,Neocrest      ST
-C075,BandSpass,2,,74,,,Pad,,,,T,Tsching (Holger Steinbrink),6,BandSpass      T
-C076,Event Horizon,2,,75,,,Pad,,,,T,Tsching (Holger Steinbrink),2,Event Horizon  T
-C077,Long Sweep,2,,76,,,Pad,,,,T,Tsching (Holger Steinbrink),5,Long Sweep     T
-C078,DisharmonicPad,2,,77,,,Atmo,,,,T,Tsching (Holger Steinbrink),1,DisharmonicPad T
-C079,Goldfinger Pad,2,,78,,,Pad,,,,T,Tsching (Holger Steinbrink),1,Goldfinger Pad T
-C080,Wartofsky 2.0,2,,79,,,Pad,,,,T,Tsching (Holger Steinbrink),2,Wartofsky 2.0  T
-C081,S&H&Pad&Nice,2,,80,,,Pad,,,,WMF,Wolfram Franke,1,S&H&Pad&Nice WMF
-C082,Attacke,2,,81,,,Pad,,,,WMF,Wolfram Franke,6,Attacke      WMF
-C083,Moving,2,,82,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),7,Moving       SCD
-C084,Q-rious?,2,,83,,,Pad,,,,WMF,Wolfram Franke,5,Q-rious?     WMF
-C085,Bioshock,2,,84,,,Pad,,,,JL,Juho Lepisto,6,Bioshock      JL
-C086,With Love,2,,85,,,Pad,,,,WMF,Wolfram Franke,4,With Love    WMF
-C087,Mellow Tron,2,,86,,,Pad,,,,TK,Unknown (TK),3,Mellow Tron   TK
-C088,JV HardBass,2,,87,,,Bass,,,,,,,
-C089,PredictaBass,2,,88,,,Bass,,,,WMF,Wolfram Franke,1,PredictaBass WMF
-C090,Phalanx Bass,2,,89,,,Bass,,,,,,,
-C091,BassterKeaton,2,,90,,,Bass,,,,T,Tsching (Holger Steinbrink),2,BassterKeaton  T
-C092,Narrow,2,,91,,,Bass,,,,,,,
-C093,Drum'n'Bass 1,2,,92,,,Bass,,,,,,,
-C094,Mars Mouse,2,,93,,,Bass,,,,,,,
-C095,Fonky Fonky,2,,94,,,Bass,,,,,,,
-C096,Frittenlos,2,,95,,,Bass,,,,,,,
-C097,Mo'Grass,2,,96,,,Bass,,,,,,,
-C098,Bassanova,2,,97,,,Bass,,,,,,,
-C099,2Step Bass,2,,98,,,Bass,,,,,,,
-C100,TockTock,2,,99,,,Bass,,,,,,,
-C101,Silicon Base,2,,100,,,Bass,,,,,,,
-C102,Ultra Sub 1,2,,101,,,Bass,,,,,,,
-C103,Ultra Sub 2,2,,102,,,Bass,,,,,,,
-C104,WhopWhop,2,,103,,,Bass,,,,,,,
-C105,Acrylic Bass,2,,104,,,Bass,,,,,,,
-C106,Ringmono,2,,105,,,Bass,,,,,,,
-C107,CascadeVCF,2,,106,,,Bass,,,,,,,
-C108,303 Wanna Be,2,,107,,,Bass,,,,,,,
-C109,Morph Bass,2,,108,,,Bass,,,,ST,Unknown (ST),4,Morph Bass    ST
-C110,Q-Timps,2,,109,,,Bass,,,,,,,
-C111,DeepHouse,2,,110,,,Keys,,,,SK,Unknown (SK),5,DeepHouse     SK
-C112,FM Roads,2,,111,,,Keys,,,,HS,Howard Scarr,6,FM Roads      HS
-C113,DX-ClassiQ,2,,112,,,Keys,,,,HS,Howard Scarr,4,DX-ClassiQ    HS
-C114,Hippy Freuds,2,,113,,,Keys,,,,HS,Howard Scarr,2,Hippy Freuds  HS
-C115,Shed,2,,114,,,Keys,,,,HM,Hubertus Maas,9,Shed          HM
-C116,Harpsi,2,,115,,,Keys,,,,HS,Howard Scarr,8,Harpsi        HS
-C117,Easy Piano,2,,116,,,Keys,,,,HS,Howard Scarr,4,Easy Piano    HS
-C118,Lounge Morph,2,,117,,,Keys,,,,HS,Howard Scarr,2,Lounge Morph  HS
-C119,BloodyFeld,2,,118,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),3,BloodyFeld   SCD
-C120,ModWheelOrgan,2,,119,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),0,ModWheelOrganSCD
-C121,Minor Chords,2,,120,,,Seq,,,,T,Tsching (Holger Steinbrink),3,Minor Chords   T
-C122,Ice Bells,2,,121,,,Seq,,,,SK,Unknown (SK),5,Ice Bells     SK
-C123,Bone Soup,2,,122,,,FX,,,,,,,
-C124,DCS3 Bubbles,2,,123,,,FX,,,,,,,
-C125,Flying Teapot,2,,124,,,FX,,,,,,,
-C126,Gastrology,2,,125,,,FX,,,,,,,
-C127,Into Mouth,2,,126,,,FX,,,,,,,
-C128,Whoosch,2,,127,,,FX,,,,T,Tsching (Holger Steinbrink),8,Whoosch        T
-D001,UltraFatPoly,3,,0,,,Poly,,,,WMF,Wolfram Franke,1,UltraFatPoly WMF
-D002,Brass Comp,3,,1,,,Poly,,,,HM,Hubertus Maas,4,Brass Comp    HM
-D003,Pussy Galore,3,,2,,,Poly,,,,T,Tsching (Holger Steinbrink),3,Pussy Galore   T
-D004,Euro-Zeichen,3,,3,,,Poly,,,,HS,Howard Scarr,2,Euro-Zeichen  HS
-D005,Brassy House,3,,4,,,Poly,,,,SK,Unknown (SK),2,Brassy House  SK
-D006,BestOfThe80s,3,,5,,,Poly,,,,T,Tsching (Holger Steinbrink),3,BestOfThe80s   T
-D007,Classic Synth,3,,6,,,Poly,,,,T,Tsching (Holger Steinbrink),2,Classic Synth  T
-D008,WT mess,3,,7,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),5,WT mess     SCD
-D009,Leadrunner,3,,8,,,Poly,,,,HS,Howard Scarr,4,Leadrunner    HS
-D010,10VoicePS3100,3,,9,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),0,10VoicePS3100SCD
-D011,Patagonia,3,,10,,,Poly,,,,HS,Howard Scarr,5,Patagonia     HS
-D012,Quintage,3,,11,,,Poly,,,,T,Tsching (Holger Steinbrink),7,Quintage       T
-D013,RoundTheHorn,3,,12,,,Poly,,,,HS,Howard Scarr,2,RoundTheHorn  HS
-D014,Net Profit,3,,13,,,Poly,,,,HS,Howard Scarr,4,Net Profit    HS
-D015,SyncMush,3,,14,,,Poly,,,,DocT,Stefan Trippler,4,SyncMush    DocT
-D016,Tron Flutes,3,,15,,,Poly,,,,HM,Hubertus Maas,3,Tron Flutes   HM
-D017,Qazzio,3,,16,,,Poly,,,,HS,Howard Scarr,8,Qazzio        HS
-D018,VintageSpring,3,,17,,,Poly,,,,WMF,Wolfram Franke,0,VintageSpringWMF
-D019,Zawichords,3,,18,,,Poly,,,,HS,Howard Scarr,4,Zawichords    HS
-D020,Spring Clean,3,,19,,,Poly,,,,HS,Howard Scarr,2,Spring Clean  HS
-D021,Papathanasiou,3,,20,,,Poly,,,,T,Tsching (Holger Steinbrink),2,Papathanasiou  T
-D022,FloorFilla,3,,21,,,Poly,,,,SK,Unknown (SK),4,FloorFilla    SK
-D023,Hyper,3,,22,,,Poly,,,,DocT,Stefan Trippler,7,Hyper       DocT
-D024,Dr. Motte,3,,23,,,Poly,,,,T,Tsching (Holger Steinbrink),6,Dr. Motte      T
-D025,FilterFM Keys,3,,24,,,Poly,,,,T,Tsching (Holger Steinbrink),2,FilterFM Keys  T
-D026,80sFM Analog,3,,25,,,Poly,,,,SK,Unknown (SK),2,80sFM Analog  SK
-D027,Analog Lute,3,,26,,,Poly,,,,HS,Howard Scarr,3,Analog Lute   HS
-D028,D-NoiZer,3,,27,,,Poly,,,,SK,Unknown (SK),6,D-NoiZer      SK
-D029,Crawlers,3,,28,,,Poly,,,,SK,Unknown (SK),6,Crawlers      SK
-D030,Brownies,3,,29,,,Poly,,,,WMF,Wolfram Franke,5,Brownies     WMF
-D031,Late Ring,3,,30,,,Poly,,,,HS,Howard Scarr,5,Late Ring     HS
-D032,RingThemBells,3,,31,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),0,RingThemBellsSCD
-D033,TributeTo DX,3,,32,,,Poly,,,,WMF,Wolfram Franke,1,TributeTo DX WMF
-D034,WhatYouSay?,3,,33,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),2,WhatYouSay?  SCD
-D035,Atlantis,3,,34,,,Atmo,,,,T,Tsching (Holger Steinbrink),7,Atlantis       T
-D036,Atmostrobe,3,,35,,,Atmo,,,,T,Tsching (Holger Steinbrink),5,Atmostrobe     T
-D037,Background,3,,36,,,Atmo,,,,T,Tsching (Holger Steinbrink),5,Background     T
-D038,Baraka,3,,37,,,Atmo,,,,T,Tsching (Holger Steinbrink),9,Baraka         T
-D039,Beautiful Sky,3,,38,,,Atmo,,,,T,Tsching (Holger Steinbrink),2,Beautiful Sky  T
-D040,Clink Clash,3,,39,,,Atmo,,,,T,Tsching (Holger Steinbrink),4,Clink Clash    T
-D041,Comb Tree,3,,40,,,Atmo,,,,T,Tsching (Holger Steinbrink),6,Comb Tree      T
-D042,Drift,3,,41,,,Atmo,,,,,,,
-D043,Fear'n'Loath,3,,42,,,Atmo,,,,,,,
-D044,Flinker,3,,43,,,Atmo,,,,,,,
-D045,Orthanc,3,,44,,,Atmo,,,,T,Tsching (Holger Steinbrink),8,Orthanc        T
-D046,RePression,3,,45,,,Atmo,,,,T,Tsching (Holger Steinbrink),5,RePression     T
-D047,Royalties,3,,46,,,Atmo,,,,,,,
-D048,Biosphere,3,,47,,,Atmo,,,,T,Tsching (Holger Steinbrink),6,Biosphere      T
-D049,Spitzbergen,3,,48,,,Atmo,,,,T,Tsching (Holger Steinbrink),4,Spitzbergen    T
-D050,Stratosphere,3,,49,,,Atmo,,,,T,Tsching (Holger Steinbrink),3,Stratosphere   T
-D051,Swiss Atmo,3,,50,,,Atmo,,,,T,Tsching (Holger Steinbrink),5,Swiss Atmo     T
-D052,Upstream,3,,51,,,Atmo,,,,T,Tsching (Holger Steinbrink),7,Upstream       T
-D053,VeryCompleqs,3,,52,,,Atmo,,,,,,,
-D054,Waterworld,3,,53,,,Atmo,,,,T,Tsching (Holger Steinbrink),5,Waterworld     T
-D055,RingmodFart,3,,54,,,Atmo,,,,SCD,Something Completely Different (Boele Gerkes),2,RingmodFart  SCD
-D056,Vangelibells,3,,55,,,Atmo,,,,SCD,Something Completely Different (Boele Gerkes),1,Vangelibells SCD
-D057,PolterBlofeld,3,,56,,,Atmo,,,,SCD,Something Completely Different (Boele Gerkes),0,PolterBlofeldSCD
-D058,Ambishous,3,,57,,,Atmo,,,,,,,
-D059,ScaramangAtmo,3,,58,,,Atmo,,,,T,Tsching (Holger Steinbrink),2,ScaramangAtmo  T
-D060,CS4O RingMod,3,,59,,,Mono,,,,T,Tsching (Holger Steinbrink),3,CS4O RingMod   T
-D061,ReSolotion,3,,60,,,Mono,,,,WMF,Wolfram Franke,3,ReSolotion   WMF
-D062,Anna Powers,3,,61,,,Mono,,,,HM,Hubertus Maas,3,Anna Powers   HM
-D063,HardSaw,3,,62,,,Lead,,,,ST,Unknown (ST),7,HardSaw       ST
-D064,X-Feels,3,,63,,,Mono,,,,,,,
-D065,Bach Whistler,3,,64,,,Mono,,,,,,,
-D066,Modulator,3,,65,,,Mono,,,,,,,
-D067,NoisyLead,3,,66,,,Mono,,,,,,,
-D068,Pulsar Solo,3,,67,,,Mono,,,,,,,
-D069,Starweed,3,,68,,,Mono,,,,,,,
-D070,Saw 1 Osc,3,,69,,,Lead,,,,WMF,Wolfram Franke,4,Saw 1 Osc    WMF
-D071,Old Squares,3,,70,,,Mono,,,,,,,
-D072,Crazy Parade,3,,71,,,Mono,,,,,,,
-D073,Monoguitar,3,,72,,,Mono,,,,,,,
-D074,Eff Emmd!,3,,73,,,Mono,,,,,,,
-D075,DiscoPhonic,3,,74,,,Mono,,,,,,,
-D076,Moany,3,,75,,,Mono,,,,,,,
-D077,MiniDuke Solo,3,,76,,,Mono,,,,,,,
-D078,FictionGuitar,3,,77,,,Mono,,,,,,,
-D079,Autobahn,3,,78,,,Mono,,,,jh,Joerg Huettner,6,Autobahn      jh
-D080,MoogSolo,3,,79,,,Mono,,,,HS,Howard Scarr,6,MoogSolo      HS
-D081,LA-Pipe,3,,80,,,Lead,,,,HS,Howard Scarr,7,LA-Pipe       HS
-D082,Clinics,3,,81,,,Lead,,,,WMF,Wolfram Franke,6,Clinics      WMF
-D083,Attacke,3,,82,,,Arp,,,,WMF,Wolfram Franke,6,Attacke      WMF
-D084,Expensive2,3,,83,,,Arp,,,,WMF,Wolfram Franke,3,Expensive2   WMF
-D085,ZZ-you,3,,84,,,Arp,,,,,,,
-D086,Juanita,3,,85,,,Arp,,,,T,Tsching (Holger Steinbrink),8,Juanita        T
-D087,Ricochet2008,3,,86,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),1,Ricochet2008 SCD
-D088,Spiffing,3,,87,,,Arp,,,,,,,
-D089,StarSoldiers,3,,88,,,Arp,,,,,,,
-D090,Slow Pop,3,,89,,,Arp,,,,,,,
-D091,Space Arp 1,3,,90,,,Arp,,,,,,,
-D092,Space Arp 2,3,,91,,,Arp,,,,,,,
-D093,Goonraker,3,,92,,,Arp,,,,DocT,Stefan Trippler,3,Goonraker   DocT
-D094,Sierra Velone,3,,93,,,Arp,,,,,,,
-D095,Selbstlaeufer,3,,94,,,Arp,,,,T,Tsching (Holger Steinbrink),2,Selbstlaeufer  T
-D096,GeeGaGooQ,3,,95,,,Arp,,,,WMF,Wolfram Franke,4,GeeGaGooQ    WMF
-D097,PassPortament,3,,96,,,Arp,,,,,,,
-D098,cARPet,3,,97,,,Arp,,,,T,Tsching (Holger Steinbrink),9,cARPet         T
-D099,DeluXaflex,3,,98,,,Arp,,,,RJ,Unknown (RJ),4,DeluXaflex    RJ
-D100,E-Motion,3,,99,,,Arp,,,,,,,
-D101,AthmoDrops,3,,100,,,Arp,,,,,,,
-D102,1DrunkenStenz,3,,101,,,Arp,,,,,,,
-D103,Weirdo FX,3,,102,,,Arp,,,,,,,
-D104,Solaris,3,,103,,,Atmo,,,,,,,
-D105,SoundScapes 1,3,,104,,,Atmo,,,,,,,
-D106,Spektrum Pad,3,,105,,,Atmo,,,,,,,
-D107,Sphere,3,,106,,,Atmo,,,,,,,
-D108,Spitzbergen,3,,107,,,Atmo,,,,,,,
-D109,Stratosphere,3,,108,,,Atmo,,,,,,,
-D110,Swiss Atmo,3,,109,,,Atmo,,,,,,,
-D111,The 5th Atmo,3,,110,,,Atmo,,,,,,,
-D112,The Fog,3,,111,,,Atmo,,,,,,,
-D113,The Year 3000,3,,112,,,Atmo,,,,,,,
-D114,Thin Ice,3,,113,,,Atmo,,,,,,,
-D115,ThrillerOrgan,3,,114,,,Atmo,,,,,,,
-D116,Tire-Guy,3,,115,,,Atmo,,,,,,,
-D117,TschingHisCan,3,,116,,,Atmo,,,,,,,
-D118,Upstream,3,,117,,,Atmo,,,,,,,
-D119,ValeyPad,3,,118,,,Atmo,,,,,,,
-D120,Vanilla Sky,3,,119,,,Atmo,,,,,,,
-D121,Orthanc,3,,120,,,Atmo,,,,,,,
-D122,Lettland,3,,121,,,Atmo,,,,,,,
-D123,Wartofsky,3,,122,,,Pad,,,,T,Tsching (Holger Steinbrink),6,Wartofsky      T
-D124,Wavescapes 1,3,,123,,,Pad,,,,,,,
-D125,Wavescapes 2,3,,124,,,Pad,,,,,,,
-D126,Wavescapes 3,3,,125,,,Pad,,,,,,,
-D127,WideWarmWash,3,,126,,,Pad,,,,WMF,Wolfram Franke,1,WideWarmWash WMF
-D128,The Carpet,3,,127,,,Pad,,,,,,,
-E001,With Love,4,,0,,,Pad,,,,WMF,Wolfram Franke,4,With Love    WMF
-E002,ScaramangAtmo,4,,1,,,Atmo,,,,T,Tsching (Holger Steinbrink),2,ScaramangAtmo  T
-E003,Handy,4,,2,,,Arp,,,,H2SCD,Hans Herooms & Something Completely Different (Boele Gerkes),6,Handy      H2SCD
-E004,Angels Cry,4,,3,,,Pad,,,,JL,Juho Lepisto,4,Angels Cry    JL
-E005,Chorus,4,,4,,,Pad,,,,WMF,Wolfram Franke,7,Chorus       WMF
-E006,ModWheelOrgan,4,,5,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),0,ModWheelOrganSCD
-E007,SyncMush,4,,6,,,Poly,,,,DocT,Stefan Trippler,4,SyncMush    DocT
-E008,Yummi,4,,7,,,Bass,,,,DocT,Stefan Trippler,7,Yummi       DocT
-E009,Pussy Galore,4,,8,,,Poly,,,,T,Tsching (Holger Steinbrink),3,Pussy Galore   T
-E010,Clinics,4,,9,,,Lead,,,,WMF,Wolfram Franke,6,Clinics      WMF
-E011,CtrlAltDel,4,,10,,,Lead,,,,DocT,Stefan Trippler,2,CtrlAltDel  DocT
-E012,Tines&Bars,4,,11,,,Keys,,,,WMF,Wolfram Franke,3,Tines&Bars   WMF
-E013,Unstable,4,,12,,,Lead,,,,DocT,Stefan Trippler,4,Unstable    DocT
-E014,Deepspace 9,4,,13,,,Pad,,,,ST,Unknown (ST),3,Deepspace 9   ST
-E015,DrivingLicns,4,,14,,,Lead,,,,DocT,Stefan Trippler,0,DrivingLicnsDocT
-E016,FlangedHeaven,4,,15,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),0,FlangedHeavenSCD
-E017,Heaven,4,,16,,,Pad,,,,JL,Juho Lepisto,8,Heaven        JL
-E018,"Hmm, lecker",4,,17,,,Pad,,,,WMF,Wolfram Franke,2,"Hmm, lecker  WMF"
-E019,Horse Trip,4,,18,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),3,Horse Trip   SCD
-E020,Inversion,4,,19,,,Atmo,,,,DocT,Stefan Trippler,3,Inversion   DocT
-E021,JMX vs. DeLeon,4,,20,,,Poly,,,,,,,
-E022,LA Woman,4,,21,,,Keys,,,,H2SCD,Hans Herooms & Something Completely Different (Boele Gerkes),3,LA Woman   H2SCD
-E023,Minor Chords,4,,22,,,Seq,,,,,,,
-E024,MoogSolo 2,4,,23,,,Mono,,,,,,,
-E025,OhMyLord,4,,24,,,Keys,,,,DocT,Stefan Trippler,4,OhMyLord    DocT
-E026,PPG Bells,4,,25,,,Poly,,,,WMF,Wolfram Franke,4,PPG Bells    WMF
-E027,PPGesus,4,,26,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),6,PPGesus      SCD
-E028,Quadratur,4,,27,,,Lead,,,,DocT,Stefan Trippler,3,Quadratur   DocT
-E029,RingmodFart,4,,28,,,FX,,,,SCD,Something Completely Different (Boele Gerkes),2,RingmodFart  SCD
-E030,Schnoerkelos,4,,29,,,Lead,,,,DocT,Stefan Trippler,0,SchnoerkelosDocT
-E031,Schulze?,4,,30,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),5,Schulze?     SCD
-E032,shArp,4,,31,,,Arp,,,,DocT,Stefan Trippler,7,shArp       DocT
-E033,Space Echo,4,,32,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),3,Space Echo   SCD
-E034,Synthline,4,,33,,,Pad,,,,JL,Juho Lepisto,5,Synthline     JL
-E035,Taken!,4,,34,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),7,Taken!       SCD
-E036,TouchyBugger,4,,35,,,Bass,,,,DocT,Stefan Trippler,0,TouchyBuggerDocT
-E037,UpperWarp,4,,36,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),4,UpperWarp    SCD
-E038,WhatYouSay?,4,,37,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),2,WhatYouSay?  SCD
-E039,WT mess,4,,38,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),5,WT mess     SCD
-E040,10VoicePS3100,4,,39,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),0,10VoicePS3100SCD
-E041,ArcoStrings,4,,40,,,Pad,,,,TEK,"Till ""QWave"" Kopper",2,ArcoStrings  TEK
-E042,Blocked,4,,41,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),6,Blocked      SCD
-E043,Blolitzer,4,,42,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),4,Blolitzer    SCD
-E044,BloodyFeld,4,,43,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),3,BloodyFeld   SCD
-E045,BloSync,4,,44,,,Lead,,,,DocT,Stefan Trippler,5,BloSync     DocT
-E046,Blovachord,4,,45,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),3,Blovachord   SCD
-E047,Boele Keys,4,,46,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),3,Boele Keys   SCD
-E048,Bonker Bass,4,,47,,,Bass,,,,ST,Unknown (ST),3,Bonker Bass   ST
-E049,Camel Saw,4,,48,,,FX,,,,DocT,Stefan Trippler,3,Camel Saw   DocT
-E050,Cream S+H,4,,49,,,FX,,,,SCD,Something Completely Different (Boele Gerkes),4,Cream S+H    SCD
-E051,CS4O RingMod,4,,50,,,Mono,,,,,,,
-E052,DalaiDelayMa,4,,51,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),1,DalaiDelayMa SCD
-E053,Dirty Organ,4,,52,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),2,Dirty Organ  SCD
-E054,Dr.Blo,4,,53,,,Arp,,,,DocT,Stefan Trippler,6,Dr.Blo      DocT
-E055,Driven,4,,54,,,Bass,,,,DocT,Stefan Trippler,6,Driven      DocT
-E056,Euro Clubber,4,,55,,,Lead,,,,ST,Unknown (ST),2,Euro Clubber  ST
-E057,Flangelized,4,,56,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),2,Flangelized  SCD
-E058,Funky Bass,4,,57,,,Bass,,,,JL,Juho Lepisto,4,Funky Bass    JL
-E059,Goldfinger Pad,4,,58,,,Pad,,,,T,Tsching (Holger Steinbrink),1,Goldfinger Pad T
-E060,HardSaw,4,,59,,,Lead,,,,ST,Unknown (ST),7,HardSaw       ST
-E061,Heimweh,4,,60,,,Atmo,,,,DocT,Stefan Trippler,5,Heimweh     DocT
-E062,Honey House,4,,61,,,Bass,,,,,,,
-E063,Horny Bass,4,,62,,,Bass,,,,ST,Unknown (ST),4,Horny Bass    ST
-E064,HP PPG,4,,63,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),7,HP PPG       SCD
-E065,Hyper,4,,64,,,Lead,,,,DocT,Stefan Trippler,7,Hyper       DocT
-E066,I'm Evil,4,,65,,,Bass,,,,WMF,Wolfram Franke,5,I'm Evil     WMF
-E067,Infinitesima,4,,66,,,Atmo,,,,DocT,Stefan Trippler,0,InfinitesimaDocT
-E068,Jankorgel,4,,67,,,Mono,,,,SCD,Something Completely Different (Boele Gerkes),4,Jankorgel    SCD
-E069,Leading,4,,68,,,Mono,,,,SCD,Something Completely Different (Boele Gerkes),6,Leading      SCD
-E070,Maximum Zorin,4,,69,,,Atmo,,,,T,Tsching (Holger Steinbrink),2,Maximum Zorin  T
-E071,MeetInTheSky,4,,70,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),1,MeetInTheSky SCD
-E072,Meridian,4,,71,,,Keys,,,,DocT,Stefan Trippler,4,Meridian    DocT
-E073,Messing,4,,72,,,Poly,,,,DocT,Stefan Trippler,5,Messing     DocT
-E074,Minimal Bass,4,,73,,,Bass,,,,JL,Juho Lepisto,1,Minimal Bass JL
-E075,Morph Bass,4,,74,,,Bass,,,,ST,Unknown (ST),4,Morph Bass    ST
-E076,Moving,4,,75,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),7,Moving       SCD
-E077,NearlyInTune,4,,76,,,Atmo,,,,SCD,Something Completely Different (Boele Gerkes),1,NearlyInTune SCD
-E078,Neocrest,4,,77,,,Pad,,,,ST,Unknown (ST),6,Neocrest      ST
-E079,Octopussy Pad,4,,78,,,Pad,,,,T,Tsching (Holger Steinbrink),2,Octopussy Pad  T
-E080,Organella,4,,79,,,Keys,,,,,,,
-E081,Partyhupe,4,,80,,,Lead,,,,ST,Unknown (ST),5,Partyhupe     ST
-E082,Pastry,4,,81,,,Atmo,,,,DocT,Stefan Trippler,6,Pastry      DocT
-E083,Persecutor,4,,82,,,Bass,,,,DocT,Stefan Trippler,2,Persecutor  DocT
-E084,Phalanx,4,,83,,,Pad,,,,ST,Unknown (ST),7,Phalanx       ST
-E085,Pick It Up!,4,,84,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),2,Pick It Up!  SCD
-E086,Pienzchen,4,,85,,,Poly,,,,DocT,Stefan Trippler,3,Pienzchen   DocT
-E087,Pigs X-Mod,4,,86,,,Poly,,,,TEK,"Till ""QWave"" Kopper",3,Pigs X-Mod   TEK
-E088,PlainBass,4,,87,,,Bass,,,,DocT,Stefan Trippler,3,PlainBass   DocT
-E089,PolterBlofeld,4,,88,,,FX,,,,SCD,Something Completely Different (Boele Gerkes),0,PolterBlofeldSCD
-E090,Poly Lead,4,,89,,,Lead,,,,SCD,Something Completely Different (Boele Gerkes),4,Poly Lead    SCD
-E091,PPG Piano,4,,90,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),4,PPG Piano    SCD
-E092,PPG T40 like,4,,91,,,Bass,,,,TEK,"Till ""QWave"" Kopper",1,PPG T40 like TEK
-E093,PredictaBass,4,,92,,,Bass,,,,WMF,Wolfram Franke,1,PredictaBass WMF
-E094,Pressure,4,,93,,,Keys,,,,DocT,Stefan Trippler,4,Pressure    DocT
-E095,Principia,4,,94,,,FX,,,,DocT,Stefan Trippler,3,Principia   DocT
-E096,Pure,4,,95,,,Poly,,,,DocT,Stefan Trippler,8,Pure        DocT
-E097,Reset,4,,96,,,Lead,,,,DocT,Stefan Trippler,7,Reset       DocT
-E098,Ricochet2008,4,,97,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),1,Ricochet2008 SCD
-E099,RingThemBells,4,,98,,,FX,,,,SCD,Something Completely Different (Boele Gerkes),0,RingThemBellsSCD
-E100,Robotic,4,,99,,,Pad,,,,JL,Juho Lepisto,7,Robotic       JL
-E101,Saw Orgy,4,,100,,,Pad,,,,SCD,Something Completely Different (Boele Gerkes),5,Saw Orgy     SCD
-E102,Seq 1,4,,101,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),8,Seq 1        SCD
-E103,Seven Ties,4,,102,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),3,Seven Ties   SCD
-E104,S&Hatmo,4,,103,,,Atmo,,,,,,,
-E105,Sobstuff,4,,104,,,Atmo,,,,DocT,Stefan Trippler,4,Sobstuff    DocT
-E106,Soft Brass 2,4,,105,,,Poly,,,,DocT,Stefan Trippler,0,Soft Brass 2DocT
-E107,SpatialDrive1,4,,106,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),0,SpatialDrive1SCD
-E108,SpatialDrive2,4,,107,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),0,SpatialDrive2SCD
-E109,Stenzelized,4,,108,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),2,Stenzelized  SCD
-E110,Stop Bass,4,,109,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),4,Stop Bass    SCD
-E111,SunOfTheDogs,4,,110,,,Atmo,,,,WMF,Wolfram Franke,1,SunOfTheDogs WMF
-E112,Supersaw,4,,111,,,Lead,,,,ST,Unknown (ST),6,Supersaw      ST
-E113,Tabloid,4,,112,,,Pad,,,,DocT,Stefan Trippler,5,Tabloid     DocT
-E114,Telenovela,4,,113,,,Poly,,,,DocT,Stefan Trippler,2,Telenovela  DocT
-E115,Thrill Arp,4,,114,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),3,Thrill Arp   SCD
-E116,Utmost,4,,115,,,Lead,,,,DocT,Stefan Trippler,6,Utmost      DocT
-E117,Variator,4,,116,,,Arp,,,,DocT,Stefan Trippler,4,Variator    DocT
-E118,Wave Mayhem,4,,117,,,Atmo,,,,DocT,Stefan Trippler,1,Wave Mayhem DocT
-E119,WavEpiano,4,,118,,,Keys,,,,SCD,Something Completely Different (Boele Gerkes),4,WavEpiano    SCD
-E120,West Wave,4,,119,,,Arp,,,,H2SCD,Hans Herooms & Something Completely Different (Boele Gerkes),2,West Wave  H2SCD
-E121,AfterConcert,4,,120,,,FX,,,,SCD,Something Completely Different (Boele Gerkes),1,AfterConcert SCD
-E122,AnalogBass,4,,121,,,Bass,,,,SCD,Something Completely Different (Boele Gerkes),3,AnalogBass   SCD
-E123,Barbarie Brass,4,,122,,,Poly,,,,ST,Unknown (ST),0,Barbarie BrassST
-E124,Basster Keaton,4,,123,,,Bass,,,,,,,
-E125,Bend Me,4,,124,,,FX,,,,DocT,Stefan Trippler,5,Bend Me     DocT
-E126,Bioshock,4,,125,,,Pad,,,,JL,Juho Lepisto,6,Bioshock      JL
-E127,Blubber,4,,126,,,FX,,,,TEK,"Till ""QWave"" Kopper",6,Blubber      TEK
-E128,Diving Echos,4,,127,,,FX,,,,TEK,"Till ""QWave"" Kopper",1,Diving Echos TEK
-F001,Flups Bass,5,,0,,,Bass,,,,ST,Unknown (ST),4,Flups Bass    ST
-F002,Goonraker,5,,1,,,Arp,,,,DocT,Stefan Trippler,3,Goonraker   DocT
-F003,microQ Plus,5,,2,,,Poly,,,,,,,
-F004,MiniMoogThnd,5,,3,,,FX,,,,TEK,"Till ""QWave"" Kopper",1,MiniMoogThnd TEK
-F005,Octa Bass,5,,4,,,Bass,,,,ST,Unknown (ST),5,Octa Bass     ST
-F006,Porno Bass,5,,5,,,Bass,,,,ST,Unknown (ST),4,Porno Bass    ST
-F007,ReSolotion,5,,6,,,Mono,,,,WMF,Wolfram Franke,3,ReSolotion   WMF
-F008,Roadies Keyb,5,,7,,,Keys,,,,TEK,"Till ""QWave"" Kopper",1,Roadies Keyb TEK
-F009,Spynett,5,,8,,,Keys,,,,DocT,Stefan Trippler,5,Spynett     DocT
-F010,Tines,5,,9,,,Poly,,,,DocT,Stefan Trippler,7,Tines       DocT
-F011,Velo Drive,5,,10,,,Arp,,,,SCD,Something Completely Different (Boele Gerkes),3,Velo Drive   SCD
-F012,Vangelibells,5,,11,,,Atmo,,,,SCD,Something Completely Different (Boele Gerkes),1,Vangelibells SCD
-F013,Bellflutes,5,,12,,,Keys,,,,,,,
-F014,Bellissimo,5,,13,,,Keys,,,,,,,
-F015,Bells'E.Piano,5,,14,,,Keys,,,,RZ,Unknown (RZ),1,Bells'E.Piano RZ
-F016,Cheap Organ,5,,15,,,Keys,,,,,,,
-F017,Chorgany,5,,16,,,Keys,,,,SK,Unknown (SK),6,Chorgany      SK
-F018,Combuder Orgs,5,,17,,,Keys,,,,SK,Unknown (SK),1,Combuder Orgs SK
-F019,Crunge Organ,5,,18,,,Keys,,,,SK,Unknown (SK),2,Crunge Organ  SK
-F020,DeepHouse,5,,19,,,Keys,,,,SK,Unknown (SK),5,DeepHouse     SK
-F021,Dirty Organ1,5,,20,,,Keys,,,,WMF,Wolfram Franke,1,Dirty Organ1 WMF
-F022,Driven Keys,5,,21,,,Keys,,,,,,,
-F023,Dull Bells,5,,22,,,Keys,,,,,,,
-F024,DX-ClassiQ,5,,23,,,Keys,,,,HS,Howard Scarr,4,DX-ClassiQ    HS
-F025,DX-Pipe,5,,24,,,Keys,,,,HS,Howard Scarr,7,DX-Pipe       HS
-F026,Easy Piano,5,,25,,,Keys,,,,HS,Howard Scarr,4,Easy Piano    HS
-F027,ElectricOrgan,5,,26,,,Keys,,,,,,,
-F028,ElectricPiano,5,,27,,,Keys,,,,,,,
-F029,Fat Sine Keys,5,,28,,,Keys,,,,,,,
-F030,FM KeysMelody,5,,29,,,Keys,,,,,,,
-F031,FM Roads,5,,30,,,Keys,,,,,,,
-F032,Full Organ,5,,31,,,Keys,,,,HS,Howard Scarr,4,Full Organ    HS
-F033,Glockenspiel,5,,32,,,Keys,,,,,,,
-F034,GS-Piano,5,,33,,,Keys,,,,HS,Howard Scarr,6,GS-Piano      HS
-F035,Harpsi,5,,34,,,Keys,,,,HS,Howard Scarr,8,Harpsi        HS
-F036,Hippy Freuds,5,,35,,,Keys,,,,HS,Howard Scarr,2,Hippy Freuds  HS
-F037,House,5,,36,,,Keys,,,,HM,Hubertus Maas,9,House         HM
-F038,Jazz Creeper,5,,37,,,Keys,,,,HS,Howard Scarr,2,Jazz Creeper  HS
-F039,LA-Pipe,5,,38,,,Lead,,,,HS,Howard Scarr,7,LA-Pipe       HS
-F040,LoFi Organ,5,,39,,,Keys,,,,SK,Unknown (SK),4,LoFi Organ    SK
-F041,Lounge Morph,5,,40,,,Keys,,,,HS,Howard Scarr,2,Lounge Morph  HS
-F042,Lower Steam,5,,41,,,Keys,,,,HS,Howard Scarr,3,Lower Steam   HS
-F043,Marimboid,5,,42,,,Keys,,,,HS,Howard Scarr,5,Marimboid     HS
-F044,Modern House,5,,43,,,Keys,,,,SK,Unknown (SK),2,Modern House  SK
-F045,Modern Keys,5,,44,,,Keys,,,,,,,
-F046,Noise Toys,5,,45,,,Keys,,,,HS,Howard Scarr,4,Noise Toys    HS
-F047,Ode to Joy,5,,46,,,Keys,,,,HS,Howard Scarr,4,Ode to Joy    HS
-F048,Oil Well,5,,47,,,Keys,,,,,,,
-F049,Organ #2,5,,48,,,Keys,,,,S,Stefan Stenzel,7,Organ #2       S
-F050,Quad-Square,5,,49,,,Keys,,,,,,,
-F051,Reso Organ,5,,50,,,Keys,,,,,,,
-F052,ResOrgan,5,,51,,,Keys,,,,SK,Unknown (SK),6,ResOrgan      SK
-F053,Rhodos Corso,5,,52,,,Keys,,,,WMF,Wolfram Franke,1,Rhodos Corso WMF
-F054,RhodosFlango,5,,53,,,Keys,,,,WMF,Wolfram Franke,1,RhodosFlango WMF
-F055,Rodesque,5,,54,,,Keys,,,,HS,Howard Scarr,6,Rodesque      HS
-F056,Schwebend,5,,55,,,Keys,,,,jh,Joerg Huettner,5,Schwebend     jh
-F057,Shed,5,,56,,,Keys,,,,HM,Hubertus Maas,9,Shed          HM
-F058,Sick FM,5,,57,,,Keys,,,,SK,Unknown (SK),7,Sick FM       SK
-F059,SpaceChimes,5,,58,,,Keys,,,,SK,Unknown (SK),3,SpaceChimes   SK
-F060,The Oily Way,5,,59,,,Keys,,,,HS,Howard Scarr,2,The Oily Way  HS
-F061,Thin Organ,5,,60,,,Keys,,,,HS,Howard Scarr,4,Thin Organ    HS
-F062,Troubadour,5,,61,,,Keys,,,,,,,
-F063,Wartz Piano1,5,,62,,,Keys,,,,HM,Hubertus Maas,2,Wartz Piano1  HM
-F064,Wooden E,5,,63,,,Keys,,,,WMF,Wolfram Franke,5,Wooden E     WMF
-F065,Wurlitzer104b,5,,64,,,Keys,,,,HM,Hubertus Maas,1,Wurlitzer104b HM
-F066,Yamlitzer,5,,65,,,Keys,,,,,,,
-F067,7th Sense,5,,66,,,Poly,,,,SK,Unknown (SK),5,7th Sense     SK
-F068,80sFM Analog,5,,67,,,Poly,,,,SK,Unknown (SK),2,80sFM Analog  SK
-F069,Aggreppo,5,,68,,,Poly,,,,T,Tsching (Holger Steinbrink),7,Aggreppo       T
-F070,Analog Lute,5,,69,,,Poly,,,,HS,Howard Scarr,3,Analog Lute   HS
-F071,Analog Quest,5,,70,,,Poly,,,,SK,Unknown (SK),2,Analog Quest  SK
-F072,Aphazing,5,,71,,,Poly,,,,SK,Unknown (SK),6,Aphazing      SK
-F073,Bell like,5,,72,,,Poly,,,,RZ,Unknown (RZ),5,Bell like     RZ
-F074,BestOfThe80s,5,,73,,,Poly,,,,T,Tsching (Holger Steinbrink),3,BestOfThe80s   T
-F075,Blakes 7 Str,5,,74,,,Poly,,,,AT,Unknown (AT),2,Blakes 7 Str  AT
-F076,B-Lead,5,,75,,,Poly,,,,SK,Unknown (SK),8,B-Lead        SK
-F077,Bounty Synth,5,,76,,,Poly,,,,,,,
-F078,Brass Comp,5,,77,,,Poly,,,,HM,Hubertus Maas,4,Brass Comp    HM
-F079,Brass-lead,5,,78,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),3,Brass-lead   SCD
-F080,Brassy House,5,,79,,,Poly,,,,SK,Unknown (SK),2,Brassy House  SK
-F081,Bright Sync,5,,80,,,Poly,,,,,,,
-F082,Brownies,5,,81,,,Poly,,,,WMF,Wolfram Franke,5,Brownies     WMF
-F083,CareFull,5,,82,,,Poly,,,,RZ,Unknown (RZ),6,CareFull      RZ
-F084,Caspoly,5,,83,,,Poly,,,,WMF,Wolfram Franke,6,Caspoly      WMF
-F085,Chamber High,5,,84,,,Poly,,,,HS,Howard Scarr,2,Chamber High  HS
-F086,Chamber Low,5,,85,,,Poly,,,,HS,Howard Scarr,3,Chamber Low   HS
-F087,Chord-Hose,5,,86,,,Poly,,,,T,Tsching (Holger Steinbrink),5,Chord-Hose     T
-F088,Chord Revival,5,,87,,,Poly,,,,SK,Unknown (SK),1,Chord Revival SK
-F089,Classic Dance,5,,88,,,Poly,,,,,,,
-F090,Classic Synth,5,,89,,,Poly,,,,,,,
-F091,Clavinetro,5,,90,,,Poly,,,,jh,Joerg Huettner,4,Clavinetro    jh
-F092,Clock&Bells,5,,91,,,Poly,,,,RZ,Unknown (RZ),3,Clock&Bells   RZ
-F093,Combi Saws,5,,92,,,Poly,,,,SK,Unknown (SK),4,Combi Saws    SK
-F094,Compromise K,5,,93,,,Poly,,,,HM,Hubertus Maas,2,Compromise K  HM
-F095,Concertino,5,,94,,,Poly,,,,SCD,Something Completely Different (Boele Gerkes),3,Concertino   SCD
-F096,Cool Porta,5,,95,,,Poly,,,,HM,Hubertus Maas,4,Cool Porta    HM
-F097,Crawlers,5,,96,,,Poly,,,,SK,Unknown (SK),6,Crawlers      SK
-F098,Crispy Saw,5,,97,,,Poly,,,,SK,Unknown (SK),4,Crispy Saw    SK
-F099,CyberLeader,5,,98,,,Poly,,,,SK,Unknown (SK),3,CyberLeader   SK
-F100,Dawn Organ,5,,99,,,Poly,,,,,,,
-F101,Deep Synth,5,,100,,,Poly,,,,DK,Dirk Krause,4,Deep Synth    DK
-F102,Delead It!,5,,101,,,Poly,,,,SK,Unknown (SK),4,Delead It!    SK
-F103,DirtyLead,5,,102,,,Poly,,,,SK,Unknown (SK),5,DirtyLead     SK
-F104,D-NoiZer,5,,103,,,Poly,,,,SK,Unknown (SK),6,D-NoiZer      SK
-F105,DollarBells,5,,104,,,Poly,,,,ugh,Uwe G. Hoenig,2,DollarBells  ugh
-F106,Dr. Motte,5,,105,,,Poly,,,,T,Tsching (Holger Steinbrink),6,Dr. Motte      T
-F107,Energee!,5,,106,,,Poly,,,,SK,Unknown (SK),6,Energee!      SK
-F108,Enough Power,5,,107,,,Poly,,,,T,Tsching (Holger Steinbrink),3,Enough Power   T
-F109,EthnoPerc,5,,108,,,Poly,,,,SK,Unknown (SK),5,EthnoPerc     SK
-F110,Euro-Zeichen,5,,109,,,Poly,,,,HS,Howard Scarr,2,Euro-Zeichen  HS
-F111,ExploreChords,5,,110,,,Poly,,,,SK,Unknown (SK),1,ExploreChords SK
-F112,Fat 8-Osc,5,,111,,,Poly,,,,SK,Unknown (SK),5,Fat 8-Osc     SK
-F113,Filigrano,5,,112,,,Poly,,,,SK,Unknown (SK),5,Filigrano     SK
-F114,FilterFM Keys,5,,113,,,Poly,,,,,,,
-F115,FloorFilla,5,,114,,,Poly,,,,SK,Unknown (SK),4,FloorFilla    SK
-F116,FM Chords,5,,115,,,Poly,,,,SK,Unknown (SK),5,FM Chords     SK
-F117,FM Melodies,5,,116,,,Poly,,,,,,,
-F118,FMod Saws,5,,117,,,Poly,,,,SK,Unknown (SK),5,FMod Saws     SK
-F119,FM-sono Saw,5,,118,,,Poly,,,,,,,
-F120,French,5,,119,,,Poly,,,,RZ,Unknown (RZ),8,French        RZ
-F121,Fun Man,5,,120,,,Poly,,,,,,,
-F122,Gated 80's,5,,121,,,Poly,,,,,,,
-F123,Gattaca,5,,122,,,Poly,,,,SK,Unknown (SK),7,Gattaca       SK
-F124,Gimme Five!,5,,123,,,Poly,,,,SK,Unknown (SK),3,Gimme Five!   SK
-F125,Glitter Power,5,,124,,,Poly,,,,HS,Howard Scarr,1,Glitter Power HS
-F126,Good Air,5,,125,,,Poly,,,,SK,Unknown (SK),6,Good Air      SK
-F127,High Sequence,5,,126,,,Poly,,,,jh,Joerg Huettner,1,High Sequence jh
-F128,HitMeQuick!,5,,127,,,Poly,,,,SK,Unknown (SK),3,HitMeQuick!   SK
-G001,Human Touch,6,,0,,,Poly,,,,SK,Unknown (SK),3,Human Touch   SK
-G002,Ice Bells,6,,1,,,Poly,,,,SK,Unknown (SK),5,Ice Bells     SK
-G003,Illbient Mind,6,,2,,,Poly,,,,,,,
-G004,It's Digital,6,,3,,,Poly,,,,,,,
-G005,Jembala,6,,4,,,Poly,,,,WMF,Wolfram Franke,6,Jembala      WMF
-G006,JMX jun.,6,,5,,,Poly,,,,,,,
-G007,Juno Soul,6,,6,,,Poly,,,,DK,Dirk Krause,5,Juno Soul     DK
-G008,KlingKlang'02,6,,7,,,Poly,,,,jh,Joerg Huettner,1,KlingKlang'02 jh
-G009,La Sirena,6,,8,,,Poly,,,,SK,Unknown (SK),5,La Sirena     SK
-G010,Late Ring,6,,9,,,Poly,,,,HS,Howard Scarr,5,Late Ring     HS
-G011,Leadrunner,6,,10,,,Poly,,,,,,,
-G012,Legal Resins,6,,11,,,Poly,,,,HS,Howard Scarr,2,Legal Resins  HS
-G013,LikeClinics,6,,12,,,Poly,,,,WMF,Wolfram Franke,2,LikeClinics  WMF
-G014,Liquid Mel,6,,13,,,Poly,,,,WMF,Wolfram Franke,3,Liquid Mel   WMF
-G015,Liquid Var,6,,14,,,Poly,,,,WMF,Wolfram Franke,3,Liquid Var   WMF
-G016,LoFi 1oscPoly,6,,15,,,Poly,,,,,,,
-G017,LoFi Lead,6,,16,,,Poly,,,,WMF,Wolfram Franke,4,LoFi Lead    WMF
-G018,Minor Chord,6,,17,,,Poly,,,,RZ,Unknown (RZ),3,Minor Chord   RZ
-G019,Modulizer,6,,18,,,Poly,,,,SK,Unknown (SK),5,Modulizer     SK
-G020,Move Sound,6,,19,,,Poly,,,,,,,
-G021,My Ol' House,6,,20,,,Poly,,,,SK,Unknown (SK),2,My Ol' House  SK
-G022,Net Profit,6,,21,,,Poly,,,,HS,Howard Scarr,4,Net Profit    HS
-G023,Neu * Utz,6,,22,,,Poly,,,,HM,Hubertus Maas,5,Neu * Utz     HM
-G024,NewClassicLd,6,,23,,,Poly,,,,SK,Unknown (SK),2,NewClassicLd  SK
-G025,No. 5 lives,6,,24,,,Poly,,,,T,Tsching (Holger Steinbrink),4,No. 5 lives    T
-G026,OB-One Knobi,6,,25,,,Poly,,,,HS,Howard Scarr,2,OB-One Knobi  HS
-G027,OBX Purple5,6,,26,,,Poly,,,,PROX,ProXenos,1,OBX Purple5 PROX
-G028,Old * Uck,6,,27,,,Poly,,,,HM,Hubertus Maas,5,Old * Uck     HM
-G029,Organistic,6,,28,,,Poly,,,,SK,Unknown (SK),4,Organistic    SK
-G030,Papathanasiou,6,,29,,,Poly,,,,,,,
-G031,Patagonia,6,,30,,,Poly,,,,HS,Howard Scarr,5,Patagonia     HS
-G032,PEG Horns,6,,31,,,Poly,,,,HM,Hubertus Maas,5,PEG Horns     HM
-G033,Phased FM,6,,32,,,Poly,,,,SK,Unknown (SK),5,Phased FM     SK
-G034,Play It Sam!,6,,33,,,Poly,,,,jh,Joerg Huettner,2,Play It Sam!  jh
-G035,Poly Flutes,6,,34,,,Poly,,,,HS,Howard Scarr,3,Poly Flutes   HS
-G036,PolySequencer,6,,35,,,Poly,,,,,,,
-G037,PowerLead,6,,36,,,Poly,,,,WMF,Wolfram Franke,4,PowerLead    WMF
-G038,Harp,6,,37,,,Poly,,,,,,,
-G039,PPG Nylons,6,,38,,,Poly,,,,PROX,ProXenos,2,PPG Nylons  PROX
-G040,Pure Keys,6,,39,,,Poly,,,,,,,
-G041,PWMaster,6,,40,,,Poly,,,,SK,Unknown (SK),6,PWMaster      SK
-G042,Qazzio,6,,41,,,Poly,,,,HS,Howard Scarr,8,Qazzio        HS
-G043,Qddicted!,6,,42,,,Poly,,,,SK,Unknown (SK),5,Qddicted!     SK
-G044,Qtronix,6,,43,,,Poly,,,,ugh,Uwe G. Hoenig,6,Qtronix      ugh
-G045,Quake FM,6,,44,,,Poly,,,,SK,Unknown (SK),6,Quake FM      SK
-G046,Quintage,6,,45,,,Poly,,,,T,Tsching (Holger Steinbrink),7,Quintage       T
-G047,Quinter 007,6,,46,,,Poly,,,,SK,Unknown (SK),3,Quinter 007   SK
-G048,RaveLover,6,,47,,,Poly,,,,SK,Unknown (SK),5,RaveLover     SK
-G049,Really Insane,6,,48,,,Poly,,,,,,,
-G050,Romeo,6,,49,,,Poly,,,,DK,Dirk Krause,9,Romeo         DK
-G051,RoundTheHorn,6,,50,,,Poly,,,,HS,Howard Scarr,2,RoundTheHorn  HS
-G052,SawTheLight,6,,51,,,Poly,,,,SK,Unknown (SK),3,SawTheLight   SK
-G053,Sax And Dregs,6,,52,,,Poly,,,,,,,
-G054,Schubduese,6,,53,,,Poly,,,,T,Tsching (Holger Steinbrink),5,Schubduese     T
-G055,ShatterWaves,6,,54,,,Poly,,,,SK,Unknown (SK),2,ShatterWaves  SK
-G056,Siegessaeule,6,,55,,,Poly,,,,T,Tsching (Holger Steinbrink),3,Siegessaeule   T
-G057,Simple Melo,6,,56,,,Poly,,,,jh,Joerg Huettner,3,Simple Melo   jh
-G058,Smash It!,6,,57,,,Poly,,,,SK,Unknown (SK),5,Smash It!     SK
-G059,Solo Harp,6,,58,,,Poly,,,,,,,
-G060,Speed,6,,59,,,Poly,,,,,,,
-G061,Spice,6,,60,,,Poly,,,,SK,Unknown (SK),9,Spice         SK
-G062,Spring Clean,6,,61,,,Poly,,,,,,,
-G063,Stabs!,6,,62,,,Poly,,,,,,,
-G064,Stack with you,6,,63,,,Poly,,,,,,,
-G065,SteaLead,6,,64,,,Poly,,,,SK,Unknown (SK),6,SteaLead      SK
-G066,String Poly,6,,65,,,Poly,,,,HS,Howard Scarr,3,String Poly   HS
-G067,String Thing,6,,66,,,Poly,,,,HS,Howard Scarr,2,String Thing  HS
-G068,Stuermer 1,6,,67,,,Poly,,,,WMF,Wolfram Franke,3,Stuermer 1   WMF
-G069,Stylotub,6,,68,,,Poly,,,,SK,Unknown (SK),6,Stylotub      SK
-G070,SyncCity,6,,69,,,Poly,,,,,,,
-G071,Synchronic,6,,70,,,Poly,,,,SK,Unknown (SK),4,Synchronic    SK
-G072,SynthPiano,6,,71,,,Poly,,,,SK,Unknown (SK),4,SynthPiano    SK
-G073,Synth X,6,,72,,,Poly,,,,,,,
-G074,Tea @ Eight,6,,73,,,Poly,,,,HS,Howard Scarr,3,Tea @ Eight   HS
-G075,Tech.Lead 1,6,,74,,,Poly,,,,,,,
-G076,Tech.Lead 2,6,,75,,,Poly,,,,,,,
-G077,TelephoneSyn,6,,76,,,Poly,,,,ugh,Uwe G. Hoenig,1,TelephoneSyn ugh
-G078,Telepromter,6,,77,,,Poly,,,,ugh,Uwe G. Hoenig,2,Telepromter  ugh
-G079,The Big 80s,6,,78,,,Poly,,,,,,,
-G080,The Cutter,6,,79,,,Poly,,,,SK,Unknown (SK),4,The Cutter    SK
-G081,Titanomania,6,,80,,,Poly,,,,SK,Unknown (SK),3,Titanomania   SK
-G082,TranceHarp,6,,81,,,Poly,,,,HM,Hubertus Maas,4,TranceHarp    HM
-G083,Trance Plant,6,,82,,,Poly,,,,HS,Howard Scarr,2,Trance Plant  HS
-G084,Trancer,6,,83,,,Poly,,,,SK,Unknown (SK),7,Trancer       SK
-G085,TrashCan!,6,,84,,,Poly,,,,SK,Unknown (SK),5,TrashCan!     SK
-G086,TributeTo DX,6,,85,,,Poly,,,,WMF,Wolfram Franke,1,TributeTo DX WMF
-G087,Tron Flutes,6,,86,,,Poly,,,,HM,Hubertus Maas,3,Tron Flutes   HM
-G088,Tsching Lead,6,,87,,,Poly,,,,T,Tsching (Holger Steinbrink),3,Tsching Lead   T
-G089,TuBerkel,6,,88,,,Poly,,,,DK,Dirk Krause,6,TuBerkel      DK
-G090,Typ Reso,6,,89,,,Poly,,,,RZ,Unknown (RZ),6,Typ Reso      RZ
-G091,UltraFatPoly,6,,90,,,Poly,,,,WMF,Wolfram Franke,1,UltraFatPoly WMF
-G092,UltraSynC,6,,91,,,Poly,,,,jh,Joerg Huettner,5,UltraSynC     jh
-G093,UltraWave,6,,92,,,Poly,,,,SK,Unknown (SK),5,UltraWave     SK
-G094,Unisono Bass,6,,93,,,Poly,,,,DK,Dirk Krause,2,Unisono Bass  DK
-G095,Utopia!,6,,94,,,Poly,,,,SK,Unknown (SK),7,Utopia!       SK
-G096,VeloFreak,6,,95,,,Poly,,,,jh,Joerg Huettner,5,VeloFreak     jh
-G097,Vintage Days,6,,96,,,Poly,,,,SK,Unknown (SK),2,Vintage Days  SK
-G098,VintageSpring,6,,97,,,Poly,,,,WMF,Wolfram Franke,0,VintageSpringWMF
-G099,Vitalica,6,,98,,,Poly,,,,SK,Unknown (SK),6,Vitalica      SK
-G100,Wank,6,,99,,,Poly,,,,WMF,Wolfram Franke,9,Wank         WMF
-G101,Wank Lead,6,,100,,,Poly,,,,WMF,Wolfram Franke,4,Wank Lead    WMF
-G102,Wanna Noise??,6,,101,,,Poly,,,,jh,Joerg Huettner,1,Wanna Noise?? jh
-G103,Warm PWM Lead,6,,102,,,Poly,,,,SK,Unknown (SK),1,Warm PWM Lead SK
-G104,Warm Verse,6,,103,,,Poly,,,,,,,
-G105,WaveLayer,6,,104,,,Poly,,,,SK,Unknown (SK),5,WaveLayer     SK
-G106,Wells'Tripod,6,,105,,,Poly,,,,WMF,Wolfram Franke,1,Wells'Tripod WMF
-G107,YourChords,6,,106,,,Poly,,,,SK,Unknown (SK),4,YourChords    SK
-G108,Zapper,6,,107,,,Poly,,,,SK,Unknown (SK),8,Zapper        SK
-G109,Zawichords,6,,108,,,Poly,,,,HS,Howard Scarr,4,Zawichords    HS
-G110,Zing Thing,6,,109,,,Poly,,,,HS,Howard Scarr,4,Zing Thing    HS
-G111,Zippy 2,6,,110,,,Poly,,,,HM,Hubertus Maas,7,Zippy 2       HM
-G112,Zombie Nation,6,,111,,,Poly,,,,T,Tsching (Holger Steinbrink),2,Zombie Nation  T
-G113,50s Pad,6,,112,,,Pad,,,,,,,
-G114,Airpad,6,,113,,,Pad,,,,,,,
-G115,AirSpacePad,6,,114,,,Pad,,,,SK,Unknown (SK),3,AirSpacePad   SK
-G116,AmbientSweep,6,,115,,,Pad,,,,SK,Unknown (SK),2,AmbientSweep  SK
-G117,Analog Pad 1,6,,116,,,Pad,,,,,,,
-G118,Analog Pad 2,6,,117,,,Pad,,,,,,,
-G119,Analog Pad 3,6,,118,,,Pad,,,,,,,
-G120,Angel Pad,6,,119,,,Pad,,,,,,,
-G121,Antarktis Pad,6,,120,,,Pad,,,,jh,Joerg Huettner,1,Antarktis Pad jh
-G122,Archangel,6,,121,,,Pad,,,,,,,
-G123,Attacke,6,,122,,,Pad,,,,WMF,Wolfram Franke,6,Attacke      WMF
-G124,BackStrings,6,,123,,,Pad,,,,WMF,Wolfram Franke,2,BackStrings  WMF
-G125,Bandpad,6,,124,,,Pad,,,,ugh,Uwe G. Hoenig,6,Bandpad      ugh
-G126,BandSpass,6,,125,,,Pad,,,,,,,
-G127,Bend Pad,6,,126,,,Pad,,,,,,,
-G128,Big Bad Pad,6,,127,,,Pad,,,,,,,
-H001,Captain Kirk,7,,0,,,FX,,,,,,,
-H002,ChopperSweep,7,,1,,,FX,,,,,,,
-H003,ComputerGames,7,,2,,,FX,,,,,,,
-H004,Cyber Farm,7,,3,,,FX,,,,,,,
-H005,DCS3 Bubbles,7,,4,,,FX,,,,,,,
-H006,Duck Lambada,7,,5,,,FX,,,,,,,
-H007,EffEmmEffIxx,7,,6,,,FX,,,,,,,
-H008,Fade FX.,7,,7,,,FX,,,,,,,
-H009,Final Choice,7,,8,,,FX,,,,,,,
-H010,FlangedNoise,7,,9,,,FX,,,,WMF,Wolfram Franke,1,FlangedNoise WMF
-H011,Flangeplosion,7,,10,,,FX,,,,WMF,Wolfram Franke,0,FlangeplosionWMF
-H012,Flying Teapot,7,,11,,,FX,,,,,,,
-H013,FM Comb FX,7,,12,,,FX,,,,,,,
-H014,FM Noises,7,,13,,,FX,,,,,,,
-H015,Gastrology,7,,14,,,FX,,,,,,,
-H016,HawaiGlider,7,,15,,,FX,,,,,,,
-H017,Into Mouth,7,,16,,,FX,,,,,,,
-H018,LFO  Speeddwn,7,,17,,,FX,,,,,,,
-H019,LFO  Speedup,7,,18,,,FX,,,,,,,
-H020,LilaBells,7,,19,,,FX,,,,,,,
-H021,Living Water,7,,20,,,FX,,,,,,,
-H022,LosAngeles2019,7,,21,,,FX,,,,,,,
-H023,Maschinenraum,7,,22,,,FX,,,,,,,
-H024,Newtronic,7,,23,,,FX,,,,,,,
-H025,Noise Move,7,,24,,,FX,,,,,,,
-H026,NoiseSlapper,7,,25,,,FX,,,,,,,
-H027,NoRobotsHere,7,,26,,,FX,,,,,,,
-H028,Power Down,7,,27,,,FX,,,,,,,
-H029,Q Wars,7,,28,,,FX,,,,,,,
-H030,Reverse-ecioV,7,,29,,,FX,,,,,,,
-H031,RingDaBell,7,,30,,,FX,,,,,,,
-H032,Ring Steps,7,,31,,,FX,,,,,,,
-H033,Rise&Fall,7,,32,,,FX,,,,,,,
-H034,Robotalk =:b,7,,33,,,FX,,,,,,,
-H035,Score FX Pad,7,,34,,,FX,,,,,,,
-H036,Shoot Goose!,7,,35,,,FX,,,,,,,
-H037,Shore,7,,36,,,FX,,,,,,,
-H038,Short Moment,7,,37,,,FX,,,,,,,
-H039,Shot Tool,7,,38,,,FX,,,,,,,
-H040,Sine Down,7,,39,,,FX,,,,,,,
-H041,Skywalker,7,,40,,,FX,,,,,,,
-H042,SubSineSweep,7,,41,,,FX,,,,WMF,Wolfram Franke,1,SubSineSweep WMF
-H043,The Assault,7,,42,,,FX,,,,,,,
-H044,The BORG,7,,43,,,FX,,,,,,,
-H045,Thunderain,7,,44,,,FX,,,,,,,
-H046,ThunderDrums,7,,45,,,FX,,,,,,,
-H047,Tron Ring Game,7,,46,,,FX,,,,,,,
-H048,Tuxedosun,7,,47,,,FX,,,,,,,
-H049,Why?,7,,48,,,FX,,,,,,,
-H050,Wind Athmo,7,,49,,,FX,,,,,,,
-H051,WipeOut,7,,50,,,FX,,,,,,,
-H052,ZischDeep,7,,51,,,FX,,,,,,,
-H053,Agogo Scrape,7,,52,,,Perc,,,,,,,
-H054,All Thumbs,7,,53,,,Perc,,,,,,,
-H055,AnalogBongo 1,7,,54,,,Perc,,,,,,,
-H056,Analog HH op,7,,55,,,Perc,,,,,,,
-H057,AnalogStick 1,7,,56,,,Perc,,,,,,,
-H058,Bass Drum,7,,57,,,Drum,,,,WMF,Wolfram Franke,4,Bass Drum    WMF
-H059,BD 90ies Drum,7,,58,,,Perc,,,,,,,
-H060,BD 808 @ 2002,7,,59,,,Perc,,,,,,,
-H061,BD analg80ies,7,,60,,,Perc,,,,,,,
-H062,BD analog 02,7,,61,,,Perc,,,,,,,
-H063,BD analog 03,7,,62,,,Perc,,,,,,,
-H064,BD AnalogRand,7,,63,,,Perc,,,,,,,
-H065,BD Club 01,7,,64,,,Perc,,,,,,,
-H066,BD Deep Zap,7,,65,,,Perc,,,,,,,
-H067,BD Disto 808,7,,66,,,Perc,,,,,,,
-H068,BD DoorSlam,7,,67,,,Perc,,,,,,,
-H069,BD Hardcore,7,,68,,,Perc,,,,,,,
-H070,BD HighKick,7,,69,,,Perc,,,,,,,
-H071,BD On Stage,7,,70,,,Perc,,,,,,,
-H072,BD Plock!,7,,71,,,Perc,,,,,,,
-H073,BD Smack It!,7,,72,,,Perc,,,,,,,
-H074,BD SpectroZap,7,,73,,,Perc,,,,,,,
-H075,BD SubDrum,7,,74,,,Perc,,,,,,,
-H076,BD Woof&Pock,7,,75,,,Perc,,,,,,,
-H077,BD ZapDrum,7,,76,,,Perc,,,,,,,
-H078,Bended Metal,7,,77,,,Perc,,,,,,,
-H079,Brush HH,7,,78,,,Perc,,,,,,,
-H080,Clap 01,7,,79,,,Perc,,,,,,,
-H081,Clap 03,7,,80,,,Perc,,,,,,,
-H082,Clap 04,7,,81,,,Perc,,,,,,,
-H083,ClapsMuehle,7,,82,,,Perc,,,,,,,
-H084,Deep Bell,7,,83,,,Perc,,,,,,,
-H085,DivX Pad,7,,84,,,Pad,,,,,,,
-H086,DoubleHHclose,7,,85,,,Perc,,,,,,,
-H087,Dry BD,7,,86,,,Perc,,,,,,,
-H088,Dry BD 2,7,,87,,,Perc,,,,,,,
-H089,FM HHcl,7,,88,,,Perc,,,,,,,
-H090,FM HHop,7,,89,,,Perc,,,,,,,
-H091,HammerBell,7,,90,,,Perc,,,,,,,
-H092,HH closed 01,7,,91,,,Perc,,,,,,,
-H093,HH closed 02,7,,92,,,Perc,,,,,,,
-H094,HH closed 03,7,,93,,,Perc,,,,,,,
-H095,HH closed 04,7,,94,,,Perc,,,,,,,
-H096,HH closed 05,7,,95,,,Perc,,,,,,,
-H097,HH closed 06,7,,96,,,Perc,,,,,,,
-H098,HH closed 08,7,,97,,,Perc,,,,,,,
-H099,HH closed 09,7,,98,,,Perc,,,,,,,
-H100,HH open 01,7,,99,,,Perc,,,,,,,
-H101,HH open 02,7,,100,,,Perc,,,,,,,
-H102,HH open 03,7,,101,,,Perc,,,,,,,
-H103,HH open 06,7,,102,,,Perc,,,,,,,
-H104,HH open 07,7,,103,,,Perc,,,,,,,
-H105,HH open 08,7,,104,,,Perc,,,,,,,
-H106,High PulseZap,7,,105,,,Perc,,,,,,,
-H107,PPG Zaps,7,,106,,,Perc,,,,,,,
-H108,Punchy SN,7,,107,,,Perc,,,,,,,
-H109,Q-La Shaker,7,,108,,,Perc,,,,,,,
-H110,Skellington,7,,109,,,Perc,,,,,,,
-H111,SN NeoAnalog,7,,110,,,Perc,,,,,,,
-H112,SN Real Snare,7,,111,,,Perc,,,,,,,
-H113,SN RimSnare,7,,112,,,Perc,,,,,,,
-H114,SN SnAir ;-),7,,113,,,Perc,,,,,,,
-H115,SN Thinny,7,,114,,,Perc,,,,,,,
-H116,SN Zappada,7,,115,,,Perc,,,,,,,
-H117,SN ZapSnare,7,,116,,,Perc,,,,,,,
-H118,Surrr,7,,117,,,Perc,,,,,,,
-H119,Tombola 1,7,,118,,,Perc,,,,,,,
-H120,TR66 Hihat,7,,119,,,Drum,,,,WMF,Wolfram Franke,3,TR66 Hihat   WMF
-H121,Various Metal,7,,120,,,Perc,,,,,,,
-H122,Woodpicker,7,,121,,,Perc,,,,,,,
-H123,Zap 1,7,,122,,,Perc,,,,,,,
-H124,Zap 2,7,,123,,,Perc,,,,,,,
-H125,Zap BD,7,,124,,,Perc,,,,,,,
-H126,Zappy :),7,,125,,,Perc,,,,,,,
-H127,Zap Stick,7,,126,,,Perc,,,,,,,
-H128,Init,7,,127,,,Init,,,,,,,
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,designer-proximity,designer-name,designer-proximity,original-patchname
+A001,Start Up,0,,0,,,Arp,1,,1,T,Tsching (Holger Steinbrink),7,Start Up       T
+A002,70s Pad,0,,1,,,Pad,1,,2,T,Tsching (Holger Steinbrink),8,70s Pad        T
+A003,Tschingeling,0,,2,,,Arp,1,,3,SCD,Something Completely Different (Boele Gerkes),1,Tschingeling SCD
+A004,XT Close,0,,3,,,Keys,1,,4,SCD,Something Completely Different (Boele Gerkes),5,XT Close     SCD
+A005,Digital JP4,0,,4,,,Arp,1,,5,SCD,Something Completely Different (Boele Gerkes),2,Digital JP4  SCD
+A006,BloChoir,0,,5,,,Pad,1,,6,T,Tsching (Holger Steinbrink),7,BloChoir       T
+A007,Sync Different,0,,6,,,Lead,1,,7,T,Tsching (Holger Steinbrink),1,Sync Different T
+A008,TearsFromComb,0,,7,,,Keys,1,,8,SCD,Something Completely Different (Boele Gerkes),0,TearsFromCombSCD
+A009,Click Bass,0,,8,,,Bass,1,,9,T,Tsching (Holger Steinbrink),5,Click Bass     T
+A010,Myst 6,0,,9,,,Atmo,1,,10,T,Tsching (Holger Steinbrink),9,Myst 6         T
+A011,Sander Lead,0,,10,,,Lead,1,,11,T,Tsching (Holger Steinbrink),4,Sander Lead    T
+A012,Bladerunner,0,,11,,,Poly,1,,12,T,Tsching (Holger Steinbrink),4,Bladerunner    T
+A013,BloStrings,0,,12,,,Pad,1,,13,T,Tsching (Holger Steinbrink),5,BloStrings     T
+A014,ArpDelayLFO?,0,,13,,,Arp,1,,14,SCD,Something Completely Different (Boele Gerkes),1,ArpDelayLFO? SCD
+A015,Dahlbeck Bass,0,,14,,,Bass,1,,15,T,Tsching (Holger Steinbrink),2,Dahlbeck Bass  T
+A016,CopiedByLargo,0,,15,,,Atmo,1,,16,T,Tsching (Holger Steinbrink),2,CopiedByLargo  T
+A017,JustResonance,0,,16,,,Arp,1,,17,SCD,Something Completely Different (Boele Gerkes),0,JustResonanceSCD
+A018,IntensiveCare,0,,17,,,Poly,1,,18,SCD,Something Completely Different (Boele Gerkes),0,IntensiveCareSCD
+A019,Planet Ice,0,,18,,,Pad,1,,19,T,Tsching (Holger Steinbrink),5,Planet Ice     T
+A020,Pad Brown,0,,19,,,Pad,1,,20,T,Tsching (Holger Steinbrink),6,Pad Brown      T
+A021,Rasenflaeche,0,,20,,,Pad,1,,21,T,Tsching (Holger Steinbrink),3,Rasenflaeche   T
+A022,PWM<->SWM,0,,21,,,Pad,1,,22,SCD,Something Completely Different (Boele Gerkes),4,PWM<->SWM    SCD
+A023,SuperPulse,0,,22,,,Pad,1,,23,SCD,Something Completely Different (Boele Gerkes),3,SuperPulse   SCD
+A024,Eyes Wide Open,0,,23,,,Pad,1,,24,T,Tsching (Holger Steinbrink),1,Eyes Wide Open T
+A025,BriteWhitePad,0,,24,,,Pad,1,,25,T,Tsching (Holger Steinbrink),2,BriteWhitePad  T
+A026,Chronos,0,,25,,,Pad,1,,26,T,Tsching (Holger Steinbrink),8,Chronos        T
+A027,Ambientity,0,,26,,,Pad,1,,27,T,Tsching (Holger Steinbrink),5,Ambientity     T
+A028,Lothlorien,0,,27,,,Pad,1,,28,T,Tsching (Holger Steinbrink),5,Lothlorien     T
+A029,Boelissimo,0,,28,,,Pad,1,,29,T,Tsching (Holger Steinbrink),5,Boelissimo     T
+A030,Inglorious Pad,0,,29,,,Pad,1,,30,T,Tsching (Holger Steinbrink),1,Inglorious Pad T
+A031,PitchShifter,0,,30,,,Pad,1,,31,SCD,Something Completely Different (Boele Gerkes),1,PitchShifter SCD
+A032,X-File Pad,0,,31,,,Pad,1,,32,T,Tsching (Holger Steinbrink),5,X-File Pad     T
+A033,AmbienTable,0,,32,,,Pad,1,,33,T,Tsching (Holger Steinbrink),4,AmbienTable    T
+A034,ShortWave,0,,33,,,Pad,1,,34,T,Tsching (Holger Steinbrink),6,ShortWave      T
+A035,CS100,0,,34,,,Pad,1,,35,T,Tsching (Holger Steinbrink),9,CS100          T
+A036,Slightly Pad,0,,35,,,Pad,1,,36,T,Tsching (Holger Steinbrink),3,Slightly Pad   T
+A037,FlyingDutchman,0,,36,,,Pad,1,,37,T,Tsching (Holger Steinbrink),1,FlyingDutchman T
+A038,BoelesBrass,0,,37,,,Pad,1,,38,SCD,Something Completely Different (Boele Gerkes),1,BoelesBrass SCD
+A039,Phase 5,0,,38,,,Pad,1,,39,T,Tsching (Holger Steinbrink),8,Phase 5        T
+A040,RingCon,0,,39,,,Pad,1,,40,T,Tsching (Holger Steinbrink),8,RingCon        T
+A041,LeadING,0,,40,,,Lead,1,,41,T,Tsching (Holger Steinbrink),8,LeadING        T
+A042,Chord Hose,0,,41,,,Lead,1,,42,T,Tsching (Holger Steinbrink),5,Chord Hose     T
+A043,Chordalis,0,,42,,,Lead,1,,43,T,Tsching (Holger Steinbrink),6,Chordalis      T
+A044,Deadmau5 Chord,0,,43,,,Lead,1,,44,T,Tsching (Holger Steinbrink),1,Deadmau5 Chord T
+A045,JigSaw,0,,44,,,Lead,1,,45,T,Tsching (Holger Steinbrink),9,JigSaw         T
+A046,Fat Pig,0,,45,,,Lead,1,,46,T,Tsching (Holger Steinbrink),8,Fat Pig        T
+A047,Leadgut,0,,46,,,Lead,1,,47,T,Tsching (Holger Steinbrink),8,Leadgut        T
+A048,Crying Lead,0,,47,,,Lead,1,,48,T,Tsching (Holger Steinbrink),4,Crying Lead    T
+A049,AggLead,0,,48,,,Lead,1,,49,T,Tsching (Holger Steinbrink),8,AggLead        T
+A050,Overdrive,0,,49,,,Lead,1,,50,T,Tsching (Holger Steinbrink),6,Overdrive      T
+A051,Lead Keen,0,,50,,,Lead,1,,51,T,Tsching (Holger Steinbrink),6,Lead Keen      T
+A052,Van Doorn,0,,51,,,Lead,1,,52,T,Tsching (Holger Steinbrink),6,Van Doorn      T
+A053,Gummi Lead,0,,52,,,Lead,1,,53,T,Tsching (Holger Steinbrink),5,Gummi Lead     T
+A054,Static Leads,0,,53,,,Lead,1,,54,T,Tsching (Holger Steinbrink),3,Static Leads   T
+A055,Sync By FM,0,,54,,,Lead,1,,55,SCD,Something Completely Different (Boele Gerkes),3,Sync By FM   SCD
+A056,Enganged,0,,55,,,Lead,1,,56,T,Tsching (Holger Steinbrink),7,Enganged       T
+A057,Hummer,0,,56,,,Bass,1,,57,T,Tsching (Holger Steinbrink),9,Hummer         T
+A058,Old School,0,,57,,,Lead,1,,58,T,Tsching (Holger Steinbrink),5,Old School     T
+A059,Handjob,0,,58,,,Lead,1,,59,T,Tsching (Holger Steinbrink),8,Handjob        T
+A060,Slipping Lead,0,,59,,,Lead,1,,60,T,Tsching (Holger Steinbrink),2,Slipping Lead  T
+A061,Glidelis,0,,60,,,Mono,1,,61,SCD,Something Completely Different (Boele Gerkes),5,Glidelis     SCD
+A062,Rave On,0,,61,,,Lead,1,,62,T,Tsching (Holger Steinbrink),8,Rave On        T
+A063,SynChaos,0,,62,,,Lead,1,,63,T,Tsching (Holger Steinbrink),7,SynChaos       T
+A064,Airy Lead,0,,63,,,Lead,1,,64,T,Tsching (Holger Steinbrink),6,Airy Lead      T
+A065,Airy Lead 2,0,,64,,,Lead,1,,65,T,Tsching (Holger Steinbrink),4,Airy Lead 2    T
+A066,Tiestofeld,0,,65,,,Arp,1,,66,SCD,Something Completely Different (Boele Gerkes),3,Tiestofeld   SCD
+A067,ARPollinaris,0,,66,,,Arp,1,,67,T,Tsching (Holger Steinbrink),3,ARPollinaris   T
+A068,Driving Line,0,,67,,,Arp,1,,68,T,Tsching (Holger Steinbrink),3,Driving Line   T
+A069,TD 2010,0,,68,,,Arp,1,,69,SCD,Something Completely Different (Boele Gerkes),6,TD 2010      SCD
+A070,Sawmodulation,0,,69,,,Arp,1,,70,SCD,Something Completely Different (Boele Gerkes),0,SawmodulationSCD
+A071,Bram A.,0,,70,,,Arp,1,,71,SCD,Something Completely Different (Boele Gerkes),6,Bram A.      SCD
+A072,Laidback,0,,71,,,Arp,1,,72,SCD,Something Completely Different (Boele Gerkes),5,Laidback     SCD
+A073,Reseq,0,,72,,,Arp,1,,73,SCD,Something Completely Different (Boele Gerkes),8,Reseq        SCD
+A074,S&H Drive,0,,73,,,Arp,1,,74,SCD,Something Completely Different (Boele Gerkes),4,S&H Drive    SCD
+A075,Mouth Arp,0,,74,,,Arp,1,,75,SCD,Something Completely Different (Boele Gerkes),4,Mouth Arp    SCD
+A076,ADHD,0,,75,,,Arp,1,,76,SCD,Something Completely Different (Boele Gerkes),9,ADHD         SCD
+A077,mARPledust,0,,76,,,Arp,1,,77,T,Tsching (Holger Steinbrink),5,mARPledust     T
+A078,305 Bassline,0,,77,,,Arp,1,,78,T,Tsching (Holger Steinbrink),3,305 Bassline   T
+A079,WArpeggiator,0,,78,,,Arp,1,,79,T,Tsching (Holger Steinbrink),3,WArpeggiator   T
+A080,ARPower,0,,79,,,Arp,1,,80,T,Tsching (Holger Steinbrink),8,ARPower        T
+A081,Drumloop,0,,80,,,Arp,1,,81,T,Tsching (Holger Steinbrink),7,Drumloop       T
+A082,OnTheRun,0,,81,,,Arp,1,,82,T,Tsching (Holger Steinbrink),7,OnTheRun       T
+A083,LFO Delay 2,0,,82,,,Arp,1,,83,SCD,Something Completely Different (Boele Gerkes),2,LFO Delay 2  SCD
+A084,LFOWahDelay,0,,83,,,Arp,1,,84,SCD,Something Completely Different (Boele Gerkes),2,LFOWahDelay  SCD
+A085,The End,0,,84,,,Arp,1,,85,SCD,Something Completely Different (Boele Gerkes),6,The End      SCD
+A086,Deadmau5 Bass,0,,85,,,Bass,1,,86,T,Tsching (Holger Steinbrink),2,Deadmau5 Bass  T
+A087,Pulse Drive,0,,86,,,Bass,1,,87,T,Tsching (Holger Steinbrink),4,Pulse Drive    T
+A088,FM Bass,0,,87,,,Bass,1,,88,T,Tsching (Holger Steinbrink),8,FM Bass        T
+A089,Oizo Bass,0,,88,,,Bass,1,,89,T,Tsching (Holger Steinbrink),6,Oizo Bass      T
+A090,Pickup Bass,0,,89,,,Bass,1,,90,T,Tsching (Holger Steinbrink),4,Pickup Bass    T
+A091,BassTrap,0,,90,,,Bass,1,,91,SCD,Something Completely Different (Boele Gerkes),5,BassTrap     SCD
+A092,Wide Bass,0,,91,,,Bass,1,,92,T,Tsching (Holger Steinbrink),6,Wide Bass      T
+A093,Dirty Bass,0,,92,,,Bass,1,,93,T,Tsching (Holger Steinbrink),5,Dirty Bass     T
+A094,Rev Pulse Bass,0,,93,,,Bass,1,,94,T,Tsching (Holger Steinbrink),1,Rev Pulse Bass T
+A095,C64 Bass,0,,94,,,Bass,1,,95,T,Tsching (Holger Steinbrink),7,C64 Bass       T
+A096,Tranceptor,0,,95,,,Seq,1,,96,T,Tsching (Holger Steinbrink),5,Tranceptor     T
+A097,Short Trance,0,,96,,,Seq,1,,97,T,Tsching (Holger Steinbrink),3,Short Trance   T
+A098,Sauron Pad,0,,97,,,Pad,1,,98,T,Tsching (Holger Steinbrink),5,Sauron Pad     T
+A099,Ghost On Mars,0,,98,,,Atmo,1,,99,T,Tsching (Holger Steinbrink),2,Ghost On Mars  T
+A100,ImpulseResp.,0,,99,,,Atmo,1,,100,SCD,Something Completely Different (Boele Gerkes),1,ImpulseResp. SCD
+A101,CombDeBoele,0,,100,,,Atmo,1,,101,SCD,Something Completely Different (Boele Gerkes),2,CombDeBoele  SCD
+A102,SpaceDigde,0,,101,,,Atmo,1,,102,T,Tsching (Holger Steinbrink),5,SpaceDigde     T
+A103,The 1980s,0,,102,,,Poly,1,,103,T,Tsching (Holger Steinbrink),6,The 1980s      T
+A104,Pulse3+,0,,103,,,Poly,1,,104,SCD,Something Completely Different (Boele Gerkes),6,Pulse3+      SCD
+A105,Dig. Modular,0,,104,,,Poly,1,,105,SCD,Something Completely Different (Boele Gerkes),1,Dig. Modular SCD
+A106,VA*FM,0,,105,,,Keys,1,,106,SCD,Something Completely Different (Boele Gerkes),8,VA*FM        SCD
+A107,PPGenious,0,,106,,,Keys,1,,107,SCD,Something Completely Different (Boele Gerkes),4,PPGenious    SCD
+A108,TriangleDance,0,,107,,,Keys,1,,108,SCD,Something Completely Different (Boele Gerkes),0,TriangleDanceSCD
+A109,Wave Voices,0,,108,,,Keys,1,,109,SCD,Something Completely Different (Boele Gerkes),2,Wave Voices  SCD
+A110,Piano E,0,,109,,,Keys,1,,110,SCD,Something Completely Different (Boele Gerkes),6,Piano E      SCD
+A111,SimpleSeq,0,,110,,,Keys,1,,111,SCD,Something Completely Different (Boele Gerkes),4,SimpleSeq    SCD
+A112,Chopshop3.0,0,,111,,,Keys,1,,112,SCD,Something Completely Different (Boele Gerkes),2,Chopshop3.0  SCD
+A113,OrganClav,0,,112,,,Keys,1,,113,T,Tsching (Holger Steinbrink),6,OrganClav      T
+A114,Wit Licht,0,,113,,,Keys,1,,114,SCD,Something Completely Different (Boele Gerkes),4,Wit Licht    SCD
+A115,Morphorgan,0,,114,,,Keys,1,,115,T,Tsching (Holger Steinbrink),5,Morphorgan     T
+A116,My Keys,0,,115,,,Poly,1,,116,SCD,Something Completely Different (Boele Gerkes),6,My Keys      SCD
+A117,Warning,0,,116,,,Keys,1,,117,SCD,Something Completely Different (Boele Gerkes),6,Warning      SCD
+A118,InYourRoom,0,,117,,,Keys,1,,118,SCD,Something Completely Different (Boele Gerkes),3,InYourRoom   SCD
+A119,Bad Highpass,0,,118,,,Keys,1,,119,SCD,Something Completely Different (Boele Gerkes),1,Bad Highpass SCD
+A120,ChildOfMine,0,,119,,,Keys,1,,120,SCD,Something Completely Different (Boele Gerkes),2,ChildOfMine  SCD
+A121,2 Cats,0,,120,,,Keys,1,,121,SCD,Something Completely Different (Boele Gerkes),7,2 Cats       SCD
+A122,PPG 2,0,,121,,,Poly,1,,122,SCD,Something Completely Different (Boele Gerkes),8,PPG 2        SCD
+A123,FlangerSaw,0,,122,,,Poly,1,,123,SCD,Something Completely Different (Boele Gerkes),3,FlangerSaw   SCD
+A124,ChainSaw,0,,123,,,Keys,1,,124,SCD,Something Completely Different (Boele Gerkes),5,ChainSaw     SCD
+A125,BloAttack,0,,124,,,Keys,1,,125,SCD,Something Completely Different (Boele Gerkes),4,BloAttack    SCD
+A126,Sines,0,,125,,,Poly,1,,126,SCD,Something Completely Different (Boele Gerkes),8,Sines        SCD
+A127,BloodLife,0,,126,,,Poly,1,,127,SCD,Something Completely Different (Boele Gerkes),4,BloodLife    SCD
+A128,Delerium,0,,127,,,Atmo,1,,128,T,Tsching (Holger Steinbrink),7,Delerium       T
+B001,RisePad,1,,0,,,Pad,2,,1,RL,Unknown (RL),1,RisePad RL
+B002,AmbientNodes,1,,1,,,Keys,2,,2,RL,Unknown (RL),1,AmbientNodes RL
+B003,JunoStack,1,,2,,,Poly,2,,3,RL,Unknown (RL),1,JunoStack RL
+B004,LayeredBass,1,,3,,,Bass,2,,4,RL,Unknown (RL),1,LayeredBass RL
+B005,FirstContact,1,,4,,,Arp,2,,5,RL,Unknown (RL),1,FirstContact RL
+B006,ElectroKitty,1,,5,,,Lead,2,,6,RL,Unknown (RL),1,ElectroKitty RL
+B007,AnoDomini,1,,6,,,Pad,2,,7,RL,Unknown (RL),1,AnoDomini RL
+B008,ClubbyOrgan,1,,7,,,Bass,2,,8,RL,Unknown (RL),1,ClubbyOrgan RL
+B009,DanceChord95,1,,8,,,Lead,2,,9,RL,Unknown (RL),1,DanceChord95 RL
+B010,RioLargo,1,,9,,,Arp,2,,10,RL,Unknown (RL),1,RioLargo RL
+B011,FunkyDisco,1,,10,,,Bass,2,,11,RL,Unknown (RL),1,FunkyDisco RL
+B012,UtopianPad,1,,11,,,Pad,2,,12,RL,Unknown (RL),1,UtopianPad RL
+B013,HardTrancer,1,,12,,,Lead,2,,13,RL,Unknown (RL),1,HardTrancer RL
+B014,TechnoChords,1,,13,,,Lead,2,,14,RL,Unknown (RL),1,TechnoChords RL
+B015,SquareWaver,1,,14,,,Bass,2,,15,RL,Unknown (RL),1,SquareWaver RL
+B016,ArpBells,1,,15,,,Arp,2,,16,RL,Unknown (RL),1,ArpBells RL
+B017,FakeGuitar,1,,16,,,Keys,2,,17,RL,Unknown (RL),1,FakeGuitar RL
+B018,Trance2K,1,,17,,,Pad,2,,18,RL,Unknown (RL),1,Trance2K RL
+B019,Hacienda,1,,18,,,Lead,2,,19,RL,Unknown (RL),1,Hacienda RL
+B020,BloChoir,1,,19,,,Lead,2,,20,RL,Unknown (RL),1,BloChoir RL
+B021,BassNation,1,,20,,,Bass,2,,21,RL,Unknown (RL),1,BassNation RL
+B022,MellowKeys,1,,21,,,Keys,2,,22,RL,Unknown (RL),1,MellowKeys RL
+B023,TotalTrance,1,,22,,,Arp,2,,23,RL,Unknown (RL),1,TotalTrance RL
+B024,PianoMan,1,,23,,,Keys,2,,24,RL,Unknown (RL),1,PianoMan RL
+B025,FloorBass,1,,24,,,Bass,2,,25,RL,Unknown (RL),1,FloorBass RL
+B026,AnotherWorld,1,,25,,,Pad,2,,26,RL,Unknown (RL),1,AnotherWorld RL
+B027,ClockWork,1,,26,,,Arp,2,,27,RL,Unknown (RL),1,ClockWork RL
+B028,SuperMario,1,,27,,,Lead,2,,28,RL,Unknown (RL),1,SuperMario RL
+B029,ClubDelays,1,,28,,,Lead,2,,29,RL,Unknown (RL),1,ClubDelays RL
+B030,TronicLead,1,,29,,,Lead,2,,30,RL,Unknown (RL),1,TronicLead RL
+B031,FireWire,1,,30,,,Arp,2,,31,RL,Unknown (RL),1,FireWire RL
+B032,DirtyRamirez,1,,31,,,Bass,2,,32,RL,Unknown (RL),1,DirtyRamirez RL
+B033,MerlinsPad,1,,32,,,Pad,2,,33,RL,Unknown (RL),1,MerlinsPad RL
+B034,DreamSaw,1,,33,,,Lead,2,,34,RL,Unknown (RL),1,DreamSaw RL
+B035,CosmicGates,1,,34,,,Arp,2,,35,RL,Unknown (RL),1,CosmicGates RL
+B036,ElectroPulse,1,,35,,,Lead,2,,36,RL,Unknown (RL),1,ElectroPulse RL
+B037,SquelchBass,1,,36,,,Bass,2,,37,RL,Unknown (RL),1,SquelchBass RL
+B038,TechnoDawn,1,,37,,,Pad,2,,38,RL,Unknown (RL),1,TechnoDawn RL
+B039,Orchestral,1,,38,,,Lead,2,,39,RL,Unknown (RL),1,Orchestral RL
+B040,StarGazer,1,,39,,,Arp,2,,40,RL,Unknown (RL),1,StarGazer RL
+B041,PartyLikeAlex,1,,40,,,Bass,2,,41,RL,Unknown (RL),1,PartyLikeAlex RL
+B042,DanceMaster,1,,41,,,Lead,2,,42,RL,Unknown (RL),1,DanceMaster RL
+B043,HeavenlyVox,1,,42,,,Pad,2,,43,RL,Unknown (RL),1,HeavenlyVox RL
+B044,PartyLead,1,,43,,,Lead,2,,44,RL,Unknown (RL),1,PartyLead RL
+B045,HouseClassic,1,,44,,,Lead,2,,45,RL,Unknown (RL),1,HouseClassic RL
+B046,ClubUK,1,,45,,,Arp,2,,46,RL,Unknown (RL),1,ClubUK RL
+B047,TrashBass,1,,46,,,Bass,2,,47,RL,Unknown (RL),1,TrashBass RL
+B048,SadStrings,1,,47,,,Pad,2,,48,RL,Unknown (RL),1,SadStrings RL
+B049,RezzoPoly,1,,48,,,Poly,2,,49,RL,Unknown (RL),1,RezzoPoly RL
+B050,MrMiles,1,,49,,,Keys,2,,50,RL,Unknown (RL),1,MrMiles RL
+B051,SamplerVox,1,,50,,,Lead,2,,51,RL,Unknown (RL),1,SamplerVox RL
+B052,TunnelPad,1,,51,,,Pad,2,,52,RL,Unknown (RL),1,TunnelPad RL
+B053,ElectroSaw,1,,52,,,Bass,2,,53,RL,Unknown (RL),1,ElectroSaw RL
+B054,TranceMelody,1,,53,,,Arp,2,,54,RL,Unknown (RL),1,TranceMelody RL
+B055,DancePizz,1,,54,,,Lead,2,,55,RL,Unknown (RL),1,DancePizz RL
+B056,DigitalDance,1,,55,,,Lead,2,,56,RL,Unknown (RL),1,DigitalDance RL
+B057,SlowingDown,1,,56,,,Arp,2,,57,RL,Unknown (RL),1,SlowingDown RL
+B058,303AutoGlide,1,,57,,,Bass,2,,58,RL,Unknown (RL),1,303AutoGlide RL
+B059,PhazedOut,1,,58,,,Lead,2,,59,RL,Unknown (RL),1,PhazedOut RL
+B060,MiniLead,1,,59,,,Lead,2,,60,RL,Unknown (RL),1,MiniLead RL
+B061,Neptune,1,,60,,,Pad,2,,61,RL,Unknown (RL),1,Neptune RL
+B062,Back2Detroit,1,,61,,,Lead,2,,62,RL,Unknown (RL),1,Back2Detroit RL
+B063,RetroKeys,1,,62,,,Poly,2,,63,RL,Unknown (RL),1,RetroKeys RL
+B064,PowerCore,1,,63,,,Lead,2,,64,RL,Unknown (RL),1,PowerCore RL
+B065,Infected,1,,64,,,Seq,2,,65,RL,Unknown (RL),1,Infected RL
+B066,Pikey,1,,65,,,Keys,2,,66,RL,Unknown (RL),1,Pikey RL
+B067,TechnoFX,1,,66,,,FX,2,,67,RL,Unknown (RL),1,TechnoFX RL
+B068,AfterDark,1,,67,,,Lead,2,,68,RL,Unknown (RL),1,AfterDark RL
+B069,FlangePad,1,,68,,,Pad,2,,69,RL,Unknown (RL),1,FlangePad RL
+B070,EuroClassic,1,,69,,,Lead,2,,70,RL,Unknown (RL),1,EuroClassic RL
+B071,HouseMeUp,1,,70,,,Lead,2,,71,RL,Unknown (RL),1,HouseMeUp RL
+B072,Motivator,1,,71,,,Arp,2,,72,RL,Unknown (RL),1,Motivator RL
+B073,TuffBass,1,,72,,,Bass,2,,73,RL,Unknown (RL),1,TuffBass RL
+B074,DarkSweeper,1,,73,,,Lead,2,,74,RL,Unknown (RL),1,DarkSweeper RL
+B075,DeepBlue,1,,74,,,Pad,2,,75,RL,Unknown (RL),1,DeepBlue RL
+B076,NuElectro,1,,75,,,Lead,2,,76,RL,Unknown (RL),1,NuElectro RL
+B077,NiteCrawler,1,,76,,,Keys,2,,77,RL,Unknown (RL),1,NiteCrawler RL
+B078,Time2Groove,1,,77,,,Arp,2,,78,RL,Unknown (RL),1,Time2Groove RL
+B079,Planetarium,1,,78,,,Pad,2,,79,RL,Unknown (RL),1,Planetarium RL
+B080,DiscoBass,1,,79,,,Bass,2,,80,RL,Unknown (RL),1,DiscoBass RL
+B081,NoseBleeder,1,,80,,,Arp,2,,81,RL,Unknown (RL),1,NoseBleeder RL
+B082,OldSkool,1,,81,,,Lead,2,,82,RL,Unknown (RL),1,OldSkool RL
+B083,Slither,1,,82,,,Lead,2,,83,RL,Unknown (RL),1,Slither RL
+B084,SuperSquare,1,,83,,,Lead,2,,84,RL,Unknown (RL),1,SuperSquare RL
+B085,RemixKeys,1,,84,,,Lead,2,,85,RL,Unknown (RL),1,RemixKeys RL
+B086,DangerZone,1,,85,,,Lead,2,,86,RL,Unknown (RL),1,DangerZone RL
+B087,SnapAttack,1,,86,,,Bass,2,,87,RL,Unknown (RL),1,SnapAttack RL
+B088,Pitch&Slide,1,,87,,,Lead,2,,88,RL,Unknown (RL),1,Pitch&Slide RL
+B089,LiquidSaws,1,,88,,,Lead,2,,89,RL,Unknown (RL),1,LiquidSaws RL
+B090,Icelandic,1,,89,,,Pad,2,,90,RL,Unknown (RL),1,Icelandic RL
+B091,Avatar,1,,90,,,Pad,2,,91,RL,Unknown (RL),1,Avatar RL
+B092,Seduction,1,,91,,,Bass,2,,92,RL,Unknown (RL),1,Seduction RL
+B093,FollowMe,1,,92,,,Arp,2,,93,RL,Unknown (RL),1,FollowMe RL
+B094,DutchLead,1,,93,,,Lead,2,,94,RL,Unknown (RL),1,DutchLead RL
+B095,ElectricPiano,1,,94,,,Keys,2,,95,RL,Unknown (RL),1,ElectricPiano RL
+B096,WetElectro,1,,95,,,Bass,2,,96,RL,Unknown (RL),1,WetElectro RL
+B097,Airwave,1,,96,,,Pad,2,,97,RL,Unknown (RL),1,Airwave RL
+B098,RaveGenerator,1,,97,,,Lead,2,,98,RL,Unknown (RL),1,RaveGenerator RL
+B099,Amnesia,1,,98,,,Lead,2,,99,RL,Unknown (RL),1,Amnesia RL
+B100,PlayedLive,1,,99,,,Keys,2,,100,RL,Unknown (RL),1,PlayedLive RL
+B101,AcidHouse,1,,100,,,Bass,2,,101,RL,Unknown (RL),1,AcidHouse RL
+B102,TechnoBoy,1,,101,,,Lead,2,,102,RL,Unknown (RL),1,TechnoBoy RL
+B103,ClubRiffer,1,,102,,,Keys,2,,103,RL,Unknown (RL),1,ClubRiffer RL
+B104,TechnoBells,1,,103,,,Lead,2,,104,RL,Unknown (RL),1,TechnoBells RL
+B105,Evolution,1,,104,,,Lead,2,,105,RL,Unknown (RL),2,Evolution  RL
+B106,DelMar,1,,105,,,Pad,2,,106,RL,Unknown (RL),1,DelMar RL
+B107,HardEdge,1,,106,,,Arp,2,,107,RL,Unknown (RL),1,HardEdge RL
+B108,FatPulse,1,,107,,,Bass,2,,108,RL,Unknown (RL),1,FatPulse RL
+B109,KnockDelays,1,,108,,,Bass,2,,109,RL,Unknown (RL),1,KnockDelays RL
+B110,Siberia,1,,109,,,Pad,2,,110,RL,Unknown (RL),1,Siberia RL
+B111,TechnoEric,1,,110,,,Bass,2,,111,RL,Unknown (RL),1,TechnoEric RL
+B112,DanceClassic,1,,111,,,Keys,2,,112,RL,Unknown (RL),1,DanceClassic RL
+B113,OffShore44,1,,112,,,Arp,2,,113,RL,Unknown (RL),1,OffShore44 RL
+B114,Parisien,1,,113,,,Pad,2,,114,RL,Unknown (RL),1,Parisien RL
+B115,DeepHouse,1,,114,,,Bass,2,,115,RL,Unknown (RL),1,DeepHouse RL
+B116,MonstaBass,1,,115,,,Bass,2,,116,RL,Unknown (RL),1,MonstaBass RL
+B117,Ambience,1,,116,,,Pad,2,,117,RL,Unknown (RL),1,Ambience RL
+B118,XTBass,1,,117,,,Bass,2,,118,RL,Unknown (RL),1,XTBass RL
+B119,ModularFX,1,,118,,,FX,2,,119,RL,Unknown (RL),1,ModularFX RL
+B120,Organesque,1,,119,,,Keys,2,,120,RL,Unknown (RL),1,Organesque RL
+B121,PearlDrops,1,,120,,,Poly,2,,121,RL,Unknown (RL),1,PearlDrops RL
+B122,BattleStar,1,,121,,,Poly,2,,122,RL,Unknown (RL),1,BattleStar RL
+B123,AlienBass,1,,122,,,Bass,2,,123,RL,Unknown (RL),1,AlienBass RL
+B124,SuperWaves,1,,123,,,Lead,2,,124,RL,Unknown (RL),1,SuperWaves RL
+B125,Unchartered,1,,124,,,Pad,2,,125,RL,Unknown (RL),1,Unchartered RL
+B126,PlanetZod,1,,125,,,Pad,2,,126,RL,Unknown (RL),1,PlanetZod RL
+B127,Elevation,1,,126,,,Lead,2,,127,RL,Unknown (RL),1,Elevation RL
+B128,BassTrap,1,,127,,,Bass,2,,128,RL,Unknown (RL),1,BassTrap RL
+C001,The 1980s,2,,0,,,Poly,3,,1,T,Tsching (Holger Steinbrink),6,The 1980s      T
+C002,S1l4g3,2,,1,,,Lead,3,,2,CA,Unknown (CA),8,S1l4g3        CA
+C003,Dig. Modular,2,,2,,,Poly,3,,3,SCD,Something Completely Different (Boele Gerkes),1,Dig. Modular SCD
+C004,Shy T3ddy,2,,3,,,Keys,3,,4,CA,Unknown (CA),5,Shy T3ddy     CA
+C005,PPGenious,2,,4,,,Keys,3,,5,SCD,Something Completely Different (Boele Gerkes),4,PPGenious    SCD
+C006,Torreblanca,2,,5,,,Lead,3,,6,CA,Unknown (CA),3,Torreblanca   CA
+C007,Wave Voices,2,,6,,,Keys,3,,7,SCD,Something Completely Different (Boele Gerkes),2,Wave Voices  SCD
+C008,Channel 1337,2,,7,,,Pad,3,,8,CA,Unknown (CA),2,Channel 1337  CA
+C009,SimpleSeq,2,,8,,,Keys,3,,9,SCD,Something Completely Different (Boele Gerkes),4,SimpleSeq    SCD
+C010,404 Found,2,,9,,,Init,3,,10,CA,Unknown (CA),2,404 Found  CA
+C011,OrganClav,2,,10,,,Keys,3,,11,T,Tsching (Holger Steinbrink),6,OrganClav      T
+C012,Encinarejo,2,,11,,,Lead,3,,12,CA,Unknown (CA),4,Encinarejo    CA
+C013,Morphorgan,2,,12,,,Keys,3,,13,T,Tsching (Holger Steinbrink),5,Morphorgan     T
+C014,Vic 20,2,,13,,,Lead,3,,14,CA,Unknown (CA),8,Vic 20        CA
+C015,Warning,2,,14,,,Keys,3,,15,SCD,Something Completely Different (Boele Gerkes),6,Warning      SCD
+C016,Jaws    CitCA y,2,,15,,,Init,3,,16,,,,
+C017,Bad Highpass,2,,16,,,Keys,3,,17,SCD,Something Completely Different (Boele Gerkes),1,Bad Highpass SCD
+C018,Bottle,2,,17,,,Lead,3,,18,CA,Unknown (CA),8,Bottle        CA
+C019,2 Cats,2,,18,,,Keys,3,,19,SCD,Something Completely Different (Boele Gerkes),7,2 Cats       SCD
+C020,Sa Calobra,2,,19,,,Atmo,3,,20,CA,Unknown (CA),4,Sa Calobra    CA
+C021,FlangerSaw,2,,20,,,Poly,3,,21,SCD,Something Completely Different (Boele Gerkes),3,FlangerSaw   SCD
+C022,Graja,2,,21,,,Bass,3,,22,CA,Unknown (CA),9,Graja         CA
+C023,BloAttack,2,,22,,,Keys,3,,23,SCD,Something Completely Different (Boele Gerkes),4,BloAttack    SCD
+C024,Table FM,2,,23,,,Poly,3,,24,SCD,Something Completely Different (Boele Gerkes),5,Table FM     SCD
+C025,Glockenklang,2,,24,,,Keys,3,,25,T,Tsching (Holger Steinbrink),3,Glockenklang   T
+C026,Flowinx,2,,25,,,FX,3,,26,CA,Unknown (CA),7,Flowinx       CA
+C027,BloodLife,2,,26,,,Poly,3,,27,SCD,Something Completely Different (Boele Gerkes),4,BloodLife    SCD
+C028,2Osc Sync,2,,27,,,Poly,3,,28,SCD,Something Completely Different (Boele Gerkes),4,2Osc Sync    SCD
+C029,Latmo,2,,28,,,Atmo,3,,29,T,Tsching (Holger Steinbrink),9,Latmo          T
+C030,Halloween,2,,29,,,Atmo,3,,30,T,Tsching (Holger Steinbrink),6,Halloween      T
+C031,Down to 5kHz,2,,30,,,Atmo,3,,31,T,Tsching (Holger Steinbrink),3,Down to 5kHz   T
+C032,Filter FM,2,,31,,,Atmo,3,,32,SCD,Something Completely Different (Boele Gerkes),4,Filter FM    SCD
+C033,Comb-at,2,,32,,,FX,3,,33,CA,Unknown (CA),7,Comb-at       CA
+C034,Borg Cubus,2,,33,,,Atmo,3,,34,T,Tsching (Holger Steinbrink),5,Borg Cubus     T
+C035,Relax3,2,,34,,,Atmo,3,,35,SCD,Something Completely Different (Boele Gerkes),7,Relax3       SCD
+C036,Mahlstrom,2,,35,,,Atmo,3,,36,T,Tsching (Holger Steinbrink),6,Mahlstrom      T
+C037,AM on Sinus,2,,36,,,Atmo,3,,37,SCD,Something Completely Different (Boele Gerkes),2,AM on Sinus  SCD
+C038,19/20,2,,37,,,FX,3,,38,T,Tsching (Holger Steinbrink),9,19/20          T
+C039,What?,2,,38,,,FX,3,,39,SCD,Something Completely Different (Boele Gerkes),8,What?        SCD
+C040,StefanIsMad,2,,39,,,FX,3,,40,SCD,Something Completely Different (Boele Gerkes),2,StefanIsMad  SCD
+C041,ReverseWhoosch,2,,40,,,FX,3,,41,T,Tsching (Holger Steinbrink),1,ReverseWhoosch T
+C042,50s Pad,2,,41,,,Pad,3,,42,T,Tsching (Holger Steinbrink),8,50s Pad        T
+C043,Deepspace 9,2,,42,,,Pad,3,,43,ST,Unknown (ST),3,Deepspace 9   ST
+C044,Chorus,2,,43,,,Pad,3,,44,WMF,Wolfram Franke,7,Chorus       WMF
+C045,HP PPG,2,,44,,,Pad,3,,45,SCD,Something Completely Different (Boele Gerkes),7,HP PPG       SCD
+C046,"Hmm, lecker",2,,45,,,Pad,3,,46,WMF,Wolfram Franke,2,"Hmm, lecker  WMF"
+C047,Angel Pad,2,,46,,,Pad,3,,47,HS,Howard Scarr,5,Angel Pad     HS
+C048,Heaven,2,,47,,,Pad,3,,48,JL,Juho Lepisto,8,Heaven        JL
+C049,Blovachord,2,,48,,,Pad,3,,49,SCD,Something Completely Different (Boele Gerkes),3,Blovachord   SCD
+C050,MeetInTheSky,2,,49,,,Pad,3,,50,SCD,Something Completely Different (Boele Gerkes),1,MeetInTheSky SCD
+C051,Padings,2,,50,,,Pad,3,,51,HM,Hubertus Maas,7,Padings       HM
+C052,Om mani padme,2,,51,,,Pad,3,,52,HM,Hubertus Maas,1,Om mani padme HM
+C053,Raising Sun,2,,52,,,Pad,3,,53,T,Tsching (Holger Steinbrink),4,Raising Sun    T
+C054,Slow Wavetrip,2,,53,,,Pad,3,,54,T,Tsching (Holger Steinbrink),2,Slow Wavetrip  T
+C055,Brightseite,2,,54,,,Pad,3,,55,T,Tsching (Holger Steinbrink),4,Brightseite    T
+C056,LateNightPad,2,,55,,,Pad,3,,56,T,Tsching (Holger Steinbrink),3,LateNightPad   T
+C057,Angels Cry,2,,56,,,Pad,3,,57,JL,Juho Lepisto,4,Angels Cry    JL
+C058,Phalanx,2,,57,,,Pad,3,,58,ST,Unknown (ST),7,Phalanx       ST
+C059,The Bridge,2,,58,,,Pad,3,,59,SK,Unknown (SK),4,The Bridge    SK
+C060,ObiWahnPad,2,,59,,,Pad,3,,60,SK,Unknown (SK),4,ObiWahnPad    SK
+C061,Sonnenaufgang,2,,60,,,Pad,3,,61,T,Tsching (Holger Steinbrink),2,Sonnenaufgang  T
+C062,Queen-mom,2,,61,,,Pad,3,,62,HM,Hubertus Maas,5,Queen-mom     HM
+C063,DarkQuietPad,2,,62,,,Pad,3,,63,T,Tsching (Holger Steinbrink),3,DarkQuietPad   T
+C064,Geiler Lurch,2,,63,,,Pad,3,,64,T,Tsching (Holger Steinbrink),3,Geiler Lurch   T
+C065,Zeitlos,2,,64,,,Pad,3,,65,T,Tsching (Holger Steinbrink),8,Zeitlos        T
+C066,MI5 Pad,2,,65,,,Pad,3,,66,ugh,Uwe G. Hoenig,6,MI5 Pad      ugh
+C067,Octopussy Pad,2,,66,,,Pad,3,,67,T,Tsching (Holger Steinbrink),2,Octopussy Pad  T
+C068,Like Wool,2,,67,,,Pad,3,,68,HM,Hubertus Maas,5,Like Wool     HM
+C069,di-Fusion,2,,68,,,Pad,3,,69,T,Tsching (Holger Steinbrink),6,di-Fusion      T
+C070,Go to Pad,2,,69,,,Pad,3,,70,T,Tsching (Holger Steinbrink),6,Go to Pad      T
+C071,Kiddings,2,,70,,,Pad,3,,71,HM,Hubertus Maas,6,Kiddings      HM
+C072,Harsh Pad,2,,71,,,Pad,3,,72,T,Tsching (Holger Steinbrink),6,Harsh Pad      T
+C073,Broadway,2,,72,,,Pad,3,,73,ugh,Uwe G. Hoenig,5,Broadway     ugh
+C074,Neocrest,2,,73,,,Pad,3,,74,ST,Unknown (ST),6,Neocrest      ST
+C075,BandSpass,2,,74,,,Pad,3,,75,T,Tsching (Holger Steinbrink),6,BandSpass      T
+C076,Event Horizon,2,,75,,,Pad,3,,76,T,Tsching (Holger Steinbrink),2,Event Horizon  T
+C077,Long Sweep,2,,76,,,Pad,3,,77,T,Tsching (Holger Steinbrink),5,Long Sweep     T
+C078,DisharmonicPad,2,,77,,,Atmo,3,,78,T,Tsching (Holger Steinbrink),1,DisharmonicPad T
+C079,Goldfinger Pad,2,,78,,,Pad,3,,79,T,Tsching (Holger Steinbrink),1,Goldfinger Pad T
+C080,Wartofsky 2.0,2,,79,,,Pad,3,,80,T,Tsching (Holger Steinbrink),2,Wartofsky 2.0  T
+C081,S&H&Pad&Nice,2,,80,,,Pad,3,,81,WMF,Wolfram Franke,1,S&H&Pad&Nice WMF
+C082,Attacke,2,,81,,,Pad,3,,82,WMF,Wolfram Franke,6,Attacke      WMF
+C083,Moving,2,,82,,,Pad,3,,83,SCD,Something Completely Different (Boele Gerkes),7,Moving       SCD
+C084,Q-rious?,2,,83,,,Pad,3,,84,WMF,Wolfram Franke,5,Q-rious?     WMF
+C085,Bioshock,2,,84,,,Pad,3,,85,JL,Juho Lepisto,6,Bioshock      JL
+C086,With Love,2,,85,,,Pad,3,,86,WMF,Wolfram Franke,4,With Love    WMF
+C087,Mellow Tron,2,,86,,,Pad,3,,87,TK,Unknown (TK),3,Mellow Tron   TK
+C088,JV HardBass,2,,87,,,Bass,3,,88,,,,
+C089,PredictaBass,2,,88,,,Bass,3,,89,WMF,Wolfram Franke,1,PredictaBass WMF
+C090,Phalanx Bass,2,,89,,,Bass,3,,90,,,,
+C091,BassterKeaton,2,,90,,,Bass,3,,91,T,Tsching (Holger Steinbrink),2,BassterKeaton  T
+C092,Narrow,2,,91,,,Bass,3,,92,,,,
+C093,Drum'n'Bass 1,2,,92,,,Bass,3,,93,,,,
+C094,Mars Mouse,2,,93,,,Bass,3,,94,,,,
+C095,Fonky Fonky,2,,94,,,Bass,3,,95,,,,
+C096,Frittenlos,2,,95,,,Bass,3,,96,,,,
+C097,Mo'Grass,2,,96,,,Bass,3,,97,,,,
+C098,Bassanova,2,,97,,,Bass,3,,98,,,,
+C099,2Step Bass,2,,98,,,Bass,3,,99,,,,
+C100,TockTock,2,,99,,,Bass,3,,100,,,,
+C101,Silicon Base,2,,100,,,Bass,3,,101,,,,
+C102,Ultra Sub 1,2,,101,,,Bass,3,,102,,,,
+C103,Ultra Sub 2,2,,102,,,Bass,3,,103,,,,
+C104,WhopWhop,2,,103,,,Bass,3,,104,,,,
+C105,Acrylic Bass,2,,104,,,Bass,3,,105,,,,
+C106,Ringmono,2,,105,,,Bass,3,,106,,,,
+C107,CascadeVCF,2,,106,,,Bass,3,,107,,,,
+C108,303 Wanna Be,2,,107,,,Bass,3,,108,,,,
+C109,Morph Bass,2,,108,,,Bass,3,,109,ST,Unknown (ST),4,Morph Bass    ST
+C110,Q-Timps,2,,109,,,Bass,3,,110,,,,
+C111,DeepHouse,2,,110,,,Keys,3,,111,SK,Unknown (SK),5,DeepHouse     SK
+C112,FM Roads,2,,111,,,Keys,3,,112,HS,Howard Scarr,6,FM Roads      HS
+C113,DX-ClassiQ,2,,112,,,Keys,3,,113,HS,Howard Scarr,4,DX-ClassiQ    HS
+C114,Hippy Freuds,2,,113,,,Keys,3,,114,HS,Howard Scarr,2,Hippy Freuds  HS
+C115,Shed,2,,114,,,Keys,3,,115,HM,Hubertus Maas,9,Shed          HM
+C116,Harpsi,2,,115,,,Keys,3,,116,HS,Howard Scarr,8,Harpsi        HS
+C117,Easy Piano,2,,116,,,Keys,3,,117,HS,Howard Scarr,4,Easy Piano    HS
+C118,Lounge Morph,2,,117,,,Keys,3,,118,HS,Howard Scarr,2,Lounge Morph  HS
+C119,BloodyFeld,2,,118,,,Keys,3,,119,SCD,Something Completely Different (Boele Gerkes),3,BloodyFeld   SCD
+C120,ModWheelOrgan,2,,119,,,Keys,3,,120,SCD,Something Completely Different (Boele Gerkes),0,ModWheelOrganSCD
+C121,Minor Chords,2,,120,,,Seq,3,,121,T,Tsching (Holger Steinbrink),3,Minor Chords   T
+C122,Ice Bells,2,,121,,,Seq,3,,122,SK,Unknown (SK),5,Ice Bells     SK
+C123,Bone Soup,2,,122,,,FX,3,,123,,,,
+C124,DCS3 Bubbles,2,,123,,,FX,3,,124,,,,
+C125,Flying Teapot,2,,124,,,FX,3,,125,,,,
+C126,Gastrology,2,,125,,,FX,3,,126,,,,
+C127,Into Mouth,2,,126,,,FX,3,,127,,,,
+C128,Whoosch,2,,127,,,FX,3,,128,T,Tsching (Holger Steinbrink),8,Whoosch        T
+D001,UltraFatPoly,3,,0,,,Poly,4,,1,WMF,Wolfram Franke,1,UltraFatPoly WMF
+D002,Brass Comp,3,,1,,,Poly,4,,2,HM,Hubertus Maas,4,Brass Comp    HM
+D003,Pussy Galore,3,,2,,,Poly,4,,3,T,Tsching (Holger Steinbrink),3,Pussy Galore   T
+D004,Euro-Zeichen,3,,3,,,Poly,4,,4,HS,Howard Scarr,2,Euro-Zeichen  HS
+D005,Brassy House,3,,4,,,Poly,4,,5,SK,Unknown (SK),2,Brassy House  SK
+D006,BestOfThe80s,3,,5,,,Poly,4,,6,T,Tsching (Holger Steinbrink),3,BestOfThe80s   T
+D007,Classic Synth,3,,6,,,Poly,4,,7,T,Tsching (Holger Steinbrink),2,Classic Synth  T
+D008,WT mess,3,,7,,,Poly,4,,8,SCD,Something Completely Different (Boele Gerkes),5,WT mess     SCD
+D009,Leadrunner,3,,8,,,Poly,4,,9,HS,Howard Scarr,4,Leadrunner    HS
+D010,10VoicePS3100,3,,9,,,Poly,4,,10,SCD,Something Completely Different (Boele Gerkes),0,10VoicePS3100SCD
+D011,Patagonia,3,,10,,,Poly,4,,11,HS,Howard Scarr,5,Patagonia     HS
+D012,Quintage,3,,11,,,Poly,4,,12,T,Tsching (Holger Steinbrink),7,Quintage       T
+D013,RoundTheHorn,3,,12,,,Poly,4,,13,HS,Howard Scarr,2,RoundTheHorn  HS
+D014,Net Profit,3,,13,,,Poly,4,,14,HS,Howard Scarr,4,Net Profit    HS
+D015,SyncMush,3,,14,,,Poly,4,,15,DocT,Stefan Trippler,4,SyncMush    DocT
+D016,Tron Flutes,3,,15,,,Poly,4,,16,HM,Hubertus Maas,3,Tron Flutes   HM
+D017,Qazzio,3,,16,,,Poly,4,,17,HS,Howard Scarr,8,Qazzio        HS
+D018,VintageSpring,3,,17,,,Poly,4,,18,WMF,Wolfram Franke,0,VintageSpringWMF
+D019,Zawichords,3,,18,,,Poly,4,,19,HS,Howard Scarr,4,Zawichords    HS
+D020,Spring Clean,3,,19,,,Poly,4,,20,HS,Howard Scarr,2,Spring Clean  HS
+D021,Papathanasiou,3,,20,,,Poly,4,,21,T,Tsching (Holger Steinbrink),2,Papathanasiou  T
+D022,FloorFilla,3,,21,,,Poly,4,,22,SK,Unknown (SK),4,FloorFilla    SK
+D023,Hyper,3,,22,,,Poly,4,,23,DocT,Stefan Trippler,7,Hyper       DocT
+D024,Dr. Motte,3,,23,,,Poly,4,,24,T,Tsching (Holger Steinbrink),6,Dr. Motte      T
+D025,FilterFM Keys,3,,24,,,Poly,4,,25,T,Tsching (Holger Steinbrink),2,FilterFM Keys  T
+D026,80sFM Analog,3,,25,,,Poly,4,,26,SK,Unknown (SK),2,80sFM Analog  SK
+D027,Analog Lute,3,,26,,,Poly,4,,27,HS,Howard Scarr,3,Analog Lute   HS
+D028,D-NoiZer,3,,27,,,Poly,4,,28,SK,Unknown (SK),6,D-NoiZer      SK
+D029,Crawlers,3,,28,,,Poly,4,,29,SK,Unknown (SK),6,Crawlers      SK
+D030,Brownies,3,,29,,,Poly,4,,30,WMF,Wolfram Franke,5,Brownies     WMF
+D031,Late Ring,3,,30,,,Poly,4,,31,HS,Howard Scarr,5,Late Ring     HS
+D032,RingThemBells,3,,31,,,Poly,4,,32,SCD,Something Completely Different (Boele Gerkes),0,RingThemBellsSCD
+D033,TributeTo DX,3,,32,,,Poly,4,,33,WMF,Wolfram Franke,1,TributeTo DX WMF
+D034,WhatYouSay?,3,,33,,,Poly,4,,34,SCD,Something Completely Different (Boele Gerkes),2,WhatYouSay?  SCD
+D035,Atlantis,3,,34,,,Atmo,4,,35,T,Tsching (Holger Steinbrink),7,Atlantis       T
+D036,Atmostrobe,3,,35,,,Atmo,4,,36,T,Tsching (Holger Steinbrink),5,Atmostrobe     T
+D037,Background,3,,36,,,Atmo,4,,37,T,Tsching (Holger Steinbrink),5,Background     T
+D038,Baraka,3,,37,,,Atmo,4,,38,T,Tsching (Holger Steinbrink),9,Baraka         T
+D039,Beautiful Sky,3,,38,,,Atmo,4,,39,T,Tsching (Holger Steinbrink),2,Beautiful Sky  T
+D040,Clink Clash,3,,39,,,Atmo,4,,40,T,Tsching (Holger Steinbrink),4,Clink Clash    T
+D041,Comb Tree,3,,40,,,Atmo,4,,41,T,Tsching (Holger Steinbrink),6,Comb Tree      T
+D042,Drift,3,,41,,,Atmo,4,,42,,,,
+D043,Fear'n'Loath,3,,42,,,Atmo,4,,43,,,,
+D044,Flinker,3,,43,,,Atmo,4,,44,,,,
+D045,Orthanc,3,,44,,,Atmo,4,,45,T,Tsching (Holger Steinbrink),8,Orthanc        T
+D046,RePression,3,,45,,,Atmo,4,,46,T,Tsching (Holger Steinbrink),5,RePression     T
+D047,Royalties,3,,46,,,Atmo,4,,47,,,,
+D048,Biosphere,3,,47,,,Atmo,4,,48,T,Tsching (Holger Steinbrink),6,Biosphere      T
+D049,Spitzbergen,3,,48,,,Atmo,4,,49,T,Tsching (Holger Steinbrink),4,Spitzbergen    T
+D050,Stratosphere,3,,49,,,Atmo,4,,50,T,Tsching (Holger Steinbrink),3,Stratosphere   T
+D051,Swiss Atmo,3,,50,,,Atmo,4,,51,T,Tsching (Holger Steinbrink),5,Swiss Atmo     T
+D052,Upstream,3,,51,,,Atmo,4,,52,T,Tsching (Holger Steinbrink),7,Upstream       T
+D053,VeryCompleqs,3,,52,,,Atmo,4,,53,,,,
+D054,Waterworld,3,,53,,,Atmo,4,,54,T,Tsching (Holger Steinbrink),5,Waterworld     T
+D055,RingmodFart,3,,54,,,Atmo,4,,55,SCD,Something Completely Different (Boele Gerkes),2,RingmodFart  SCD
+D056,Vangelibells,3,,55,,,Atmo,4,,56,SCD,Something Completely Different (Boele Gerkes),1,Vangelibells SCD
+D057,PolterBlofeld,3,,56,,,Atmo,4,,57,SCD,Something Completely Different (Boele Gerkes),0,PolterBlofeldSCD
+D058,Ambishous,3,,57,,,Atmo,4,,58,,,,
+D059,ScaramangAtmo,3,,58,,,Atmo,4,,59,T,Tsching (Holger Steinbrink),2,ScaramangAtmo  T
+D060,CS4O RingMod,3,,59,,,Mono,4,,60,T,Tsching (Holger Steinbrink),3,CS4O RingMod   T
+D061,ReSolotion,3,,60,,,Mono,4,,61,WMF,Wolfram Franke,3,ReSolotion   WMF
+D062,Anna Powers,3,,61,,,Mono,4,,62,HM,Hubertus Maas,3,Anna Powers   HM
+D063,HardSaw,3,,62,,,Lead,4,,63,ST,Unknown (ST),7,HardSaw       ST
+D064,X-Feels,3,,63,,,Mono,4,,64,,,,
+D065,Bach Whistler,3,,64,,,Mono,4,,65,,,,
+D066,Modulator,3,,65,,,Mono,4,,66,,,,
+D067,NoisyLead,3,,66,,,Mono,4,,67,,,,
+D068,Pulsar Solo,3,,67,,,Mono,4,,68,,,,
+D069,Starweed,3,,68,,,Mono,4,,69,,,,
+D070,Saw 1 Osc,3,,69,,,Lead,4,,70,WMF,Wolfram Franke,4,Saw 1 Osc    WMF
+D071,Old Squares,3,,70,,,Mono,4,,71,,,,
+D072,Crazy Parade,3,,71,,,Mono,4,,72,,,,
+D073,Monoguitar,3,,72,,,Mono,4,,73,,,,
+D074,Eff Emmd!,3,,73,,,Mono,4,,74,,,,
+D075,DiscoPhonic,3,,74,,,Mono,4,,75,,,,
+D076,Moany,3,,75,,,Mono,4,,76,,,,
+D077,MiniDuke Solo,3,,76,,,Mono,4,,77,,,,
+D078,FictionGuitar,3,,77,,,Mono,4,,78,,,,
+D079,Autobahn,3,,78,,,Mono,4,,79,jh,Joerg Huettner,6,Autobahn      jh
+D080,MoogSolo,3,,79,,,Mono,4,,80,HS,Howard Scarr,6,MoogSolo      HS
+D081,LA-Pipe,3,,80,,,Lead,4,,81,HS,Howard Scarr,7,LA-Pipe       HS
+D082,Clinics,3,,81,,,Lead,4,,82,WMF,Wolfram Franke,6,Clinics      WMF
+D083,Attacke,3,,82,,,Arp,4,,83,WMF,Wolfram Franke,6,Attacke      WMF
+D084,Expensive2,3,,83,,,Arp,4,,84,WMF,Wolfram Franke,3,Expensive2   WMF
+D085,ZZ-you,3,,84,,,Arp,4,,85,,,,
+D086,Juanita,3,,85,,,Arp,4,,86,T,Tsching (Holger Steinbrink),8,Juanita        T
+D087,Ricochet2008,3,,86,,,Arp,4,,87,SCD,Something Completely Different (Boele Gerkes),1,Ricochet2008 SCD
+D088,Spiffing,3,,87,,,Arp,4,,88,,,,
+D089,StarSoldiers,3,,88,,,Arp,4,,89,,,,
+D090,Slow Pop,3,,89,,,Arp,4,,90,,,,
+D091,Space Arp 1,3,,90,,,Arp,4,,91,,,,
+D092,Space Arp 2,3,,91,,,Arp,4,,92,,,,
+D093,Goonraker,3,,92,,,Arp,4,,93,DocT,Stefan Trippler,3,Goonraker   DocT
+D094,Sierra Velone,3,,93,,,Arp,4,,94,,,,
+D095,Selbstlaeufer,3,,94,,,Arp,4,,95,T,Tsching (Holger Steinbrink),2,Selbstlaeufer  T
+D096,GeeGaGooQ,3,,95,,,Arp,4,,96,WMF,Wolfram Franke,4,GeeGaGooQ    WMF
+D097,PassPortament,3,,96,,,Arp,4,,97,,,,
+D098,cARPet,3,,97,,,Arp,4,,98,T,Tsching (Holger Steinbrink),9,cARPet         T
+D099,DeluXaflex,3,,98,,,Arp,4,,99,RJ,Unknown (RJ),4,DeluXaflex    RJ
+D100,E-Motion,3,,99,,,Arp,4,,100,,,,
+D101,AthmoDrops,3,,100,,,Arp,4,,101,,,,
+D102,1DrunkenStenz,3,,101,,,Arp,4,,102,,,,
+D103,Weirdo FX,3,,102,,,Arp,4,,103,,,,
+D104,Solaris,3,,103,,,Atmo,4,,104,,,,
+D105,SoundScapes 1,3,,104,,,Atmo,4,,105,,,,
+D106,Spektrum Pad,3,,105,,,Atmo,4,,106,,,,
+D107,Sphere,3,,106,,,Atmo,4,,107,,,,
+D108,Spitzbergen,3,,107,,,Atmo,4,,108,,,,
+D109,Stratosphere,3,,108,,,Atmo,4,,109,,,,
+D110,Swiss Atmo,3,,109,,,Atmo,4,,110,,,,
+D111,The 5th Atmo,3,,110,,,Atmo,4,,111,,,,
+D112,The Fog,3,,111,,,Atmo,4,,112,,,,
+D113,The Year 3000,3,,112,,,Atmo,4,,113,,,,
+D114,Thin Ice,3,,113,,,Atmo,4,,114,,,,
+D115,ThrillerOrgan,3,,114,,,Atmo,4,,115,,,,
+D116,Tire-Guy,3,,115,,,Atmo,4,,116,,,,
+D117,TschingHisCan,3,,116,,,Atmo,4,,117,,,,
+D118,Upstream,3,,117,,,Atmo,4,,118,,,,
+D119,ValeyPad,3,,118,,,Atmo,4,,119,,,,
+D120,Vanilla Sky,3,,119,,,Atmo,4,,120,,,,
+D121,Orthanc,3,,120,,,Atmo,4,,121,,,,
+D122,Lettland,3,,121,,,Atmo,4,,122,,,,
+D123,Wartofsky,3,,122,,,Pad,4,,123,T,Tsching (Holger Steinbrink),6,Wartofsky      T
+D124,Wavescapes 1,3,,123,,,Pad,4,,124,,,,
+D125,Wavescapes 2,3,,124,,,Pad,4,,125,,,,
+D126,Wavescapes 3,3,,125,,,Pad,4,,126,,,,
+D127,WideWarmWash,3,,126,,,Pad,4,,127,WMF,Wolfram Franke,1,WideWarmWash WMF
+D128,The Carpet,3,,127,,,Pad,4,,128,,,,
+E001,With Love,4,,0,,,Pad,5,,1,WMF,Wolfram Franke,4,With Love    WMF
+E002,ScaramangAtmo,4,,1,,,Atmo,5,,2,T,Tsching (Holger Steinbrink),2,ScaramangAtmo  T
+E003,Handy,4,,2,,,Arp,5,,3,H2SCD,Hans Herooms & Something Completely Different (Boele Gerkes),6,Handy      H2SCD
+E004,Angels Cry,4,,3,,,Pad,5,,4,JL,Juho Lepisto,4,Angels Cry    JL
+E005,Chorus,4,,4,,,Pad,5,,5,WMF,Wolfram Franke,7,Chorus       WMF
+E006,ModWheelOrgan,4,,5,,,Keys,5,,6,SCD,Something Completely Different (Boele Gerkes),0,ModWheelOrganSCD
+E007,SyncMush,4,,6,,,Poly,5,,7,DocT,Stefan Trippler,4,SyncMush    DocT
+E008,Yummi,4,,7,,,Bass,5,,8,DocT,Stefan Trippler,7,Yummi       DocT
+E009,Pussy Galore,4,,8,,,Poly,5,,9,T,Tsching (Holger Steinbrink),3,Pussy Galore   T
+E010,Clinics,4,,9,,,Lead,5,,10,WMF,Wolfram Franke,6,Clinics      WMF
+E011,CtrlAltDel,4,,10,,,Lead,5,,11,DocT,Stefan Trippler,2,CtrlAltDel  DocT
+E012,Tines&Bars,4,,11,,,Keys,5,,12,WMF,Wolfram Franke,3,Tines&Bars   WMF
+E013,Unstable,4,,12,,,Lead,5,,13,DocT,Stefan Trippler,4,Unstable    DocT
+E014,Deepspace 9,4,,13,,,Pad,5,,14,ST,Unknown (ST),3,Deepspace 9   ST
+E015,DrivingLicns,4,,14,,,Lead,5,,15,DocT,Stefan Trippler,0,DrivingLicnsDocT
+E016,FlangedHeaven,4,,15,,,Arp,5,,16,SCD,Something Completely Different (Boele Gerkes),0,FlangedHeavenSCD
+E017,Heaven,4,,16,,,Pad,5,,17,JL,Juho Lepisto,8,Heaven        JL
+E018,"Hmm, lecker",4,,17,,,Pad,5,,18,WMF,Wolfram Franke,2,"Hmm, lecker  WMF"
+E019,Horse Trip,4,,18,,,Arp,5,,19,SCD,Something Completely Different (Boele Gerkes),3,Horse Trip   SCD
+E020,Inversion,4,,19,,,Atmo,5,,20,DocT,Stefan Trippler,3,Inversion   DocT
+E021,JMX vs. DeLeon,4,,20,,,Poly,5,,21,,,,
+E022,LA Woman,4,,21,,,Keys,5,,22,H2SCD,Hans Herooms & Something Completely Different (Boele Gerkes),3,LA Woman   H2SCD
+E023,Minor Chords,4,,22,,,Seq,5,,23,,,,
+E024,MoogSolo 2,4,,23,,,Mono,5,,24,,,,
+E025,OhMyLord,4,,24,,,Keys,5,,25,DocT,Stefan Trippler,4,OhMyLord    DocT
+E026,PPG Bells,4,,25,,,Poly,5,,26,WMF,Wolfram Franke,4,PPG Bells    WMF
+E027,PPGesus,4,,26,,,Pad,5,,27,SCD,Something Completely Different (Boele Gerkes),6,PPGesus      SCD
+E028,Quadratur,4,,27,,,Lead,5,,28,DocT,Stefan Trippler,3,Quadratur   DocT
+E029,RingmodFart,4,,28,,,FX,5,,29,SCD,Something Completely Different (Boele Gerkes),2,RingmodFart  SCD
+E030,Schnoerkelos,4,,29,,,Lead,5,,30,DocT,Stefan Trippler,0,SchnoerkelosDocT
+E031,Schulze?,4,,30,,,Arp,5,,31,SCD,Something Completely Different (Boele Gerkes),5,Schulze?     SCD
+E032,shArp,4,,31,,,Arp,5,,32,DocT,Stefan Trippler,7,shArp       DocT
+E033,Space Echo,4,,32,,,Keys,5,,33,SCD,Something Completely Different (Boele Gerkes),3,Space Echo   SCD
+E034,Synthline,4,,33,,,Pad,5,,34,JL,Juho Lepisto,5,Synthline     JL
+E035,Taken!,4,,34,,,Arp,5,,35,SCD,Something Completely Different (Boele Gerkes),7,Taken!       SCD
+E036,TouchyBugger,4,,35,,,Bass,5,,36,DocT,Stefan Trippler,0,TouchyBuggerDocT
+E037,UpperWarp,4,,36,,,Arp,5,,37,SCD,Something Completely Different (Boele Gerkes),4,UpperWarp    SCD
+E038,WhatYouSay?,4,,37,,,Poly,5,,38,SCD,Something Completely Different (Boele Gerkes),2,WhatYouSay?  SCD
+E039,WT mess,4,,38,,,Poly,5,,39,SCD,Something Completely Different (Boele Gerkes),5,WT mess     SCD
+E040,10VoicePS3100,4,,39,,,Poly,5,,40,SCD,Something Completely Different (Boele Gerkes),0,10VoicePS3100SCD
+E041,ArcoStrings,4,,40,,,Pad,5,,41,TEK,"Till ""QWave"" Kopper",2,ArcoStrings  TEK
+E042,Blocked,4,,41,,,Keys,5,,42,SCD,Something Completely Different (Boele Gerkes),6,Blocked      SCD
+E043,Blolitzer,4,,42,,,Keys,5,,43,SCD,Something Completely Different (Boele Gerkes),4,Blolitzer    SCD
+E044,BloodyFeld,4,,43,,,Keys,5,,44,SCD,Something Completely Different (Boele Gerkes),3,BloodyFeld   SCD
+E045,BloSync,4,,44,,,Lead,5,,45,DocT,Stefan Trippler,5,BloSync     DocT
+E046,Blovachord,4,,45,,,Pad,5,,46,SCD,Something Completely Different (Boele Gerkes),3,Blovachord   SCD
+E047,Boele Keys,4,,46,,,Keys,5,,47,SCD,Something Completely Different (Boele Gerkes),3,Boele Keys   SCD
+E048,Bonker Bass,4,,47,,,Bass,5,,48,ST,Unknown (ST),3,Bonker Bass   ST
+E049,Camel Saw,4,,48,,,FX,5,,49,DocT,Stefan Trippler,3,Camel Saw   DocT
+E050,Cream S+H,4,,49,,,FX,5,,50,SCD,Something Completely Different (Boele Gerkes),4,Cream S+H    SCD
+E051,CS4O RingMod,4,,50,,,Mono,5,,51,,,,
+E052,DalaiDelayMa,4,,51,,,Arp,5,,52,SCD,Something Completely Different (Boele Gerkes),1,DalaiDelayMa SCD
+E053,Dirty Organ,4,,52,,,Keys,5,,53,SCD,Something Completely Different (Boele Gerkes),2,Dirty Organ  SCD
+E054,Dr.Blo,4,,53,,,Arp,5,,54,DocT,Stefan Trippler,6,Dr.Blo      DocT
+E055,Driven,4,,54,,,Bass,5,,55,DocT,Stefan Trippler,6,Driven      DocT
+E056,Euro Clubber,4,,55,,,Lead,5,,56,ST,Unknown (ST),2,Euro Clubber  ST
+E057,Flangelized,4,,56,,,Keys,5,,57,SCD,Something Completely Different (Boele Gerkes),2,Flangelized  SCD
+E058,Funky Bass,4,,57,,,Bass,5,,58,JL,Juho Lepisto,4,Funky Bass    JL
+E059,Goldfinger Pad,4,,58,,,Pad,5,,59,T,Tsching (Holger Steinbrink),1,Goldfinger Pad T
+E060,HardSaw,4,,59,,,Lead,5,,60,ST,Unknown (ST),7,HardSaw       ST
+E061,Heimweh,4,,60,,,Atmo,5,,61,DocT,Stefan Trippler,5,Heimweh     DocT
+E062,Honey House,4,,61,,,Bass,5,,62,,,,
+E063,Horny Bass,4,,62,,,Bass,5,,63,ST,Unknown (ST),4,Horny Bass    ST
+E064,HP PPG,4,,63,,,Pad,5,,64,SCD,Something Completely Different (Boele Gerkes),7,HP PPG       SCD
+E065,Hyper,4,,64,,,Lead,5,,65,DocT,Stefan Trippler,7,Hyper       DocT
+E066,I'm Evil,4,,65,,,Bass,5,,66,WMF,Wolfram Franke,5,I'm Evil     WMF
+E067,Infinitesima,4,,66,,,Atmo,5,,67,DocT,Stefan Trippler,0,InfinitesimaDocT
+E068,Jankorgel,4,,67,,,Mono,5,,68,SCD,Something Completely Different (Boele Gerkes),4,Jankorgel    SCD
+E069,Leading,4,,68,,,Mono,5,,69,SCD,Something Completely Different (Boele Gerkes),6,Leading      SCD
+E070,Maximum Zorin,4,,69,,,Atmo,5,,70,T,Tsching (Holger Steinbrink),2,Maximum Zorin  T
+E071,MeetInTheSky,4,,70,,,Pad,5,,71,SCD,Something Completely Different (Boele Gerkes),1,MeetInTheSky SCD
+E072,Meridian,4,,71,,,Keys,5,,72,DocT,Stefan Trippler,4,Meridian    DocT
+E073,Messing,4,,72,,,Poly,5,,73,DocT,Stefan Trippler,5,Messing     DocT
+E074,Minimal Bass,4,,73,,,Bass,5,,74,JL,Juho Lepisto,1,Minimal Bass JL
+E075,Morph Bass,4,,74,,,Bass,5,,75,ST,Unknown (ST),4,Morph Bass    ST
+E076,Moving,4,,75,,,Pad,5,,76,SCD,Something Completely Different (Boele Gerkes),7,Moving       SCD
+E077,NearlyInTune,4,,76,,,Atmo,5,,77,SCD,Something Completely Different (Boele Gerkes),1,NearlyInTune SCD
+E078,Neocrest,4,,77,,,Pad,5,,78,ST,Unknown (ST),6,Neocrest      ST
+E079,Octopussy Pad,4,,78,,,Pad,5,,79,T,Tsching (Holger Steinbrink),2,Octopussy Pad  T
+E080,Organella,4,,79,,,Keys,5,,80,,,,
+E081,Partyhupe,4,,80,,,Lead,5,,81,ST,Unknown (ST),5,Partyhupe     ST
+E082,Pastry,4,,81,,,Atmo,5,,82,DocT,Stefan Trippler,6,Pastry      DocT
+E083,Persecutor,4,,82,,,Bass,5,,83,DocT,Stefan Trippler,2,Persecutor  DocT
+E084,Phalanx,4,,83,,,Pad,5,,84,ST,Unknown (ST),7,Phalanx       ST
+E085,Pick It Up!,4,,84,,,Poly,5,,85,SCD,Something Completely Different (Boele Gerkes),2,Pick It Up!  SCD
+E086,Pienzchen,4,,85,,,Poly,5,,86,DocT,Stefan Trippler,3,Pienzchen   DocT
+E087,Pigs X-Mod,4,,86,,,Poly,5,,87,TEK,"Till ""QWave"" Kopper",3,Pigs X-Mod   TEK
+E088,PlainBass,4,,87,,,Bass,5,,88,DocT,Stefan Trippler,3,PlainBass   DocT
+E089,PolterBlofeld,4,,88,,,FX,5,,89,SCD,Something Completely Different (Boele Gerkes),0,PolterBlofeldSCD
+E090,Poly Lead,4,,89,,,Lead,5,,90,SCD,Something Completely Different (Boele Gerkes),4,Poly Lead    SCD
+E091,PPG Piano,4,,90,,,Keys,5,,91,SCD,Something Completely Different (Boele Gerkes),4,PPG Piano    SCD
+E092,PPG T40 like,4,,91,,,Bass,5,,92,TEK,"Till ""QWave"" Kopper",1,PPG T40 like TEK
+E093,PredictaBass,4,,92,,,Bass,5,,93,WMF,Wolfram Franke,1,PredictaBass WMF
+E094,Pressure,4,,93,,,Keys,5,,94,DocT,Stefan Trippler,4,Pressure    DocT
+E095,Principia,4,,94,,,FX,5,,95,DocT,Stefan Trippler,3,Principia   DocT
+E096,Pure,4,,95,,,Poly,5,,96,DocT,Stefan Trippler,8,Pure        DocT
+E097,Reset,4,,96,,,Lead,5,,97,DocT,Stefan Trippler,7,Reset       DocT
+E098,Ricochet2008,4,,97,,,Arp,5,,98,SCD,Something Completely Different (Boele Gerkes),1,Ricochet2008 SCD
+E099,RingThemBells,4,,98,,,FX,5,,99,SCD,Something Completely Different (Boele Gerkes),0,RingThemBellsSCD
+E100,Robotic,4,,99,,,Pad,5,,100,JL,Juho Lepisto,7,Robotic       JL
+E101,Saw Orgy,4,,100,,,Pad,5,,101,SCD,Something Completely Different (Boele Gerkes),5,Saw Orgy     SCD
+E102,Seq 1,4,,101,,,Arp,5,,102,SCD,Something Completely Different (Boele Gerkes),8,Seq 1        SCD
+E103,Seven Ties,4,,102,,,Keys,5,,103,SCD,Something Completely Different (Boele Gerkes),3,Seven Ties   SCD
+E104,S&Hatmo,4,,103,,,Atmo,5,,104,,,,
+E105,Sobstuff,4,,104,,,Atmo,5,,105,DocT,Stefan Trippler,4,Sobstuff    DocT
+E106,Soft Brass 2,4,,105,,,Poly,5,,106,DocT,Stefan Trippler,0,Soft Brass 2DocT
+E107,SpatialDrive1,4,,106,,,Arp,5,,107,SCD,Something Completely Different (Boele Gerkes),0,SpatialDrive1SCD
+E108,SpatialDrive2,4,,107,,,Arp,5,,108,SCD,Something Completely Different (Boele Gerkes),0,SpatialDrive2SCD
+E109,Stenzelized,4,,108,,,Poly,5,,109,SCD,Something Completely Different (Boele Gerkes),2,Stenzelized  SCD
+E110,Stop Bass,4,,109,,,Arp,5,,110,SCD,Something Completely Different (Boele Gerkes),4,Stop Bass    SCD
+E111,SunOfTheDogs,4,,110,,,Atmo,5,,111,WMF,Wolfram Franke,1,SunOfTheDogs WMF
+E112,Supersaw,4,,111,,,Lead,5,,112,ST,Unknown (ST),6,Supersaw      ST
+E113,Tabloid,4,,112,,,Pad,5,,113,DocT,Stefan Trippler,5,Tabloid     DocT
+E114,Telenovela,4,,113,,,Poly,5,,114,DocT,Stefan Trippler,2,Telenovela  DocT
+E115,Thrill Arp,4,,114,,,Arp,5,,115,SCD,Something Completely Different (Boele Gerkes),3,Thrill Arp   SCD
+E116,Utmost,4,,115,,,Lead,5,,116,DocT,Stefan Trippler,6,Utmost      DocT
+E117,Variator,4,,116,,,Arp,5,,117,DocT,Stefan Trippler,4,Variator    DocT
+E118,Wave Mayhem,4,,117,,,Atmo,5,,118,DocT,Stefan Trippler,1,Wave Mayhem DocT
+E119,WavEpiano,4,,118,,,Keys,5,,119,SCD,Something Completely Different (Boele Gerkes),4,WavEpiano    SCD
+E120,West Wave,4,,119,,,Arp,5,,120,H2SCD,Hans Herooms & Something Completely Different (Boele Gerkes),2,West Wave  H2SCD
+E121,AfterConcert,4,,120,,,FX,5,,121,SCD,Something Completely Different (Boele Gerkes),1,AfterConcert SCD
+E122,AnalogBass,4,,121,,,Bass,5,,122,SCD,Something Completely Different (Boele Gerkes),3,AnalogBass   SCD
+E123,Barbarie Brass,4,,122,,,Poly,5,,123,ST,Unknown (ST),0,Barbarie BrassST
+E124,Basster Keaton,4,,123,,,Bass,5,,124,,,,
+E125,Bend Me,4,,124,,,FX,5,,125,DocT,Stefan Trippler,5,Bend Me     DocT
+E126,Bioshock,4,,125,,,Pad,5,,126,JL,Juho Lepisto,6,Bioshock      JL
+E127,Blubber,4,,126,,,FX,5,,127,TEK,"Till ""QWave"" Kopper",6,Blubber      TEK
+E128,Diving Echos,4,,127,,,FX,5,,128,TEK,"Till ""QWave"" Kopper",1,Diving Echos TEK
+F001,Flups Bass,5,,0,,,Bass,6,,1,ST,Unknown (ST),4,Flups Bass    ST
+F002,Goonraker,5,,1,,,Arp,6,,2,DocT,Stefan Trippler,3,Goonraker   DocT
+F003,microQ Plus,5,,2,,,Poly,6,,3,,,,
+F004,MiniMoogThnd,5,,3,,,FX,6,,4,TEK,"Till ""QWave"" Kopper",1,MiniMoogThnd TEK
+F005,Octa Bass,5,,4,,,Bass,6,,5,ST,Unknown (ST),5,Octa Bass     ST
+F006,Porno Bass,5,,5,,,Bass,6,,6,ST,Unknown (ST),4,Porno Bass    ST
+F007,ReSolotion,5,,6,,,Mono,6,,7,WMF,Wolfram Franke,3,ReSolotion   WMF
+F008,Roadies Keyb,5,,7,,,Keys,6,,8,TEK,"Till ""QWave"" Kopper",1,Roadies Keyb TEK
+F009,Spynett,5,,8,,,Keys,6,,9,DocT,Stefan Trippler,5,Spynett     DocT
+F010,Tines,5,,9,,,Poly,6,,10,DocT,Stefan Trippler,7,Tines       DocT
+F011,Velo Drive,5,,10,,,Arp,6,,11,SCD,Something Completely Different (Boele Gerkes),3,Velo Drive   SCD
+F012,Vangelibells,5,,11,,,Atmo,6,,12,SCD,Something Completely Different (Boele Gerkes),1,Vangelibells SCD
+F013,Bellflutes,5,,12,,,Keys,6,,13,,,,
+F014,Bellissimo,5,,13,,,Keys,6,,14,,,,
+F015,Bells'E.Piano,5,,14,,,Keys,6,,15,RZ,Unknown (RZ),1,Bells'E.Piano RZ
+F016,Cheap Organ,5,,15,,,Keys,6,,16,,,,
+F017,Chorgany,5,,16,,,Keys,6,,17,SK,Unknown (SK),6,Chorgany      SK
+F018,Combuder Orgs,5,,17,,,Keys,6,,18,SK,Unknown (SK),1,Combuder Orgs SK
+F019,Crunge Organ,5,,18,,,Keys,6,,19,SK,Unknown (SK),2,Crunge Organ  SK
+F020,DeepHouse,5,,19,,,Keys,6,,20,SK,Unknown (SK),5,DeepHouse     SK
+F021,Dirty Organ1,5,,20,,,Keys,6,,21,WMF,Wolfram Franke,1,Dirty Organ1 WMF
+F022,Driven Keys,5,,21,,,Keys,6,,22,,,,
+F023,Dull Bells,5,,22,,,Keys,6,,23,,,,
+F024,DX-ClassiQ,5,,23,,,Keys,6,,24,HS,Howard Scarr,4,DX-ClassiQ    HS
+F025,DX-Pipe,5,,24,,,Keys,6,,25,HS,Howard Scarr,7,DX-Pipe       HS
+F026,Easy Piano,5,,25,,,Keys,6,,26,HS,Howard Scarr,4,Easy Piano    HS
+F027,ElectricOrgan,5,,26,,,Keys,6,,27,,,,
+F028,ElectricPiano,5,,27,,,Keys,6,,28,,,,
+F029,Fat Sine Keys,5,,28,,,Keys,6,,29,,,,
+F030,FM KeysMelody,5,,29,,,Keys,6,,30,,,,
+F031,FM Roads,5,,30,,,Keys,6,,31,,,,
+F032,Full Organ,5,,31,,,Keys,6,,32,HS,Howard Scarr,4,Full Organ    HS
+F033,Glockenspiel,5,,32,,,Keys,6,,33,,,,
+F034,GS-Piano,5,,33,,,Keys,6,,34,HS,Howard Scarr,6,GS-Piano      HS
+F035,Harpsi,5,,34,,,Keys,6,,35,HS,Howard Scarr,8,Harpsi        HS
+F036,Hippy Freuds,5,,35,,,Keys,6,,36,HS,Howard Scarr,2,Hippy Freuds  HS
+F037,House,5,,36,,,Keys,6,,37,HM,Hubertus Maas,9,House         HM
+F038,Jazz Creeper,5,,37,,,Keys,6,,38,HS,Howard Scarr,2,Jazz Creeper  HS
+F039,LA-Pipe,5,,38,,,Lead,6,,39,HS,Howard Scarr,7,LA-Pipe       HS
+F040,LoFi Organ,5,,39,,,Keys,6,,40,SK,Unknown (SK),4,LoFi Organ    SK
+F041,Lounge Morph,5,,40,,,Keys,6,,41,HS,Howard Scarr,2,Lounge Morph  HS
+F042,Lower Steam,5,,41,,,Keys,6,,42,HS,Howard Scarr,3,Lower Steam   HS
+F043,Marimboid,5,,42,,,Keys,6,,43,HS,Howard Scarr,5,Marimboid     HS
+F044,Modern House,5,,43,,,Keys,6,,44,SK,Unknown (SK),2,Modern House  SK
+F045,Modern Keys,5,,44,,,Keys,6,,45,,,,
+F046,Noise Toys,5,,45,,,Keys,6,,46,HS,Howard Scarr,4,Noise Toys    HS
+F047,Ode to Joy,5,,46,,,Keys,6,,47,HS,Howard Scarr,4,Ode to Joy    HS
+F048,Oil Well,5,,47,,,Keys,6,,48,,,,
+F049,Organ #2,5,,48,,,Keys,6,,49,S,Stefan Stenzel,7,Organ #2       S
+F050,Quad-Square,5,,49,,,Keys,6,,50,,,,
+F051,Reso Organ,5,,50,,,Keys,6,,51,,,,
+F052,ResOrgan,5,,51,,,Keys,6,,52,SK,Unknown (SK),6,ResOrgan      SK
+F053,Rhodos Corso,5,,52,,,Keys,6,,53,WMF,Wolfram Franke,1,Rhodos Corso WMF
+F054,RhodosFlango,5,,53,,,Keys,6,,54,WMF,Wolfram Franke,1,RhodosFlango WMF
+F055,Rodesque,5,,54,,,Keys,6,,55,HS,Howard Scarr,6,Rodesque      HS
+F056,Schwebend,5,,55,,,Keys,6,,56,jh,Joerg Huettner,5,Schwebend     jh
+F057,Shed,5,,56,,,Keys,6,,57,HM,Hubertus Maas,9,Shed          HM
+F058,Sick FM,5,,57,,,Keys,6,,58,SK,Unknown (SK),7,Sick FM       SK
+F059,SpaceChimes,5,,58,,,Keys,6,,59,SK,Unknown (SK),3,SpaceChimes   SK
+F060,The Oily Way,5,,59,,,Keys,6,,60,HS,Howard Scarr,2,The Oily Way  HS
+F061,Thin Organ,5,,60,,,Keys,6,,61,HS,Howard Scarr,4,Thin Organ    HS
+F062,Troubadour,5,,61,,,Keys,6,,62,,,,
+F063,Wartz Piano1,5,,62,,,Keys,6,,63,HM,Hubertus Maas,2,Wartz Piano1  HM
+F064,Wooden E,5,,63,,,Keys,6,,64,WMF,Wolfram Franke,5,Wooden E     WMF
+F065,Wurlitzer104b,5,,64,,,Keys,6,,65,HM,Hubertus Maas,1,Wurlitzer104b HM
+F066,Yamlitzer,5,,65,,,Keys,6,,66,,,,
+F067,7th Sense,5,,66,,,Poly,6,,67,SK,Unknown (SK),5,7th Sense     SK
+F068,80sFM Analog,5,,67,,,Poly,6,,68,SK,Unknown (SK),2,80sFM Analog  SK
+F069,Aggreppo,5,,68,,,Poly,6,,69,T,Tsching (Holger Steinbrink),7,Aggreppo       T
+F070,Analog Lute,5,,69,,,Poly,6,,70,HS,Howard Scarr,3,Analog Lute   HS
+F071,Analog Quest,5,,70,,,Poly,6,,71,SK,Unknown (SK),2,Analog Quest  SK
+F072,Aphazing,5,,71,,,Poly,6,,72,SK,Unknown (SK),6,Aphazing      SK
+F073,Bell like,5,,72,,,Poly,6,,73,RZ,Unknown (RZ),5,Bell like     RZ
+F074,BestOfThe80s,5,,73,,,Poly,6,,74,T,Tsching (Holger Steinbrink),3,BestOfThe80s   T
+F075,Blakes 7 Str,5,,74,,,Poly,6,,75,AT,Unknown (AT),2,Blakes 7 Str  AT
+F076,B-Lead,5,,75,,,Poly,6,,76,SK,Unknown (SK),8,B-Lead        SK
+F077,Bounty Synth,5,,76,,,Poly,6,,77,,,,
+F078,Brass Comp,5,,77,,,Poly,6,,78,HM,Hubertus Maas,4,Brass Comp    HM
+F079,Brass-lead,5,,78,,,Poly,6,,79,SCD,Something Completely Different (Boele Gerkes),3,Brass-lead   SCD
+F080,Brassy House,5,,79,,,Poly,6,,80,SK,Unknown (SK),2,Brassy House  SK
+F081,Bright Sync,5,,80,,,Poly,6,,81,,,,
+F082,Brownies,5,,81,,,Poly,6,,82,WMF,Wolfram Franke,5,Brownies     WMF
+F083,CareFull,5,,82,,,Poly,6,,83,RZ,Unknown (RZ),6,CareFull      RZ
+F084,Caspoly,5,,83,,,Poly,6,,84,WMF,Wolfram Franke,6,Caspoly      WMF
+F085,Chamber High,5,,84,,,Poly,6,,85,HS,Howard Scarr,2,Chamber High  HS
+F086,Chamber Low,5,,85,,,Poly,6,,86,HS,Howard Scarr,3,Chamber Low   HS
+F087,Chord-Hose,5,,86,,,Poly,6,,87,T,Tsching (Holger Steinbrink),5,Chord-Hose     T
+F088,Chord Revival,5,,87,,,Poly,6,,88,SK,Unknown (SK),1,Chord Revival SK
+F089,Classic Dance,5,,88,,,Poly,6,,89,,,,
+F090,Classic Synth,5,,89,,,Poly,6,,90,,,,
+F091,Clavinetro,5,,90,,,Poly,6,,91,jh,Joerg Huettner,4,Clavinetro    jh
+F092,Clock&Bells,5,,91,,,Poly,6,,92,RZ,Unknown (RZ),3,Clock&Bells   RZ
+F093,Combi Saws,5,,92,,,Poly,6,,93,SK,Unknown (SK),4,Combi Saws    SK
+F094,Compromise K,5,,93,,,Poly,6,,94,HM,Hubertus Maas,2,Compromise K  HM
+F095,Concertino,5,,94,,,Poly,6,,95,SCD,Something Completely Different (Boele Gerkes),3,Concertino   SCD
+F096,Cool Porta,5,,95,,,Poly,6,,96,HM,Hubertus Maas,4,Cool Porta    HM
+F097,Crawlers,5,,96,,,Poly,6,,97,SK,Unknown (SK),6,Crawlers      SK
+F098,Crispy Saw,5,,97,,,Poly,6,,98,SK,Unknown (SK),4,Crispy Saw    SK
+F099,CyberLeader,5,,98,,,Poly,6,,99,SK,Unknown (SK),3,CyberLeader   SK
+F100,Dawn Organ,5,,99,,,Poly,6,,100,,,,
+F101,Deep Synth,5,,100,,,Poly,6,,101,DK,Dirk Krause,4,Deep Synth    DK
+F102,Delead It!,5,,101,,,Poly,6,,102,SK,Unknown (SK),4,Delead It!    SK
+F103,DirtyLead,5,,102,,,Poly,6,,103,SK,Unknown (SK),5,DirtyLead     SK
+F104,D-NoiZer,5,,103,,,Poly,6,,104,SK,Unknown (SK),6,D-NoiZer      SK
+F105,DollarBells,5,,104,,,Poly,6,,105,ugh,Uwe G. Hoenig,2,DollarBells  ugh
+F106,Dr. Motte,5,,105,,,Poly,6,,106,T,Tsching (Holger Steinbrink),6,Dr. Motte      T
+F107,Energee!,5,,106,,,Poly,6,,107,SK,Unknown (SK),6,Energee!      SK
+F108,Enough Power,5,,107,,,Poly,6,,108,T,Tsching (Holger Steinbrink),3,Enough Power   T
+F109,EthnoPerc,5,,108,,,Poly,6,,109,SK,Unknown (SK),5,EthnoPerc     SK
+F110,Euro-Zeichen,5,,109,,,Poly,6,,110,HS,Howard Scarr,2,Euro-Zeichen  HS
+F111,ExploreChords,5,,110,,,Poly,6,,111,SK,Unknown (SK),1,ExploreChords SK
+F112,Fat 8-Osc,5,,111,,,Poly,6,,112,SK,Unknown (SK),5,Fat 8-Osc     SK
+F113,Filigrano,5,,112,,,Poly,6,,113,SK,Unknown (SK),5,Filigrano     SK
+F114,FilterFM Keys,5,,113,,,Poly,6,,114,,,,
+F115,FloorFilla,5,,114,,,Poly,6,,115,SK,Unknown (SK),4,FloorFilla    SK
+F116,FM Chords,5,,115,,,Poly,6,,116,SK,Unknown (SK),5,FM Chords     SK
+F117,FM Melodies,5,,116,,,Poly,6,,117,,,,
+F118,FMod Saws,5,,117,,,Poly,6,,118,SK,Unknown (SK),5,FMod Saws     SK
+F119,FM-sono Saw,5,,118,,,Poly,6,,119,,,,
+F120,French,5,,119,,,Poly,6,,120,RZ,Unknown (RZ),8,French        RZ
+F121,Fun Man,5,,120,,,Poly,6,,121,,,,
+F122,Gated 80's,5,,121,,,Poly,6,,122,,,,
+F123,Gattaca,5,,122,,,Poly,6,,123,SK,Unknown (SK),7,Gattaca       SK
+F124,Gimme Five!,5,,123,,,Poly,6,,124,SK,Unknown (SK),3,Gimme Five!   SK
+F125,Glitter Power,5,,124,,,Poly,6,,125,HS,Howard Scarr,1,Glitter Power HS
+F126,Good Air,5,,125,,,Poly,6,,126,SK,Unknown (SK),6,Good Air      SK
+F127,High Sequence,5,,126,,,Poly,6,,127,jh,Joerg Huettner,1,High Sequence jh
+F128,HitMeQuick!,5,,127,,,Poly,6,,128,SK,Unknown (SK),3,HitMeQuick!   SK
+G001,Human Touch,6,,0,,,Poly,7,,1,SK,Unknown (SK),3,Human Touch   SK
+G002,Ice Bells,6,,1,,,Poly,7,,2,SK,Unknown (SK),5,Ice Bells     SK
+G003,Illbient Mind,6,,2,,,Poly,7,,3,,,,
+G004,It's Digital,6,,3,,,Poly,7,,4,,,,
+G005,Jembala,6,,4,,,Poly,7,,5,WMF,Wolfram Franke,6,Jembala      WMF
+G006,JMX jun.,6,,5,,,Poly,7,,6,,,,
+G007,Juno Soul,6,,6,,,Poly,7,,7,DK,Dirk Krause,5,Juno Soul     DK
+G008,KlingKlang'02,6,,7,,,Poly,7,,8,jh,Joerg Huettner,1,KlingKlang'02 jh
+G009,La Sirena,6,,8,,,Poly,7,,9,SK,Unknown (SK),5,La Sirena     SK
+G010,Late Ring,6,,9,,,Poly,7,,10,HS,Howard Scarr,5,Late Ring     HS
+G011,Leadrunner,6,,10,,,Poly,7,,11,,,,
+G012,Legal Resins,6,,11,,,Poly,7,,12,HS,Howard Scarr,2,Legal Resins  HS
+G013,LikeClinics,6,,12,,,Poly,7,,13,WMF,Wolfram Franke,2,LikeClinics  WMF
+G014,Liquid Mel,6,,13,,,Poly,7,,14,WMF,Wolfram Franke,3,Liquid Mel   WMF
+G015,Liquid Var,6,,14,,,Poly,7,,15,WMF,Wolfram Franke,3,Liquid Var   WMF
+G016,LoFi 1oscPoly,6,,15,,,Poly,7,,16,,,,
+G017,LoFi Lead,6,,16,,,Poly,7,,17,WMF,Wolfram Franke,4,LoFi Lead    WMF
+G018,Minor Chord,6,,17,,,Poly,7,,18,RZ,Unknown (RZ),3,Minor Chord   RZ
+G019,Modulizer,6,,18,,,Poly,7,,19,SK,Unknown (SK),5,Modulizer     SK
+G020,Move Sound,6,,19,,,Poly,7,,20,,,,
+G021,My Ol' House,6,,20,,,Poly,7,,21,SK,Unknown (SK),2,My Ol' House  SK
+G022,Net Profit,6,,21,,,Poly,7,,22,HS,Howard Scarr,4,Net Profit    HS
+G023,Neu * Utz,6,,22,,,Poly,7,,23,HM,Hubertus Maas,5,Neu * Utz     HM
+G024,NewClassicLd,6,,23,,,Poly,7,,24,SK,Unknown (SK),2,NewClassicLd  SK
+G025,No. 5 lives,6,,24,,,Poly,7,,25,T,Tsching (Holger Steinbrink),4,No. 5 lives    T
+G026,OB-One Knobi,6,,25,,,Poly,7,,26,HS,Howard Scarr,2,OB-One Knobi  HS
+G027,OBX Purple5,6,,26,,,Poly,7,,27,PROX,ProXenos,1,OBX Purple5 PROX
+G028,Old * Uck,6,,27,,,Poly,7,,28,HM,Hubertus Maas,5,Old * Uck     HM
+G029,Organistic,6,,28,,,Poly,7,,29,SK,Unknown (SK),4,Organistic    SK
+G030,Papathanasiou,6,,29,,,Poly,7,,30,,,,
+G031,Patagonia,6,,30,,,Poly,7,,31,HS,Howard Scarr,5,Patagonia     HS
+G032,PEG Horns,6,,31,,,Poly,7,,32,HM,Hubertus Maas,5,PEG Horns     HM
+G033,Phased FM,6,,32,,,Poly,7,,33,SK,Unknown (SK),5,Phased FM     SK
+G034,Play It Sam!,6,,33,,,Poly,7,,34,jh,Joerg Huettner,2,Play It Sam!  jh
+G035,Poly Flutes,6,,34,,,Poly,7,,35,HS,Howard Scarr,3,Poly Flutes   HS
+G036,PolySequencer,6,,35,,,Poly,7,,36,,,,
+G037,PowerLead,6,,36,,,Poly,7,,37,WMF,Wolfram Franke,4,PowerLead    WMF
+G038,Harp,6,,37,,,Poly,7,,38,,,,
+G039,PPG Nylons,6,,38,,,Poly,7,,39,PROX,ProXenos,2,PPG Nylons  PROX
+G040,Pure Keys,6,,39,,,Poly,7,,40,,,,
+G041,PWMaster,6,,40,,,Poly,7,,41,SK,Unknown (SK),6,PWMaster      SK
+G042,Qazzio,6,,41,,,Poly,7,,42,HS,Howard Scarr,8,Qazzio        HS
+G043,Qddicted!,6,,42,,,Poly,7,,43,SK,Unknown (SK),5,Qddicted!     SK
+G044,Qtronix,6,,43,,,Poly,7,,44,ugh,Uwe G. Hoenig,6,Qtronix      ugh
+G045,Quake FM,6,,44,,,Poly,7,,45,SK,Unknown (SK),6,Quake FM      SK
+G046,Quintage,6,,45,,,Poly,7,,46,T,Tsching (Holger Steinbrink),7,Quintage       T
+G047,Quinter 007,6,,46,,,Poly,7,,47,SK,Unknown (SK),3,Quinter 007   SK
+G048,RaveLover,6,,47,,,Poly,7,,48,SK,Unknown (SK),5,RaveLover     SK
+G049,Really Insane,6,,48,,,Poly,7,,49,,,,
+G050,Romeo,6,,49,,,Poly,7,,50,DK,Dirk Krause,9,Romeo         DK
+G051,RoundTheHorn,6,,50,,,Poly,7,,51,HS,Howard Scarr,2,RoundTheHorn  HS
+G052,SawTheLight,6,,51,,,Poly,7,,52,SK,Unknown (SK),3,SawTheLight   SK
+G053,Sax And Dregs,6,,52,,,Poly,7,,53,,,,
+G054,Schubduese,6,,53,,,Poly,7,,54,T,Tsching (Holger Steinbrink),5,Schubduese     T
+G055,ShatterWaves,6,,54,,,Poly,7,,55,SK,Unknown (SK),2,ShatterWaves  SK
+G056,Siegessaeule,6,,55,,,Poly,7,,56,T,Tsching (Holger Steinbrink),3,Siegessaeule   T
+G057,Simple Melo,6,,56,,,Poly,7,,57,jh,Joerg Huettner,3,Simple Melo   jh
+G058,Smash It!,6,,57,,,Poly,7,,58,SK,Unknown (SK),5,Smash It!     SK
+G059,Solo Harp,6,,58,,,Poly,7,,59,,,,
+G060,Speed,6,,59,,,Poly,7,,60,,,,
+G061,Spice,6,,60,,,Poly,7,,61,SK,Unknown (SK),9,Spice         SK
+G062,Spring Clean,6,,61,,,Poly,7,,62,,,,
+G063,Stabs!,6,,62,,,Poly,7,,63,,,,
+G064,Stack with you,6,,63,,,Poly,7,,64,,,,
+G065,SteaLead,6,,64,,,Poly,7,,65,SK,Unknown (SK),6,SteaLead      SK
+G066,String Poly,6,,65,,,Poly,7,,66,HS,Howard Scarr,3,String Poly   HS
+G067,String Thing,6,,66,,,Poly,7,,67,HS,Howard Scarr,2,String Thing  HS
+G068,Stuermer 1,6,,67,,,Poly,7,,68,WMF,Wolfram Franke,3,Stuermer 1   WMF
+G069,Stylotub,6,,68,,,Poly,7,,69,SK,Unknown (SK),6,Stylotub      SK
+G070,SyncCity,6,,69,,,Poly,7,,70,,,,
+G071,Synchronic,6,,70,,,Poly,7,,71,SK,Unknown (SK),4,Synchronic    SK
+G072,SynthPiano,6,,71,,,Poly,7,,72,SK,Unknown (SK),4,SynthPiano    SK
+G073,Synth X,6,,72,,,Poly,7,,73,,,,
+G074,Tea @ Eight,6,,73,,,Poly,7,,74,HS,Howard Scarr,3,Tea @ Eight   HS
+G075,Tech.Lead 1,6,,74,,,Poly,7,,75,,,,
+G076,Tech.Lead 2,6,,75,,,Poly,7,,76,,,,
+G077,TelephoneSyn,6,,76,,,Poly,7,,77,ugh,Uwe G. Hoenig,1,TelephoneSyn ugh
+G078,Telepromter,6,,77,,,Poly,7,,78,ugh,Uwe G. Hoenig,2,Telepromter  ugh
+G079,The Big 80s,6,,78,,,Poly,7,,79,,,,
+G080,The Cutter,6,,79,,,Poly,7,,80,SK,Unknown (SK),4,The Cutter    SK
+G081,Titanomania,6,,80,,,Poly,7,,81,SK,Unknown (SK),3,Titanomania   SK
+G082,TranceHarp,6,,81,,,Poly,7,,82,HM,Hubertus Maas,4,TranceHarp    HM
+G083,Trance Plant,6,,82,,,Poly,7,,83,HS,Howard Scarr,2,Trance Plant  HS
+G084,Trancer,6,,83,,,Poly,7,,84,SK,Unknown (SK),7,Trancer       SK
+G085,TrashCan!,6,,84,,,Poly,7,,85,SK,Unknown (SK),5,TrashCan!     SK
+G086,TributeTo DX,6,,85,,,Poly,7,,86,WMF,Wolfram Franke,1,TributeTo DX WMF
+G087,Tron Flutes,6,,86,,,Poly,7,,87,HM,Hubertus Maas,3,Tron Flutes   HM
+G088,Tsching Lead,6,,87,,,Poly,7,,88,T,Tsching (Holger Steinbrink),3,Tsching Lead   T
+G089,TuBerkel,6,,88,,,Poly,7,,89,DK,Dirk Krause,6,TuBerkel      DK
+G090,Typ Reso,6,,89,,,Poly,7,,90,RZ,Unknown (RZ),6,Typ Reso      RZ
+G091,UltraFatPoly,6,,90,,,Poly,7,,91,WMF,Wolfram Franke,1,UltraFatPoly WMF
+G092,UltraSynC,6,,91,,,Poly,7,,92,jh,Joerg Huettner,5,UltraSynC     jh
+G093,UltraWave,6,,92,,,Poly,7,,93,SK,Unknown (SK),5,UltraWave     SK
+G094,Unisono Bass,6,,93,,,Poly,7,,94,DK,Dirk Krause,2,Unisono Bass  DK
+G095,Utopia!,6,,94,,,Poly,7,,95,SK,Unknown (SK),7,Utopia!       SK
+G096,VeloFreak,6,,95,,,Poly,7,,96,jh,Joerg Huettner,5,VeloFreak     jh
+G097,Vintage Days,6,,96,,,Poly,7,,97,SK,Unknown (SK),2,Vintage Days  SK
+G098,VintageSpring,6,,97,,,Poly,7,,98,WMF,Wolfram Franke,0,VintageSpringWMF
+G099,Vitalica,6,,98,,,Poly,7,,99,SK,Unknown (SK),6,Vitalica      SK
+G100,Wank,6,,99,,,Poly,7,,100,WMF,Wolfram Franke,9,Wank         WMF
+G101,Wank Lead,6,,100,,,Poly,7,,101,WMF,Wolfram Franke,4,Wank Lead    WMF
+G102,Wanna Noise??,6,,101,,,Poly,7,,102,jh,Joerg Huettner,1,Wanna Noise?? jh
+G103,Warm PWM Lead,6,,102,,,Poly,7,,103,SK,Unknown (SK),1,Warm PWM Lead SK
+G104,Warm Verse,6,,103,,,Poly,7,,104,,,,
+G105,WaveLayer,6,,104,,,Poly,7,,105,SK,Unknown (SK),5,WaveLayer     SK
+G106,Wells'Tripod,6,,105,,,Poly,7,,106,WMF,Wolfram Franke,1,Wells'Tripod WMF
+G107,YourChords,6,,106,,,Poly,7,,107,SK,Unknown (SK),4,YourChords    SK
+G108,Zapper,6,,107,,,Poly,7,,108,SK,Unknown (SK),8,Zapper        SK
+G109,Zawichords,6,,108,,,Poly,7,,109,HS,Howard Scarr,4,Zawichords    HS
+G110,Zing Thing,6,,109,,,Poly,7,,110,HS,Howard Scarr,4,Zing Thing    HS
+G111,Zippy 2,6,,110,,,Poly,7,,111,HM,Hubertus Maas,7,Zippy 2       HM
+G112,Zombie Nation,6,,111,,,Poly,7,,112,T,Tsching (Holger Steinbrink),2,Zombie Nation  T
+G113,50s Pad,6,,112,,,Pad,7,,113,,,,
+G114,Airpad,6,,113,,,Pad,7,,114,,,,
+G115,AirSpacePad,6,,114,,,Pad,7,,115,SK,Unknown (SK),3,AirSpacePad   SK
+G116,AmbientSweep,6,,115,,,Pad,7,,116,SK,Unknown (SK),2,AmbientSweep  SK
+G117,Analog Pad 1,6,,116,,,Pad,7,,117,,,,
+G118,Analog Pad 2,6,,117,,,Pad,7,,118,,,,
+G119,Analog Pad 3,6,,118,,,Pad,7,,119,,,,
+G120,Angel Pad,6,,119,,,Pad,7,,120,,,,
+G121,Antarktis Pad,6,,120,,,Pad,7,,121,jh,Joerg Huettner,1,Antarktis Pad jh
+G122,Archangel,6,,121,,,Pad,7,,122,,,,
+G123,Attacke,6,,122,,,Pad,7,,123,WMF,Wolfram Franke,6,Attacke      WMF
+G124,BackStrings,6,,123,,,Pad,7,,124,WMF,Wolfram Franke,2,BackStrings  WMF
+G125,Bandpad,6,,124,,,Pad,7,,125,ugh,Uwe G. Hoenig,6,Bandpad      ugh
+G126,BandSpass,6,,125,,,Pad,7,,126,,,,
+G127,Bend Pad,6,,126,,,Pad,7,,127,,,,
+G128,Big Bad Pad,6,,127,,,Pad,7,,128,,,,
+H001,Captain Kirk,7,,0,,,FX,8,,1,,,,
+H002,ChopperSweep,7,,1,,,FX,8,,2,,,,
+H003,ComputerGames,7,,2,,,FX,8,,3,,,,
+H004,Cyber Farm,7,,3,,,FX,8,,4,,,,
+H005,DCS3 Bubbles,7,,4,,,FX,8,,5,,,,
+H006,Duck Lambada,7,,5,,,FX,8,,6,,,,
+H007,EffEmmEffIxx,7,,6,,,FX,8,,7,,,,
+H008,Fade FX.,7,,7,,,FX,8,,8,,,,
+H009,Final Choice,7,,8,,,FX,8,,9,,,,
+H010,FlangedNoise,7,,9,,,FX,8,,10,WMF,Wolfram Franke,1,FlangedNoise WMF
+H011,Flangeplosion,7,,10,,,FX,8,,11,WMF,Wolfram Franke,0,FlangeplosionWMF
+H012,Flying Teapot,7,,11,,,FX,8,,12,,,,
+H013,FM Comb FX,7,,12,,,FX,8,,13,,,,
+H014,FM Noises,7,,13,,,FX,8,,14,,,,
+H015,Gastrology,7,,14,,,FX,8,,15,,,,
+H016,HawaiGlider,7,,15,,,FX,8,,16,,,,
+H017,Into Mouth,7,,16,,,FX,8,,17,,,,
+H018,LFO  Speeddwn,7,,17,,,FX,8,,18,,,,
+H019,LFO  Speedup,7,,18,,,FX,8,,19,,,,
+H020,LilaBells,7,,19,,,FX,8,,20,,,,
+H021,Living Water,7,,20,,,FX,8,,21,,,,
+H022,LosAngeles2019,7,,21,,,FX,8,,22,,,,
+H023,Maschinenraum,7,,22,,,FX,8,,23,,,,
+H024,Newtronic,7,,23,,,FX,8,,24,,,,
+H025,Noise Move,7,,24,,,FX,8,,25,,,,
+H026,NoiseSlapper,7,,25,,,FX,8,,26,,,,
+H027,NoRobotsHere,7,,26,,,FX,8,,27,,,,
+H028,Power Down,7,,27,,,FX,8,,28,,,,
+H029,Q Wars,7,,28,,,FX,8,,29,,,,
+H030,Reverse-ecioV,7,,29,,,FX,8,,30,,,,
+H031,RingDaBell,7,,30,,,FX,8,,31,,,,
+H032,Ring Steps,7,,31,,,FX,8,,32,,,,
+H033,Rise&Fall,7,,32,,,FX,8,,33,,,,
+H034,Robotalk =:b,7,,33,,,FX,8,,34,,,,
+H035,Score FX Pad,7,,34,,,FX,8,,35,,,,
+H036,Shoot Goose!,7,,35,,,FX,8,,36,,,,
+H037,Shore,7,,36,,,FX,8,,37,,,,
+H038,Short Moment,7,,37,,,FX,8,,38,,,,
+H039,Shot Tool,7,,38,,,FX,8,,39,,,,
+H040,Sine Down,7,,39,,,FX,8,,40,,,,
+H041,Skywalker,7,,40,,,FX,8,,41,,,,
+H042,SubSineSweep,7,,41,,,FX,8,,42,WMF,Wolfram Franke,1,SubSineSweep WMF
+H043,The Assault,7,,42,,,FX,8,,43,,,,
+H044,The BORG,7,,43,,,FX,8,,44,,,,
+H045,Thunderain,7,,44,,,FX,8,,45,,,,
+H046,ThunderDrums,7,,45,,,FX,8,,46,,,,
+H047,Tron Ring Game,7,,46,,,FX,8,,47,,,,
+H048,Tuxedosun,7,,47,,,FX,8,,48,,,,
+H049,Why?,7,,48,,,FX,8,,49,,,,
+H050,Wind Athmo,7,,49,,,FX,8,,50,,,,
+H051,WipeOut,7,,50,,,FX,8,,51,,,,
+H052,ZischDeep,7,,51,,,FX,8,,52,,,,
+H053,Agogo Scrape,7,,52,,,Perc,8,,53,,,,
+H054,All Thumbs,7,,53,,,Perc,8,,54,,,,
+H055,AnalogBongo 1,7,,54,,,Perc,8,,55,,,,
+H056,Analog HH op,7,,55,,,Perc,8,,56,,,,
+H057,AnalogStick 1,7,,56,,,Perc,8,,57,,,,
+H058,Bass Drum,7,,57,,,Drum,8,,58,WMF,Wolfram Franke,4,Bass Drum    WMF
+H059,BD 90ies Drum,7,,58,,,Perc,8,,59,,,,
+H060,BD 808 @ 2002,7,,59,,,Perc,8,,60,,,,
+H061,BD analg80ies,7,,60,,,Perc,8,,61,,,,
+H062,BD analog 02,7,,61,,,Perc,8,,62,,,,
+H063,BD analog 03,7,,62,,,Perc,8,,63,,,,
+H064,BD AnalogRand,7,,63,,,Perc,8,,64,,,,
+H065,BD Club 01,7,,64,,,Perc,8,,65,,,,
+H066,BD Deep Zap,7,,65,,,Perc,8,,66,,,,
+H067,BD Disto 808,7,,66,,,Perc,8,,67,,,,
+H068,BD DoorSlam,7,,67,,,Perc,8,,68,,,,
+H069,BD Hardcore,7,,68,,,Perc,8,,69,,,,
+H070,BD HighKick,7,,69,,,Perc,8,,70,,,,
+H071,BD On Stage,7,,70,,,Perc,8,,71,,,,
+H072,BD Plock!,7,,71,,,Perc,8,,72,,,,
+H073,BD Smack It!,7,,72,,,Perc,8,,73,,,,
+H074,BD SpectroZap,7,,73,,,Perc,8,,74,,,,
+H075,BD SubDrum,7,,74,,,Perc,8,,75,,,,
+H076,BD Woof&Pock,7,,75,,,Perc,8,,76,,,,
+H077,BD ZapDrum,7,,76,,,Perc,8,,77,,,,
+H078,Bended Metal,7,,77,,,Perc,8,,78,,,,
+H079,Brush HH,7,,78,,,Perc,8,,79,,,,
+H080,Clap 01,7,,79,,,Perc,8,,80,,,,
+H081,Clap 03,7,,80,,,Perc,8,,81,,,,
+H082,Clap 04,7,,81,,,Perc,8,,82,,,,
+H083,ClapsMuehle,7,,82,,,Perc,8,,83,,,,
+H084,Deep Bell,7,,83,,,Perc,8,,84,,,,
+H085,DivX Pad,7,,84,,,Pad,8,,85,,,,
+H086,DoubleHHclose,7,,85,,,Perc,8,,86,,,,
+H087,Dry BD,7,,86,,,Perc,8,,87,,,,
+H088,Dry BD 2,7,,87,,,Perc,8,,88,,,,
+H089,FM HHcl,7,,88,,,Perc,8,,89,,,,
+H090,FM HHop,7,,89,,,Perc,8,,90,,,,
+H091,HammerBell,7,,90,,,Perc,8,,91,,,,
+H092,HH closed 01,7,,91,,,Perc,8,,92,,,,
+H093,HH closed 02,7,,92,,,Perc,8,,93,,,,
+H094,HH closed 03,7,,93,,,Perc,8,,94,,,,
+H095,HH closed 04,7,,94,,,Perc,8,,95,,,,
+H096,HH closed 05,7,,95,,,Perc,8,,96,,,,
+H097,HH closed 06,7,,96,,,Perc,8,,97,,,,
+H098,HH closed 08,7,,97,,,Perc,8,,98,,,,
+H099,HH closed 09,7,,98,,,Perc,8,,99,,,,
+H100,HH open 01,7,,99,,,Perc,8,,100,,,,
+H101,HH open 02,7,,100,,,Perc,8,,101,,,,
+H102,HH open 03,7,,101,,,Perc,8,,102,,,,
+H103,HH open 06,7,,102,,,Perc,8,,103,,,,
+H104,HH open 07,7,,103,,,Perc,8,,104,,,,
+H105,HH open 08,7,,104,,,Perc,8,,105,,,,
+H106,High PulseZap,7,,105,,,Perc,8,,106,,,,
+H107,PPG Zaps,7,,106,,,Perc,8,,107,,,,
+H108,Punchy SN,7,,107,,,Perc,8,,108,,,,
+H109,Q-La Shaker,7,,108,,,Perc,8,,109,,,,
+H110,Skellington,7,,109,,,Perc,8,,110,,,,
+H111,SN NeoAnalog,7,,110,,,Perc,8,,111,,,,
+H112,SN Real Snare,7,,111,,,Perc,8,,112,,,,
+H113,SN RimSnare,7,,112,,,Perc,8,,113,,,,
+H114,SN SnAir ;-),7,,113,,,Perc,8,,114,,,,
+H115,SN Thinny,7,,114,,,Perc,8,,115,,,,
+H116,SN Zappada,7,,115,,,Perc,8,,116,,,,
+H117,SN ZapSnare,7,,116,,,Perc,8,,117,,,,
+H118,Surrr,7,,117,,,Perc,8,,118,,,,
+H119,Tombola 1,7,,118,,,Perc,8,,119,,,,
+H120,TR66 Hihat,7,,119,,,Drum,8,,120,WMF,Wolfram Franke,3,TR66 Hihat   WMF
+H121,Various Metal,7,,120,,,Perc,8,,121,,,,
+H122,Woodpicker,7,,121,,,Perc,8,,122,,,,
+H123,Zap 1,7,,122,,,Perc,8,,123,,,,
+H124,Zap 2,7,,123,,,Perc,8,,124,,,,
+H125,Zap BD,7,,124,,,Perc,8,,125,,,,
+H126,Zappy :),7,,125,,,Perc,8,,126,,,,
+H127,Zap Stick,7,,126,,,Perc,8,,127,,,,
+H128,Init,7,,127,,,Init,8,,128,,,,
