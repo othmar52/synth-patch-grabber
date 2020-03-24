@@ -1,9 +1,5 @@
 #!/bin/env python3
 
-# pip install websocket-client
-# pip install ffmpeg-normalize
-# pip install pyaudio
-
 
 import logging
 import time
@@ -25,12 +21,10 @@ from MidiOutWrapper import MidiOutWrapper
 from NoteSequenceChooser import NoteSequenceChooser
 from Recorder import Recorder
 
-async def main():
-    logging.basicConfig(level=logging.INFO)
 
-    # for debugging purposes
-    limitPatchesPerDevice = 0
-
+def getDeviceConfigs(deviceIdentifier=""):
+    # TODO read from separate yaml file
+    # TODO validate configuration for missing/invalid values and for uniqueness property "uniquePrefix"
     deviceConfigs = [
         {
             "uniquePrefix": "tb3",
@@ -167,44 +161,29 @@ async def main():
         #}
     ]
 
+    if deviceIdentifier == "":
+        return deviceConfigs
 
+    foundIdentifiers = []
+    for deviceConfig in deviceConfigs:
+        if deviceConfig["uniquePrefix"] == deviceIdentifier:
+            return [deviceConfig]
+        foundIdentifiers.append(deviceConfig["uniquePrefix"])
 
+    raise ValueError(
+        'configuration for "%s" not found.\n valid identifiers are %s' % (
+            deviceIdentifier,
+            ', '.join(foundIdentifiers)
+        )
+    )
 
+async def main():
+    logging.basicConfig(level=logging.INFO)
 
-    devXXXiceConfigs = [
-        {
-            "patchConfType": "csv",
-            "uniquePrefix": "mkf",
-            "vendor": "KORG",
-            "model": "MicroKORG",
-            "yearOfConstruction": 2000,
-            "patchSetName": "Factory",
-            "midiPort": 3,
-            "midiChannel": 6,
-            "csvPath": "csv/patchlist/KORG - MicroKORG.csv"
-        }
-    ]
-
-    deviceCXXXXonfigs = [
-        {
-            "uniquePrefix": "mkc",
-            "vendor": "KORG",
-            "model": "MicroKORG",
-            "yearOfConstruction": 2000,
-            "patchConfType": "video-csv",
-            "patchSetName": "Cuckoo",
-            "midiPort": 3,
-            "midiChannel": 6,
-            "csvPath": "csv/patchlist/KORG - MicroKORG (Cuckoo Patches).csv",
-            "video": {
-                "path": "util/MicroKORG-Cuckoo-Patches/128 NEW microKorg patches-UeiKJdvcync.webm",
-                "col-start": "yt-startsecond",
-                "col-end": "yt-endsecond",
-                "delta-start": 0.2
-            }
-        }
-    ]
+    # for debugging purposes
     limitPatchesPerDevice = 2
+
+    deviceConfigs = getDeviceConfigs()
 
 
     midiout = rtmidi.MidiOut()
