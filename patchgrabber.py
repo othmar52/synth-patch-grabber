@@ -185,15 +185,8 @@ async def main():
 
     deviceConfigs = getDeviceConfigs()
 
-
     midiout = rtmidi.MidiOut()
-
     rec = Recorder()
-
-    #yyy = asyncio.create_task(
-    #    rec.listen()
-    #)
-    #await asyncio.gather(yyy)
 
     # start recorder thread
     recorderThread = threading.Thread(target=rec.listen)
@@ -203,15 +196,14 @@ async def main():
     for deviceConfig in deviceConfigs:
         device = MidiControllableSoundDevice(deviceConfig, limitPatchesPerDevice)
 
-        patchJsonPaths = {}
-
-        audioSampleDir = Path("./output/%s/%s/%s" % (device.vendor, device.model, device.patchSetName))
-        rmtree(audioSampleDir, ignore_errors=True)
-        audioSampleDir.mkdir(parents=True, exist_ok=True)
-
+        rmtree(device.audioSampleDir, ignore_errors=True)
+        device.audioSampleDir.mkdir(parents=True, exist_ok=True)
 
         midiout.open_port(int(device.midiPort))
         mWrapper = MidiOutWrapper(midiout, ch=int(device.midiChannel))
+
+        success = False
+        wav2Mp3 = True
         for soundPatch in device.soundPatches:
             if device.patchConfType == "video-csv":
 
@@ -225,26 +217,21 @@ async def main():
                     soundPatch.video['endSecond'],
                     device.video["path"]
                 )
-                targetFilePath = "%s/%s.mp3" % ( str(audioSampleDir), soundPatch.fileName )
 
                 extractAudioFromTo(
                     device.video["path"],
                     soundPatch.video['startSecond'],
                     soundPatch.video['endSecond'],
-                    targetFilePath
+                    soundPatch.samplePath
                 )
 
-                soundPatch.samplePath = targetFilePath
-                soundPatch.duration = detectDuration(targetFilePath)
-
                 # we temporary need a wav file to create a waveform
-                tmpWav = targetFilePath + '.wav'
-                convertMp3ToWav(targetFilePath, tmpWav)
-                soundPatch.wavPeaks = getWaveformValues(tmpWav)
-                os.unlink(tmpWav)
+                convertMp3ToWav(soundPatch.samplePath, soundPatch.tempWavPath)
+                # but will not reconvert it back to mp3 as we already have a mp3
+                wav2Mp3 = False
 
-                soundPatch.persistJson(audioSampleDir)
-                patchJsonPaths['%s-%s' % ( device.uniquePrefix, soundPatch.displayname)] = targetFilePath + '.json'
+                success = True
+
             else:
                 print(
                     device.vendor,
@@ -280,7 +267,7 @@ async def main():
                 #task2 = asyncio.create_task(
                 #    noteSender.sendSequences()
                 #)
-                
+
                 results = await asyncio.gather(
                     rec.arm(),
                     noteSender.sendSequences(),
@@ -291,23 +278,30 @@ async def main():
                 #yy = await task1
                 
                 if rec.getRecordingResult() == None or not os.path.isfile(rec.getRecordingResult()):
-                    logging.warning( "TODO: log failed recording of %s %s %s" % ( device.model, soundPatch.displayname, soundPatch.patchname))
+                    success = False
                 else:
-                    targetFilePathWav = "%s/%s.wav" % ( str(audioSampleDir), soundPatch.fileName )
-                    targetFilePathMp3 = "%s/%s.mp3" % ( str(audioSampleDir), soundPatch.fileName )
-                    await awaitMoveFile(rec.getRecordingResult(), targetFilePathWav )
-                    normalizeWav(str(targetFilePathWav))
-                    convertWavToMp3(targetFilePathWav, targetFilePathMp3, 320)
-                    soundPatch.wavPeaks = getWaveformValues(targetFilePathWav)
-                    os.unlink(str(targetFilePathWav))
-                    soundPatch.samplePath = targetFilePathMp3
-                    soundPatch.duration = detectDuration(targetFilePathMp3)
-                    soundPatch.persistJson(audioSampleDir)
-                    patchJsonPaths['%s-%s' % ( device.uniquePrefix, soundPatch.displayname)] = targetFilePathMp3 + '.json'
+                    await awaitMoveFile(rec.getRecordingResult(), soundPatch.tempWavPath )
+                    success = True
 
                 rec.unarm()
                 del noteSender
-        device.persistJson('%s/00-device.json' % str(audioSampleDir),  patchJsonPaths)
+
+            if not success:
+                logging.warning( "TODO: log failed recording of %s %s %s" % ( device.model, soundPatch.displayname, soundPatch.patchname))
+                continue
+
+            if wav2Mp3:
+                normalizeWav(soundPatch.tempWavPath)
+                convertWavToMp3(soundPatch.tempWavPath, soundPatch.samplePath, 320)
+
+            soundPatch.duration = detectDuration(soundPatch.samplePath)
+            soundPatch.wavPeaks = getWaveformValues(soundPatch.tempWavPath)
+
+            os.unlink(str(soundPatch.tempWavPath))
+            soundPatch.persistJson()
+            device.patchJsonPaths[soundPatch.uniqueIdentifier] = str(soundPatch.jsonPath)
+
+        device.persistJson()
         midiout.close_port()
 
     #recorderThread.exit()
@@ -359,7 +353,7 @@ def convertMp3ToWav(inputPath, outputPath):
 
 def normalizeWav(inputFilePath):
     cmd = [
-        'normalize', '--peak', inputFilePath
+        'normalize', '--peak', str(inputFilePath)
     ]
     generalCmd(cmd, 'normalize wav (peak)')
 
@@ -448,6 +442,12 @@ def recalculateToRange(inputList, limit=640):
 
     return result
 
+'''
+    this function does not record any samples but checks all csv based properties
+    and updates the json with metadata in case it exists
+'''
+def updateFromCsv():
+    deviceConfig = getDeviceConfigs()
 
 if __name__ == "__main__":
     #main()
