@@ -26,12 +26,20 @@ class SoundPatch:
         self.notes = []
         self.video = {
             'startSecond': 0,
-            'endSecond': 0
+            'endSecond': 0,
+            'path': ''
         }
         self.digitakt = {
             'bank': "",
             'sbnk': "",
             'programchange': ""
+        }
+
+        self.device = {
+            'vendor': device.vendor,
+            'model': device.model,
+            'patchSetName': device.patchSetName,
+            'patchConfType': device.patchConfType
         }
 
         if not csvDict:
@@ -49,10 +57,17 @@ class SoundPatch:
 
         # split chars ar '/' and ','
         self.categories = re.split(r"[\/,]+", self.categories)
+        # remove empty string items
+        self.categories = [string for string in self.categories if string != '']
+
         self.samplePath = Path("%s/%s.mp3" % ( str(device.audioSampleDir), self.cleanFileName() ) )
         self.jsonPath = "%s.json" % str(self.samplePath)
         self.tempWavPath = "%s.wav" % str(self.samplePath)
         self.uniqueIdentifier = '%s-%s' % ( device.uniquePrefix, self.displayname)
+        try:
+            self.video['path'] = device.video['path']
+        except KeyError:
+            pass
 
         
 
@@ -78,7 +93,28 @@ class SoundPatch:
         }
         with open(str(self.jsonPath), 'w') as jsonFile:
             json.dump(patchDict, jsonFile, indent=2)
-        
+
+
+    def whoAreYou(self):
+        params = [
+            self.device['vendor'],
+            self.device['model'],
+            self.device['patchSetName'],
+            self.displayname,
+            self.patchname,
+        ]
+        if self.device['patchConfType'] == "video-csv":
+            params.extend([
+                str(self.video['startSecond']),
+                str(self.video['endSecond']),
+                self.video["path"]
+            ])
+        else:
+            params.extend([
+                'msb:', str(self.msb),
+                'pc:', str(self.programchange)
+            ])
+        return ' '.join(params)
 
 
 class MidiControllableSoundDevice:

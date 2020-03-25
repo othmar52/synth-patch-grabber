@@ -205,19 +205,8 @@ async def main():
         success = False
         wav2Mp3 = True
         for soundPatch in device.soundPatches:
+            print(soundPatch.whoAreYou())
             if device.patchConfType == "video-csv":
-
-                print(
-                    device.vendor,
-                    device.model,
-                    device.patchSetName,
-                    soundPatch.displayname,
-                    soundPatch.patchname,
-                    soundPatch.video['startSecond'],
-                    soundPatch.video['endSecond'],
-                    device.video["path"]
-                )
-
                 extractAudioFromTo(
                     device.video["path"],
                     soundPatch.video['startSecond'],
@@ -233,15 +222,6 @@ async def main():
                 success = True
 
             else:
-                print(
-                    device.vendor,
-                    device.model,
-                    device.patchSetName,
-                    soundPatch.displayname,
-                    soundPatch.patchname,
-                    str(soundPatch.msb),
-                    str(soundPatch.programchange)
-                )
                 # fire MIDI bank select and program change
                 bankSelectArgs = { 'msb': int(soundPatch.msb) }
                 if soundPatch.lsb:
@@ -273,9 +253,6 @@ async def main():
                     noteSender.sendSequences(),
                     rec.getRecordingResultAsync()
                 )
-
-                #xx = await task2
-                #yy = await task1
                 
                 if rec.getRecordingResult() == None or not os.path.isfile(rec.getRecordingResult()):
                     success = False
