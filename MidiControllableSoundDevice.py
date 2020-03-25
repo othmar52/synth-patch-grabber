@@ -14,14 +14,14 @@ class SoundPatch:
         self.lsb = None
         self.programchange = None
         self.displayname = None
-        self.patchname = None
+        self.patchname = "Untitled"
         self.samplePath = None
         self.jsonPath = None
         self.tempWavPath = None
         self.creator = ""
         self.duration = 0
         self.polyphonic = False
-        self.categories = []
+        self.categories = ""
         self.wavPeaks = []
         self.notes = []
         self.video = {
@@ -46,6 +46,8 @@ class SoundPatch:
             return
         for key,value in csvDict.items():
             if hasattr(self, key):
+                if value == "":
+                    continue
                 self.__dict__[key] = value
 
             if key == 'digitakt-bank':
