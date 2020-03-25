@@ -17,10 +17,10 @@ import json
 from pathlib import Path
 from shutil import copyfile, move, rmtree
 
-from MidiControllableSoundDevice import MidiControllableSoundDevice
-from MidiOutWrapper import MidiOutWrapper
-from NoteSequenceChooser import NoteSequenceChooser
-from Recorder import Recorder
+from synthPatchGrabber.MidiOutWrapper import MidiOutWrapper
+from synthPatchGrabber.NoteSequenceChooser import NoteSequenceChooser
+from synthPatchGrabber.Recorder import Recorder
+from synthPatchGrabber.MidiControllableSoundDevice import MidiControllableSoundDevice
 
 
 def getDeviceConfigs(deviceIdentifier=""):
