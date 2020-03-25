@@ -2,6 +2,7 @@
 #!/bin/env python3
 
 import time
+import re
 import asyncio
 from random import random,randint
 
@@ -33,16 +34,42 @@ class NoteSequenceChooser:
     
         self.finishedAllSequences = True
 
+    '''
+        TODO improve decision which notes should be played
+        by searching for phrases in patchName and categories
+            "perc"    -> play very short notes as it often percussive
+            "bs,bass" -> play notes from the lower half
+            "poly"    -> play chords
+            "pad"     -> play long notes (and chords?)
+            ...
+    '''
     def generateSequence(self):
 
-        startNote = randint(40,55)
-        chordChoice = randint(0,4)
-        reverse = randint(0,1)
-        noteLength = 0.1 + randint(0,1) + random()
+        # the lowest note
+        startNote = self.chooseStartNote()
+
+        # time between noteOn and noteOff [seconds]
+        noteLength = self.chooseNoteLength()
+
+        # play 3 notes simultaneously
+        chordChoice = self.chooseChord()
+
+        # distance between chord notes ( only relevant if chordChoice > 0 )
+        noteStep = self.chooseNoteStep()
+
+        # time between noteOff and noteOn [seconds]
         pause = random()/4
-        maxSeqDuration = randint(3,5)
-        noteStep = randint(2,8)
+
+        # reverse the sequence?
+        reverse = randint(0,1)
+
+        # distance between the played notes/chords when triggering again
         increase = randint(2,7)
+
+        # maximum length [seconds] of fired notes
+        # (some sounds with reverb/delay/release will cause a longer audio sample)
+        maxSeqDuration = randint(3,5)
+
 
         seq = []
         seqDuration = 0
@@ -62,3 +89,39 @@ class NoteSequenceChooser:
         if reverse > 0:
             seq.reverse()
         return seq
+
+    def chooseStartNote(self):
+        if self.findPhrase("bass") == True:
+            return randint(30,40)
+
+        return randint(40,55)
+
+    def chooseNoteStep(self):
+        if self.findPhrase("bass") == True:
+            return randint(1,2)
+
+        return randint(2,8)
+
+    def chooseChord(self):
+        if self.findPhrase("bass") == True:
+            return 0
+
+        return randint(0,4)
+
+    def chooseNoteLength(self):
+        if self.findPhrase("kick") == True:
+            return 0.1 + randint(0,1)
+
+        if self.findPhrase("pad") == True:
+            return 1 + randint(1,2)
+
+        return 0.1 + randint(0,1) + random()
+
+    def findPhrase(self, term):
+        searchList = self.soundPatch.categories
+        searchList.append(self.soundPatch.patchname)
+        for strings in searchList:
+            if re.match(r''+term, strings, re.IGNORECASE):
+                return True
+
+        return False
