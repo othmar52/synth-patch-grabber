@@ -12,6 +12,7 @@ import asyncio
 import threading
 import wave
 import numpy as np
+import json
 
 from pathlib import Path
 from shutil import copyfile, move, rmtree
@@ -424,8 +425,29 @@ def recalculateToRange(inputList, limit=640):
     and updates the json with metadata in case it exists
 '''
 def updateFromCsv():
-    deviceConfig = getDeviceConfigs()
+    deviceConfigs = getDeviceConfigs()
+    for deviceConfig in deviceConfigs:
+        device = MidiControllableSoundDevice(deviceConfig)
+        if device.patchConfType != "csv" and device.patchConfType != "video-csv":
+            # only csv based sample properties makes sense here
+            continue
+
+        for soundPatch in device.soundPatches:
+            try:
+                with open(soundPatch.jsonPath, 'r') as jsonFile:
+                    oldJsonData = json.load(jsonFile)
+            except FileNotFoundError:
+                continue
+
+            # copy only properties that does not exist in the csv file
+            soundPatch.samplepath = oldJsonData['samplepath']
+            soundPatch.duration = oldJsonData['duration']
+            soundPatch.wavPeaks = oldJsonData['wavPeaks']
+            soundPatch.persistJson()
+    print("done")
+
 
 if __name__ == "__main__":
     #main()
+    #updateFromCsv()
     asyncio.run(main())
