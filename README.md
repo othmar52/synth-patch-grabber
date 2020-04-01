@@ -13,7 +13,7 @@ And finding themself in situations of switching through tons of presets/patches 
   * synthesizers, synthesizers, synthesizers... (the more, the better)
   * MIDI interface (output) for sending bankSelect, programChange, noteOn, noteOff events
   * audio interface for recording incoming audio produced by the synthesizers
-  * python3 with some additional packages (rtmidi, numpy, TODO:complete this list)
+  * python3 with some additional packages (rtmidi, numpy, pyaudio, asyncio, TODO:complete this list)
   * ffmpeg
   * ffprobe
   * some configuration for each connected synthesizer (midi channel, available banks, program change range,...)
