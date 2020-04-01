@@ -4,7 +4,6 @@
 import logging
 import time
 import rtmidi
-import subprocess
 import sys
 import re
 import os
@@ -29,7 +28,7 @@ async def main():
     logging.basicConfig(level=logging.INFO)
 
     # for debugging purposes
-    limitPatchesPerDevice = 2
+    limitPatchesPerDevice = 0
 
     deviceConfigs = getDeviceConfigs()
 
@@ -88,14 +87,6 @@ async def main():
                 # further we have to tell the notesender if we had been able to capture any audio
                 # because some soundpatches require different note length or key number to really produce sound
 
-
-                #task1 = asyncio.create_task(
-                #    rec.listen()
-                #)
-                #task2 = asyncio.create_task(
-                #    noteSender.sendSequences()
-                #)
-
                 results = await asyncio.gather(
                     rec.arm(),
                     noteSender.sendSequences(),
@@ -144,8 +135,10 @@ async def awaitMoveFile(sourcePath, targetPath):
 '''
 def updateFromCsv():
     deviceConfigs = getDeviceConfigs()
+    terminalWidth, terminalHeight = os.get_terminal_size()
     for deviceConfig in deviceConfigs:
         device = MidiControllableSoundDevice(deviceConfig)
+        device.persistJson()
         if device.patchConfType != "csv" and device.patchConfType != "video-csv":
             # only csv based sample properties makes sense here
             continue
@@ -153,9 +146,11 @@ def updateFromCsv():
         for soundPatch in device.soundPatches:
             try:
                 with open(soundPatch.jsonPath, 'r') as jsonFile:
-                    oldJsonData = json.load(jsonFile)
+                    oldJsonData = json.loads(jsonFile.read().replace('var sampleData = ', ''))
             except FileNotFoundError:
                 continue
+
+            print(soundPatch.whoAreYou(terminalWidth), end='\r', flush=True)
 
             # copy only properties that does not exist in the csv file
             soundPatch.samplepath = oldJsonData['samplepath']
@@ -165,7 +160,160 @@ def updateFromCsv():
     print("done")
 
 
+'''
+    currently only jsons gets generated
+    because there is no webgui yet
+'''
+def updateWebGui():
+    preCollect = {
+        'categories': {},
+        'devices': []
+    }
+
+    bigData = {
+        'jsonPaths': {},
+        'categories': {},
+        'devices': {},
+        'devicConf': {}
+    }
+    deviceConfigs = getDeviceConfigs()
+
+    # first run: collect all available 
+    for deviceConfig in deviceConfigs:
+        device = MidiControllableSoundDevice(deviceConfig)
+
+        preCollect['devices'].append(device.uniquePrefix)
+
+        for soundPatch in device.soundPatches:
+            try:
+                with open(soundPatch.jsonPath, 'r') as jsonFile:
+                    oldJsonData = json.loads(jsonFile.read().replace('var sampleData = ', ''))
+            except FileNotFoundError:
+                continue
+
+            bigData['jsonPaths'][oldJsonData['uniqueIdentifier']] = soundPatch.jsonPath
+            for cat in oldJsonData['categories']:
+                cat = normalizeCategory(cat)
+                preCollect['categories'][cat] = True
+
+
+    # 2nd run: create blacklist and whitelist vor everything
+
+    terminalWidth, terminalHeight = os.get_terminal_size()
+
+    for deviceConfig in deviceConfigs:
+        device = MidiControllableSoundDevice(deviceConfig)
+
+        try:
+            with open(device.jsonPath, 'r') as jsonFile:
+                deviceJsonData = json.load(jsonFile)
+                deviceJsonData['sampleJsonPaths'] = {}
+                bigData['devicConf'][ device.uniquePrefix ] = deviceJsonData
+        except FileNotFoundError:
+            continue
+
+        for soundPatch in device.soundPatches:
+            try:
+                with open(soundPatch.jsonPath, 'r') as jsonFile:
+                    oldJsonData = json.loads(jsonFile.read().replace('var sampleData = ', ''))
+            except FileNotFoundError:
+                continue
+            print(soundPatch.whoAreYou(terminalWidth), end='\r', flush=True)
+            sampleId = oldJsonData['uniqueIdentifier']
+
+            for key in preCollect['devices']:
+                if key not in bigData['devices']:
+                    bigData['devices'][key] = {
+                        'lengths': {
+                            'black': 0,
+                            'white': 0,
+                        },
+                        'black' : [],
+                        'white' : [],
+                        'all': {}
+                    }
+
+                if key == device.uniquePrefix:
+                    bigData['devices'][key]['white'].append(sampleId)
+                    bigData['devices'][key]['all'][sampleId] = "white"
+                    bigData['devices'][key]['lengths']['white'] += 1
+                else:
+                    bigData['devices'][key]['black'].append(sampleId)
+                    bigData['devices'][key]['all'][sampleId] = "black"
+                    bigData['devices'][key]['lengths']['black'] += 1
+
+
+            for value,key in enumerate(preCollect['categories']):
+                blackOrWhite = "black"
+                if key not in bigData['categories']:
+                    bigData['categories'][key] = {
+                        'lengths': {
+                            'black': 0,
+                            'white': 0,
+                        },
+                        'black' : [],
+                        'white' : [],
+                        'all': {}
+                    }
+                if len(oldJsonData['categories']) == 0:
+                    oldJsonData['categories'] = ['']
+
+                for cat in oldJsonData['categories']:
+                    if key == normalizeCategory(cat):
+                        blackOrWhite = "white"
+    
+                bigData['categories'][key][blackOrWhite].append(sampleId)
+                bigData['categories'][key]['all'][sampleId] = blackOrWhite
+                bigData['categories'][key]['lengths'][blackOrWhite] += 1
+
+
+    bigData['categories'] = resortCategories(bigData['categories'])
+
+
+    with open('output/bigData.json', 'w') as jsonFile:
+        jsonFile.write("let bigData = ")
+        json.dump(bigData, jsonFile, indent=2)
+
+    print("")
+    print("done")
+
+
+''' order by amount '''
+def resortCategories(inputDict):
+    totals = {}
+    for key,value in inputDict.items():
+        totals[key] = value['lengths']['white']
+
+    ordered = {k: v for k, v in sorted(totals.items(), key=lambda item: item[1], reverse=True)}
+
+    result = {}
+    for key,value in ordered.items():
+        result[key] = inputDict[key]
+
+    return result
+
+def normalizeCategory(inputString):
+    if inputString == '':
+        return 'None'
+    norm = {
+        'Keyboard': ['KBD', 'Keyboards', 'Keys'],
+        'Arpeggio': ['Arp'],
+        'Atmo': ['Background'],
+        'Input/Vocoder': ['Vocoder', 'Voice Like', 'Mic Input'],
+        'Lead': ['Synth Lead'],
+        'Pad': ['Pads'],
+        'None': ['Other']
+    }
+    for key, values in norm.items():
+        for value in values:
+            if inputString.lower() == value.lower():
+                return key
+
+    return inputString
+    
+
 if __name__ == "__main__":
     #main()
-    #updateFromCsv()
-    asyncio.run(main())
+    updateFromCsv()
+    updateWebGui()
+    #asyncio.run(main())

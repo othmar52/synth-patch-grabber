@@ -9,6 +9,7 @@ from pathlib import Path
 
 class SoundPatch:
     def __init__(self, device, csvDict=None):
+        self.devicePrefix = device.uniquePrefix
         self.uniqueIdentifier = ""
         self.msb = None
         self.lsb = None
@@ -60,7 +61,7 @@ class SoundPatch:
         # split chars ar '/' and ','
         self.categories = re.split(r"[\/,]+", self.categories)
         # remove empty string items
-        self.categories = [string for string in self.categories if string != '']
+        self.categories = [string.strip() for string in self.categories if string != '']
 
         self.samplePath = Path("%s/%s.mp3" % ( str(device.audioSampleDir), self.cleanFileName() ) )
         self.jsonPath = "%s.json" % str(self.samplePath)
@@ -80,6 +81,7 @@ class SoundPatch:
     # maybe its better to have a pool of MIDI-note files and persist just the reference!?
     def persistJson(self, noteSequence=[]):
         patchDict = {
+            'devicePrefix': self.devicePrefix,
             'uniqueIdentifier': self.uniqueIdentifier,
             'patchname': self.patchname,
             'displayname': self.displayname,
@@ -94,10 +96,11 @@ class SoundPatch:
             'wavPeaks': self.wavPeaks
         }
         with open(str(self.jsonPath), 'w') as jsonFile:
+            jsonFile.write("var sampleData = ")
             json.dump(patchDict, jsonFile, indent=2)
 
 
-    def whoAreYou(self):
+    def whoAreYou(self, appendWhitesTo=0):
         params = [
             self.device['vendor'],
             self.device['model'],
@@ -116,7 +119,10 @@ class SoundPatch:
                 'msb:', str(self.msb),
                 'pc:', str(self.programchange)
             ])
-        return ' '.join(params)
+        result = ' '.join(params)
+        if appendWhitesTo == 0:
+            return result
+        return f"{result.ljust(appendWhitesTo)}"
 
 
 class MidiControllableSoundDevice:
@@ -140,6 +146,7 @@ class MidiControllableSoundDevice:
 
         self.audioSampleDir = ""
         self.jsonPath = ""
+        self.color = "default"
         self.patchJsonPaths = {}
 
         for key,value in deviceConfig.items():
@@ -215,6 +222,7 @@ class MidiControllableSoundDevice:
             'uniquePrefix': self.uniquePrefix,
             'vendor': self.vendor,
             'model': self.model,
+            'color': self.color,
             'yearOfConstruction': self.yearOfConstruction,
             'patchSetName': self.patchSetName,
             'midiChannel': self.midiChannel,

@@ -118,7 +118,7 @@ class NoteSequenceChooser:
         return 0.1 + randint(0,1) + random()
 
     def findPhrase(self, term):
-        searchList = self.soundPatch.categories
+        searchList = self.soundPatch.categories[:]
         searchList.append(self.soundPatch.patchname)
         for strings in searchList:
             if re.match(r''+term, strings, re.IGNORECASE):
