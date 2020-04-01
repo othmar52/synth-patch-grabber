@@ -1,4 +1,4 @@
-displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,designer-proximity,designer-name,designer-proximity,original-patchname
+displayname,patchname,msb,lsb,programchange,poly,arp,categories,digitakt-bank,digitakt-sbnk,digitakt-programchange,creator-short,creator,creator-proximity,original-patchname
 A001,Start Up,0,,0,,,Arp,1,,1,T,Tsching (Holger Steinbrink),7,Start Up       T
 A002,70s Pad,0,,1,,,Pad,1,,2,T,Tsching (Holger Steinbrink),8,70s Pad        T
 A003,Tschingeling,0,,2,,,Arp,1,,3,SCD,Something Completely Different (Boele Gerkes),1,Tschingeling SCD
@@ -695,7 +695,7 @@ F053,Rhodos Corso,5,,52,,,Keys,6,,53,WMF,Wolfram Franke,1,Rhodos Corso WMF
 F054,RhodosFlango,5,,53,,,Keys,6,,54,WMF,Wolfram Franke,1,RhodosFlango WMF
 F055,Rodesque,5,,54,,,Keys,6,,55,HS,Howard Scarr,6,Rodesque      HS
 F056,Schwebend,5,,55,,,Keys,6,,56,jh,Joerg Huettner,5,Schwebend     jh
-F057,Shed,5,,56,,,Keys,6,,57,HM,Hubertus Maas,9,Shed          HM
+F057,Shed,5,,56,,,"Keys, Organ",6,,57,HM,Hubertus Maas,9,Shed          HM
 F058,Sick FM,5,,57,,,Keys,6,,58,SK,Unknown (SK),7,Sick FM       SK
 F059,SpaceChimes,5,,58,,,Keys,6,,59,SK,Unknown (SK),3,SpaceChimes   SK
 F060,The Oily Way,5,,59,,,Keys,6,,60,HS,Howard Scarr,2,The Oily Way  HS
